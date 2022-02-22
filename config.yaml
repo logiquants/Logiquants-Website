@@ -1,0 +1,82 @@
+baseurl: https://demo.gethugothemes.com/parsa/examplesite/
+languageCode: en-us
+title: Parsa Hugo | Personal Blog Template
+theme: parsa-hugo
+summaryLength: '10'
+paginate: 6
+googleAnalytics: ''
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+params:
+  address: 6 rip carl Avenue CA 90733
+  author: John Doe
+  author_image: images/banner-img.png
+  bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
+    and identity, digital and print.
+  contact_form_action: '#'
+  cookies:
+    enable: yes
+    expire_days: 2
+  copyright: Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)
+  description: This is meta description
+  email: exmaple@ymail.com
+  home: Home
+  instafeed:
+    access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
+    enable: yes
+  layout: '1'
+  logo: images/logo.png
+  mobile: +90 000 333 22
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/slick/slick.css
+      - link: plugins/themify-icons/themify-icons.css
+    js:
+      - link: plugins/jQuery/jquery.min.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/slick/slick.min.js
+      - link: plugins/headroom/headroom.js
+      - link: plugins/instafeed/instafeed.min.js
+      - link: plugins/masonry/masonry.js
+      - link: plugins/reading-time/readingTime.min.js
+      - link: plugins/smooth-scroll/smooth-scroll.js
+      - link: plugins/search/fuse.min.js
+      - link: plugins/search/mark.js
+      - link: plugins/search/search.js
+  preloader: yes
+  search: yes
+  social:
+    - icon: ti-facebook
+      link: https://facebook.com/themefisher
+    - icon: ti-twitter-alt
+      link: '#'
+    - icon: ti-linkedin
+      link: '#'
+    - icon: ti-github
+      link: '#'
+menu:
+  main:
+    - hasChildren: yes
+      name: Homepage
+      url: ''
+      weight: 1
+    - name: Homepage 1
+      parent: Homepage
+      url: homepage/home-1/
+    - name: Homepage 2
+      parent: Homepage
+      url: homepage/home-2/
+    - name: About
+      url: about/
+      weight: 2
+    - name: Contact
+      url: contact/
+      weight: 3
