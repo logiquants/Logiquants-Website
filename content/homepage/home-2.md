@@ -1,5 +1,5 @@
 ---
 layout: "2"
-title: Homepage 2
+title: Precision Picks
 
 ---
