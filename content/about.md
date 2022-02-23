@@ -5,31 +5,49 @@ image: images/author.jpg
 title: About
 
 ---
-### Hello, our names are Cameron Fryer and John Riley McLaughlin. Thank you for visiting our website. Stay tuned for updates!
+### Hello, our names are Cameron Fryer and John Riley McLaughlin. Thank you for visiting our website, and stay tuned for updates. 
 
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
-generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour
-around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a
-few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling
-stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+#### In the meantime, here are the lyrics to Beachin' by Jake Owen. JR was the first person to ever show the song to Cameron, and thank God he did! Great tune!
 
-I hear the buzz
-of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
-and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that
-universal love which bears and sustains.
+Just watching her blonde hair, sun burn, stare at them  
+Whitecaps rolling over  
+Laid back in a thrift store beach chair  
+Dropping limes in her Corona  
+Well she looks back, yeah, she throws me a kiss  
+Like "Honey, I sure want you"  
+And it's a hundred and three between her and me  
+And only 92 in Daytona
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+And it's sunshine, blue eyes, tan lines, it's low tide  
+Rolling white sand, cold can koozie in my hand, just a summertime strollin'  
+Chillin', breezin', sippin', singin' whoa-oh-oh  
+Beachin'
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+We got two-for-ones, we're at a margarita bar  
+Whatever happens happens  
+And there's a reggae band, full of dread heads  
+Just sittin' in the corner laughin'  
+Well my baby walks over, drops a 20 in a jar  
+She smiles and shakes it at me  
+Yeah, she gets 'em going, she gets 'em playing  
+A little, don't worry, be happy
+
+And it's sunshine, blue eyes, tan lines, it's low tide  
+Rolling white sand, cold can koozie in my hand, just a summertime strollin'  
+Chillin', breezin', sippin', singin' whoa-oh-oh  
+Beachin'
+
+Ah yeah  
+Lil' palm tree leanin'  
+I got a margarita in my hand, I'm doin' a little drinkin'
+
+Talking 'bout  
+Sunshine, blue eyes, tan lines, it's low tide  
+Rolling white sand, cold can koozie in my hand, just a summertime strollin'  
+Chillin', breezin', sippin', singin' whoa-oh-oh  
+Beachin' (aw, we're just beachin')
+
+Sunshine, blue eyes, tan lines, it's low tide (under the palm tree leanin')  
+Rolling white sand, cold can koozie in my hand
+
+P.S. A HUGE Thank you goes out to both Nikki and Emma. We appreciate you :)
