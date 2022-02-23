@@ -71,7 +71,7 @@ menu:
     - name: Homepage 1
       parent: Homepage
       url: homepage/home-1/
-    - name: Homepage 2
+    - name: Precision Picks
       parent: Homepage
       url: homepage/home-2/
     - name: About
