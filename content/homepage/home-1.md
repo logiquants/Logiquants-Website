@@ -1,4 +1,5 @@
 ---
 layout: "1"
-title: Homepage 1
+title: Main
+
 ---
