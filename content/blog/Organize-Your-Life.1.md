@@ -2,7 +2,7 @@
 categories: []
 date: 2019-05-14T08:46:10+00:00
 description: This is meta description
-image: ''
+image: "/uploads/china-russia.jpg"
 tags:
 - Photos
 title: Geopolitical
