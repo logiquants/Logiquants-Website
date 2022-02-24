@@ -2,7 +2,7 @@
 categories:
 - Fashion
 date: 2019-05-14T14:46:10+06:00
-description: Geopolitical
+description: This is meta description
 image: images/featured-post/post-3.jpg
 tags:
 - Fashion
