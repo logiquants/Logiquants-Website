@@ -3,7 +3,7 @@ categories:
 - Article
 date: 2019-05-14T14:46:10+06:00
 description: This is meta description
-image: images/featured-post/post-4.jpg
+image: uploads/Nio.png
 tags:
 - Photos
 - Article
