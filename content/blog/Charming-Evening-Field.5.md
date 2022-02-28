@@ -2,7 +2,7 @@
 categories: []
 date: 2019-05-14T14:46:10+06:00
 description: This is meta description
-image: images/masonary-post/post-6.jpg
+image: "/uploads/china-russia.jpg"
 tags:
 - Photos
 - Food
