@@ -24,3 +24,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- content/blog/3-1-22.md
