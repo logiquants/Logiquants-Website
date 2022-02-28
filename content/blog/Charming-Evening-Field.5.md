@@ -9,7 +9,6 @@ tags:
 - Food
 title: DO NOT TOUCH THIS
 type: post
-draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
