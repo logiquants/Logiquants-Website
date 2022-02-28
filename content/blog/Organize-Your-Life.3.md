@@ -3,7 +3,7 @@ categories:
 - Article
 date: 2019-05-14T14:46:10+06:00
 description: This is meta description
-image: https://www.onceuponapicture.co.uk/wp-content/uploads/2018/01/Franko-Matticchio-Ark-Sinking.jpg
+image: "/uploads/sinkingarkk.jpg"
 tags:
 - Photos
 - Article
