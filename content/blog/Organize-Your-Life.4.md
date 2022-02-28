@@ -3,7 +3,7 @@ categories:
 - Quotes
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-image: images/featured-post/post-5.jpg
+image: "/uploads/charles.jpg"
 tags:
 - Fashion
 - Nature
