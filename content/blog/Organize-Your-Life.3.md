@@ -7,7 +7,7 @@ image: "/uploads/sinkingarkk.jpg"
 tags:
 - Photos
 - Article
-title: '2/28/22-- TSLA / SQ '
+title: 2/28/22 --- $TSLA $SQ Put Trade
 type: featured
 
 ---
