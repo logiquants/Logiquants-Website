@@ -1,3 +1,4 @@
+---
 baseurl: https://demo.gethugothemes.com/parsa/examplesite/
 languageCode: en-us
 title: LogiQuants | Investment Research
@@ -7,21 +8,25 @@ paginate: 6
 googleAnalytics: ''
 outputs:
   home:
-    - HTML
-    - RSS
-    - JSON
+  - HTML
+  - RSS
+  - JSON
 markup:
   goldmark:
     renderer:
-      unsafe: yes
+      unsafe: true
 params:
   address: 6 rip carl Avenue CA 90733
   author: Logiquants'
   author_image: images/Precision.png
-  bio: Strong quantitative skills provide a significant advantage when searching for the best investment opportunities. However, a common issue for those with quantitative expertise is their inability to think logically. That's where LogiQuants comes in. Cut through the noise with our high quality investment research. It makes sense!
-  contact_form_action: '#'
+  bio: Strong quantitative skills provide a significant advantage when searching for
+    the best investment opportunities. However, a common issue for those with quantitative
+    expertise is their inability to think logically. That's where LogiQuants comes
+    in. Cut through the noise with our high quality investment research. It makes
+    sense!
+  contact_form_action: "#"
   cookies:
-    enable: yes
+    enable: true
     expire_days: 2
   copyright: Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)
   description: This is meta description
@@ -29,53 +34,54 @@ params:
   home: Home
   instafeed:
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
-    enable: yes
+    enable: true
   layout: '1'
   logo: images/Logiquants_logo.png
-  mobile: +90 000 333 22
+  mobile: "+90 000 333 22"
   plugins:
     css:
-      - link: plugins/bootstrap/bootstrap.min.css
-      - link: plugins/slick/slick.css
-      - link: plugins/themify-icons/themify-icons.css
+    - link: plugins/bootstrap/bootstrap.min.css
+    - link: plugins/slick/slick.css
+    - link: plugins/themify-icons/themify-icons.css
     js:
-      - link: plugins/jQuery/jquery.min.js
-      - link: plugins/bootstrap/bootstrap.min.js
-      - link: plugins/slick/slick.min.js
-      - link: plugins/headroom/headroom.js
-      - link: plugins/instafeed/instafeed.min.js
-      - link: plugins/masonry/masonry.js
-      - link: plugins/reading-time/readingTime.min.js
-      - link: plugins/smooth-scroll/smooth-scroll.js
-      - link: plugins/search/fuse.min.js
-      - link: plugins/search/mark.js
-      - link: plugins/search/search.js
-  preloader: yes
-  search: yes
+    - link: plugins/jQuery/jquery.min.js
+    - link: plugins/bootstrap/bootstrap.min.js
+    - link: plugins/slick/slick.min.js
+    - link: plugins/headroom/headroom.js
+    - link: plugins/instafeed/instafeed.min.js
+    - link: plugins/masonry/masonry.js
+    - link: plugins/reading-time/readingTime.min.js
+    - link: plugins/smooth-scroll/smooth-scroll.js
+    - link: plugins/search/fuse.min.js
+    - link: plugins/search/mark.js
+    - link: plugins/search/search.js
+  preloader: true
+  search: true
   social:
-    - icon: ti-facebook
-      link: https://facebook.com/themefisher
-    - icon: ti-twitter-alt
-      link: '#'
-    - icon: ti-linkedin
-      link: '#'
-    - icon: ti-github
-      link: '#'
+  - icon: ti-facebook
+    link: https://facebook.com/themefisher
+  - icon: ti-twitter-alt
+    link: "#"
+  - icon: ti-linkedin
+    link: "#"
+  - icon: ti-github
+    link: "#"
 menu:
   main:
-    - hasChildren: yes
-      name: Homepage
-      url: ''
-      weight: 1
-    - name: Homepage 1
-      parent: Homepage
-      url: homepage/home-1/
-    - name: Precision Picks
-      parent: Homepage
-      url: homepage/home-2/
-    - name: About
-      url: about/
-      weight: 2
-    - name: Contact
-      url: contact/
-      weight: 3
+  - url: homepage/home-1/
+    name: Homepage
+    parent: Homepage
+    weight: 1
+  - url: homepage/home-2/
+    name: Precision Picks
+    parent: Homepage
+    weight: 2
+  - url: contact/
+    name: Contact
+    weight: 3
+  - url: about/
+    name: About
+    weight: 2
+  - name: Homepage
+    weight: 1
+    hasChildren: true
