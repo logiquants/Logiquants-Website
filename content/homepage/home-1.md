@@ -1,5 +1,5 @@
 ---
-layout: "1"
+layout: ''
 title: Main
 
 ---
