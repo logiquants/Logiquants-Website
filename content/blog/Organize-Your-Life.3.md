@@ -3,7 +3,7 @@ categories:
 - Article
 date: 2019-05-14T14:46:10+06:00
 description: This is meta description
-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.ch%2Fpin%2F549509592008982363%2F&psig=AOvVaw0568isoNJaFrquFwIWlGG0&ust=1646162023181000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMi8zfWUo_YCFQAAAAAdAAAAABAI
+image: Ark sinking.jpeg
 tags:
 - Photos
 - Article
