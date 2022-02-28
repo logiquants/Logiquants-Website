@@ -7,8 +7,7 @@ image: "/uploads/sinkingarkk.jpg"
 tags:
 - Photos
 - Article
-title: "2/28/22-- TSLA / SQ \n\nCapitalizing on names declining within Cathie Wood's
-  $ARKK ETF with Puts. "
+title: '2/28/22-- TSLA / SQ #PUTS IDEA'
 type: featured
 
 ---
