@@ -21,7 +21,7 @@ With rate hikes expected to rise between 25 & 50 bps at the  Fed's Board meeting
 
 My ultimate goal is to ensure my capital is spread among many  investment positions that can be justified on a combination of their fundamentals (Business' performance/health) , technicals (Charts), or catalysts in the news (Institutional Algo's key on certain headlines & bid stocks to moon). By having an understanding of the relationship between these elements, I'm able to put money to work in an opportunistic fashion & with peace of mind in our volatile world.
 
-By the end of the year, I believe $ARKK will go < $32.50 & $TSLA will see <$375 as borrowing money becomes much more difficult The fundamentals & technicals also suggest both price targets are very well within the realm of possibility. I'm also playing mid June expirations to test my thesis that the market crash will happen in the 1st half of this year.
+By the end of the year, I believe $ARKK will go < $32.50 & $TSLA will see < $375 as borrowing money becomes much more difficult The fundamentals & technicals also suggest both price targets are very well within the realm of possibility. I'm also playing mid June expirations to test my thesis that the market crash will happen in the 1st half of this year.
 
 Cheers,
 
