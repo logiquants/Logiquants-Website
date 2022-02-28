@@ -1,0 +1,25 @@
+---
+label: 3/1/22
+hide_body: false
+fields:
+- type: list
+  name: categories
+  label: categories
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
+- type: text
+  name: type
+  label: type
