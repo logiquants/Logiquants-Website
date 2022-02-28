@@ -7,11 +7,11 @@ image: "/uploads/sinkingarkk.jpg"
 tags:
 - Photos
 - Article
-title: '2/28/22-- TSLA / SQ #PUTS IDEA'
+title: '2/28/22-- TSLA / SQ '
 type: featured
 
 ---
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F600x315%2Fa2%2Fd9%2Fb0%2Fa2d9b0592b2db602d170f1dbf5185e25.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F549509592008982369%2F&tbnid=7E2U5ZMI02A5wM&vet=12ahUKEwjSlqzGjaP2AhWQLt8KHcWoAnUQMygCegUIARCwAQ..i&docid=W_HaTI30fLVx_M&w=400&h=286&q=picture%20of%20sinking%20ark&client=safari&ved=2ahUKEwjSlqzGjaP2AhWQLt8KHcWoAnUQMygCegUIARCwAQ)
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F600x315%2Fa2%2Fd9%2Fb0%2Fa2d9b0592b2db602d170f1dbf5185e25.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F549509592008982369%2F&tbnid=7E2U5ZMI02A5wM&vet=12ahUKEwjSlqzGjaP2AhWQLt8KHcWoAnUQMygCegUIARCwAQ..i&docid=W_HaTI30fLVx_M&w=400&h=286&q=picture%20of%20sinking%20ark&client=safari&ved=2ahUKEwjSlqzGjaP2AhWQLt8KHcWoAnUQMygCegUIARCwAQ "2/28/22 ----- $TSLA $SQ Put Trade")
 
 Two stocks I've been short using long dated puts since October 31st, 2021 are $TSLA & $SQ . These are two stocks that are extremely popular among the retail trading crowd & are also held in large quantities/ heavily weighted in Cathie Wood's $ARKK ETF. ( [https://ark-funds.com/funds/arkk/](https://ark-funds.com/funds/arkk/ "https://ark-funds.com/funds/arkk/") ). Cathie's ETF is notorious for being composed of high growth, overvalued, speculative tech names... Many of which resemble the high flying stocks of the 2000 dot com era. ([https://www.thestreet.com/memestocks/reddit-trends/cathie-woods-ark-innovation-etf-what-a-bubble-looks-like](https://www.thestreet.com/memestocks/reddit-trends/cathie-woods-ark-innovation-etf-what-a-bubble-looks-like "https://www.thestreet.com/memestocks/reddit-trends/cathie-woods-ark-innovation-etf-what-a-bubble-looks-like") )
 
