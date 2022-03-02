@@ -36,7 +36,7 @@ params:
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
     enable: true
   layout: '1'
-  logo: images/Logiquants_logo.png
+  logo: images/new_logo.png
   mobile: "+90 000 333 22"
   plugins:
     css:
