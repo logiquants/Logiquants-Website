@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["TSLA"]
 date = 2022-03-10T19:00:00Z
-description = "TSLA Puts"
+description = "TSLA"
 draft = true
-image = ""
+image = "/uploads/elon.webp"
 tags = []
 title = "3/10/22 - TSLA's Failing Fundamentals "
 type = ""
