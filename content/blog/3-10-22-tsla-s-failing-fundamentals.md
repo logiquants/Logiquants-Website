@@ -8,7 +8,7 @@ title = "3/10/22 TSLA's Failing Fundamentals "
 type = ""
 
 +++
-$TSLA remains one of the most speculative & overvalued stocks in this current NASDAQ bear market. Currently, the stock is trading at $813, & its P/E is 165 (Healthy levels are 20-25). With rates rising, the days of high PE valuations is coming to an end rather quickly.
+$TSLA remains one of the most speculative & overvalued stocks in this current NASDAQ bear market. Currently, the stock is trading at $813, & its P/E is 165 (Healthy levels are 20-25). With rates rising, the days of high PE valuations are coming to an end rather quickly.
 
 If TSLA was trading $100, its PE would be a healthy 20-- Which is ultimately where I see this going.
 
@@ -18,7 +18,7 @@ In the face of QE officially ending on 3/9/22 & at least a 25 BPS hike coming on
 
 TSLA is currently trading in a bearish megaphone pattern & could revisit the low 600s rather soon. Stay tuned!
 
-![](/uploads/screen-shot-2022-03-10-at-1-30-24-pm.png)(Chart courtesy of Finviz.com) 
+![](/uploads/screen-shot-2022-03-10-at-1-30-24-pm.png)(Chart courtesy of Finviz.com)
 
 Cheers,
 
