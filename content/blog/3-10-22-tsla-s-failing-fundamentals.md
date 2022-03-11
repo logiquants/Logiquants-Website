@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/elon.png"
 tags = ["article", "photos"]
 title = "3/10/22 TSLA's Failing Fundamentals "
-type = ""
+type = "featured"
 
 +++
 $TSLA remains one of the most speculative & overvalued stocks in this current NASDAQ bear market. Currently, the stock is trading at $813, & its P/E is 165 (Healthy levels are 20-25). With rates rising, the days of high PE valuations are coming to an end rather quickly.
