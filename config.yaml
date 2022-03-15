@@ -69,7 +69,7 @@ params:
 menu:
   main:
   - url: homepage/home-1/
-    name: Research
+    name: More Research
     parent: Homepage
     weight: 1
   - url: homepage/home-2/
