@@ -7,7 +7,7 @@ tags:
 - Photos
 - Food
 title: GEOPOLITICAL FACTORS
-type: featured
+type: post
 
 ---
 USA & CANADA > RUSSIA
