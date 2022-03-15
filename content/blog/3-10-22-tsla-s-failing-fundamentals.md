@@ -4,7 +4,7 @@ date = 2022-03-10T19:00:00Z
 description = "This is meta description"
 image = "/uploads/elon.png"
 tags = ["article", "photos"]
-title = "3/10/22 TSLA's Failing Fundamentals "
+title = "3/10/22- $TSLA's Failing Fundamentals "
 type = "featured"
 
 +++
