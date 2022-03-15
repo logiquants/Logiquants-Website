@@ -1,13 +1,13 @@
 ---
 categories:
 - Article
-date: 2022-02-28T14:00:00-05:00
+date: 2022-02-28T14:00:00.000-05:00
 description: This is meta description
 image: "/uploads/sinkingarkk.jpg"
 tags:
 - Photos
 - Article
-title: 2/28/22 JR's $TSLA + $SQ Put Trade
+title: 2/28/22- $TSLA + $SQ Puts
 type: featured
 
 ---
