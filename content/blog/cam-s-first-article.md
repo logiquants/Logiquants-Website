@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/cams-face.jpg"
 tags = ["photos", "article"]
 title = "Cam's first article"
-type = "post"
+type = "featured"
 
 +++
 Hey, What's up?
