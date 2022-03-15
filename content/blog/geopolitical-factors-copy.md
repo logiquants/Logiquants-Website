@@ -8,3 +8,4 @@ title = "Cam's first article"
 type = "post"
 
 +++
+hello, what's up?
