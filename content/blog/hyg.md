@@ -3,7 +3,7 @@ categories = ["article"]
 date = 2022-03-15T15:05:00Z
 description = "This is meta description"
 image = "/uploads/screen-shot-2022-03-15-at-11-07-40-am.png"
-tags = ["Article"]
+tags = ["photos", "article"]
 title = "3/15/22 - $SPX Death Cross"
 type = "Featured"
 
