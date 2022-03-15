@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/screen-shot-2022-03-15-at-11-07-40-am.png"
 tags = ["photos", "article"]
 title = "3/15/22 - $SPX Death Cross"
-type = "Featured"
+type = "featured"
 
 +++
 On March 11, 2022, the S&P500 officially death crossed for the first time since March 2020. This 'Death Cross' takes place when the 50-day moving average crosses beneath the 200-day moving average. It not only signals bearish momentum in the market, but in recent history, it also triggered the federal reserve to cut interest rates and print more money to keep equity prices 'stable'. However, this time their choice may actually be different.
