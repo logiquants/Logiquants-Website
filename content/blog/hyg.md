@@ -1,8 +1,7 @@
 +++
 categories = []
-date = ""
-description = ""
-draft = true
+date = 2022-03-15T15:05:00Z
+description = "SPX DEATH CROSS"
 image = ""
 tags = []
 title = "3/15/22 - $SPX Death Cross"
