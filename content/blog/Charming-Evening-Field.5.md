@@ -11,5 +11,3 @@ type: post
 
 ---
 USA & CANADA > RUSSIA
-
-![](../images/post-img.jpg)
