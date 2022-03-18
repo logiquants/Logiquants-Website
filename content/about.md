@@ -1,11 +1,13 @@
 ---
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-image: images/me2.jpg
+image: ''
 title: About
 
 ---
-### Hello, our names are Cameron Fryer and John Riley McLaughlin. Thank you for visiting our website, and stay tuned for updates. 
+/uploads/me.jpg
+
+### Hello, our names are Cameron Fryer and John Riley McLaughlin. Thank you for visiting our website, and stay tuned for updates.
 
 #### In the meantime, here are the lyrics to Beachin' by Jake Owen. JR was the first person to ever show the song to Cameron, and thank God he did! Great tune!
 
