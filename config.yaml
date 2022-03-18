@@ -16,7 +16,7 @@ markup:
     renderer:
       unsafe: true
 params:
-  address: 6 rip carl Avenue CA 90733
+  address: Toronto, ON. Canada
   author: Logiquants'
   author_image: images/Precision.png
   bio: Strong quantitative skills provide a significant advantage when searching for
