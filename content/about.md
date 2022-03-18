@@ -14,3 +14,5 @@ title: About
 ##### In terms of educational background, Cameron spent two years studying Actuarial Science at Western University.  From there, he transferred to the University of Toronto, where he specialized in Statistics.
 
 More investing experience
+
+#### John Riley McLaughlin - Co-Founder & President
