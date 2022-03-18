@@ -5,7 +5,7 @@ image: ''
 title: About
 
 ---
-/uploads/me.jpg
+![](/uploads/me.jpg)
 
 ### Hello, our names are Cameron Fryer and John Riley McLaughlin. Thank you for visiting our website, and stay tuned for updates.
 
