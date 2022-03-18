@@ -5,7 +5,7 @@ image: ''
 title: About
 
 ---
-#### **Cameron Fryer - Founder & CEO**
+#### **_Cameron Fryer - Founder & CEO_**
 
 ![](/uploads/me2.jpg)
 
