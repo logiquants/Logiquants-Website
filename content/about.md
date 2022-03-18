@@ -5,9 +5,9 @@ image: ''
 title: About
 
 ---
-![](/uploads/me2.jpg)
+![Cameron Fryer - Founder & CEO](/uploads/me2.jpg "Cameron Fryer - Founder & CEO")
 
-##### Before starting LogiQuants, Cameron worked at TD Direct Investing as an Investment Representative. While there, he completed both the CSC® and CPH® from the Canadian Securities Institute. Prior to his time with TD, Cameron traded independently on a full-time basis. 
+##### Before starting LogiQuants, Cameron worked at TD Direct Investing as an Investment Representative. While there, he completed both the CSC® and CPH® from the Canadian Securities Institute. Prior to his time with TD, Cameron traded independently on a full-time basis.
 
 ##### In terms of educational background, Cameron spent two years studying Actuarial Science at Western University.  From there, he transferred to the University of Toronto, where he specialized in Statistics.
 
