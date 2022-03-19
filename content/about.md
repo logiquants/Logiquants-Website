@@ -15,4 +15,4 @@ title: About
 
 More investing experience
 
-#### John Riley McLaughlin - Co-Founder & President
+#### _John Riley McLaughlin - Co-Founder & President_
