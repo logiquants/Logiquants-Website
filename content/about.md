@@ -18,4 +18,6 @@ More investing experience
 ㅤ  
 ㅤ
 
+ㅤ
+
 #### _John Riley McLaughlin - Co-Founder & President_
