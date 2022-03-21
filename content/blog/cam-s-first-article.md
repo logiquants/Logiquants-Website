@@ -8,8 +8,8 @@ title = "3/15/22 - "
 type = "post"
 
 +++
-ㅤEverybody's talking about it lately - prices at the pumps are sky high! Although they have fallen since last week and could continue to short term, I'm confident gas prices will rise medium and long term. Yes, interest rates are increasing and asset prices should decrease accordingly. But there are additional factors to consider with oil and gas. 
+Everybody's talking about it lately - prices at the pumps are sky high! Although they have fallen since last week and could continue to short term, I'm confident gas prices will rise medium and long term. Yes, interest rates are increasing and asset prices should decrease accordingly. But there are additional factors to consider with oil and gas. 
 
-ㅤBefore diving in, let's first remind ourselves what increasing interest rates mean for the economy as a whole: less money in circulation. With less money circulating in the economy, the population will have less money at their disposal than they previously did. In other words, members of the population will be forced to make choices about where they spend their money. This is basic economics - limited resources and unlimited wants.
+Before diving in, let's first remind ourselves what increasing interest rates mean for the economy as a whole: less money in circulation. With less money circulating in the economy, the population will have less money at their disposal than they previously did. In other words, members of the population will be forced to make choices about where they spend their money. This is basic economics - limited resources and unlimited wants.
 
 Photo by [Colton Sturgeon](https://unsplash.com/@coltonsturgeon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/petroleum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
