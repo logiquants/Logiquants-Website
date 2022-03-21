@@ -38,7 +38,7 @@ If I were to put myself in the shoes of these OPEC-Esq players—full of greed/ 
 
 Should the fact many of these countries have nuclear capabilities worry NATO? Of course. Western leaders will have to dance carefully both diplomatically & if it comes down to it, militarily.
 
-Today, China is in the process of making a very difficult decision. Will China choose their alliance based on the autocratic/ dictatorship governments of the modern “Axis of Evil/ Oil dependent nations”, or will they choose the right side of history— Progress & innovation. Peace. Love. The “golden age of technology.” Maybe the future even allows China to keep some of its authoritarian characteristics. (The WEF’s Davo’s agenda certainly suggests this is possible worldwide with a collaboration of private & public players). Ultimately, the door is wide open for China to choose its own destiny. I hope they choose goodness.
+Today, China is in the process of making a very difficult decision. Will China choose their alliance based on the autocratic/ dictatorship governments of the modern “Axis of Evil/ Oil dependent nations", or will they choose the right side of history? — Progress & innovation. Peace. Love. The “golden age of technology.” Maybe the future even allows China to keep some of its authoritarian characteristics. (The WEF’s Davo’s agenda certainly suggests this is possible worldwide with a collaboration of private & public players). Ultimately, the door is wide open for China to choose its own destiny. I hope they choose goodness.
 
 Could technology ultimately be pushing mankind toward the theme of “A brotherhood of man”? The same theme John Lennon played on in his song “Imagine”? I’d like to think so. That gives me hope for our future. A future founded on love.
 
