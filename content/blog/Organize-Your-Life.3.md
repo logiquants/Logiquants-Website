@@ -8,7 +8,7 @@ tags:
 - Photos
 - Article
 title: 2/28/22- $TSLA + $SQ Puts
-type: featured
+type: post
 
 ---
 ![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F600x315%2Fa2%2Fd9%2Fb0%2Fa2d9b0592b2db602d170f1dbf5185e25.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F549509592008982369%2F&tbnid=7E2U5ZMI02A5wM&vet=12ahUKEwjSlqzGjaP2AhWQLt8KHcWoAnUQMygCegUIARCwAQ..i&docid=W_HaTI30fLVx_M&w=400&h=286&q=picture%20of%20sinking%20ark&client=safari&ved=2ahUKEwjSlqzGjaP2AhWQLt8KHcWoAnUQMygCegUIARCwAQ "2/28/22 ----- JR's $TSLA + $SQ Put Trade")
