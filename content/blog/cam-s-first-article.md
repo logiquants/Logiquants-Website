@@ -18,6 +18,6 @@ Now that Covid-19 mandates are coming to an end, much of the workforce will be r
 
 ***
 
-<sup>1</sup> Government of Canada, Statistics Canada, “Household Spending, Canada, Regions and Provinces,” Household spending, Canada, regions and provinces (Government of Canada, Statistics Canada, January 22, 2021), [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201. "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.")
+<sup>1</sup>Government of Canada, Statistics Canada, “Household Spending, Canada, Regions and Provinces,” Household spending, Canada, regions and provinces (Government of Canada, Statistics Canada, January 22, 2021), [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201. "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.")
 
 Photo by [Colton Sturgeon](https://unsplash.com/@coltonsturgeon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/petroleum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
