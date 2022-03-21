@@ -15,7 +15,7 @@ Before diving in, let's first remind ourselves what increasing interest rates me
 
 With that said, ask yourself where you think the average consumer spends most of their money. According to Statistics Canada's numbers from 2019, transportation accounted for roughly 13.6% of all household spending.¹ But these numbers are from before the Covid-19 Pandemic, and a lot has taken place since then. For example, many people living in cities headed for more rural places to live. 
 
-Now that Covid-19 mandates are coming to an end, much of the workforce will be required to commute to work again. For those who ditched urban living, this means a longer commute to work and more money spent on gas (assuming they don't own an electric vehicle, like most Canadians). On top of that, Ontario is currently administering shortened G road tests to handle the huge backlog
+Now that Covid-19 mandates are coming to an end, much of the workforce will be required to commute to work again. For those who ditched urban living, this means a longer commute to work and more money spent on gas (assuming they don't own an electric vehicle, like most Canadians). On top of that, Ontario is currently administering shortened G road tests to handle the huge "backlog caused by COVID-19 restrictions and closures."<sup>2</sup>
 
 ***
 
