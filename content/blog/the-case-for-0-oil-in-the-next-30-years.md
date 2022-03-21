@@ -4,7 +4,7 @@ date = 2022-03-21T13:52:00Z
 description = "this is meta description"
 image = "/uploads/format.png"
 tags = []
-title = "The Case for $0 Oil in The Next 30 years"
+title = "3/21/22- The Case for $0 Oil in The Next 30 years"
 type = "featured"
 
 +++
