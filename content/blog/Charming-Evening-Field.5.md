@@ -8,6 +8,7 @@ tags:
 - Food
 title: GEOPOLITICAL FACTORS
 type: post
+draft: true
 
 ---
 USA & CANADA > RUSSIA
