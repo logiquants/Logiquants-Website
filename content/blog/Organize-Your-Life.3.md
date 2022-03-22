@@ -7,7 +7,7 @@ image: "/uploads/format.png"
 tags:
 - Photos
 - Article
-title: 2/28/22- $TSLA + $SQ Puts
+title: 2/28/22- $TSLA + $SQ Bear Case
 type: post
 
 ---
