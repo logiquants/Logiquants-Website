@@ -21,6 +21,8 @@ Between longer commutes to work and additional drivers on the road, there will b
 
 From an investment perspective, my favourite company in the Oil and Gas sector is Crescent Point Energy Corp ($CPG). In fact, I'm biased, as I'm an investor myself. Crescent Point is an exploration and production company based in Calgary, Alberta. 
 
+_*check rule online_
+
 ***
 
 <sup>1</sup>Government of Canada, Statistics Canada, “Household Spending, Canada, Regions and Provinces,” Household spending, Canada, regions and provinces (Government of Canada, Statistics Canada, January 22, 2021), [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201. "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.")
