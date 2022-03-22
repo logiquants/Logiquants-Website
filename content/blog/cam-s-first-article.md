@@ -19,6 +19,8 @@ Now that Covid-19 mandates are coming to an end, much of the workforce will be r
 
 Between longer commutes to work and additional drivers on the road, there will be a lot more gas needed. Gas is made from crude oil. Pair the increase in its demand with the United States of America's ban on Russian oil imports, and we have a recipe for prices to increase. After all, the United States will need to import extra oil from somewhere, and Canada is a likely source. Finally, I believe consumers would forgo other goods and services to maintain the role that transportation plays in their lives, rather than use less gas.
 
+From an investment perspective, my favourite company in the Oil and Gas sector is Crescent Point Energy Corp ($CPG). In fact, I'm biased, as I'm an investor myself. Crescent Point is an exploration and production company based in Calgary, Alberta. 
+
 ***
 
 <sup>1</sup>Government of Canada, Statistics Canada, “Household Spending, Canada, Regions and Provinces,” Household spending, Canada, regions and provinces (Government of Canada, Statistics Canada, January 22, 2021), [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201. "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.")
