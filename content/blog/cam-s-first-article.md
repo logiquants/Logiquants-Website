@@ -26,7 +26,7 @@ Between John Patrick Dielwart making the biggest insider buy of $CPG in more tha
 
 _*cite anything in the last 3 or 4 paragraphs_
 
-##### **Disclosure:** At the time of writing, I, Cameron Fryer, own shares of Crescent Point Energy Corp.
+###### **Disclosure:** At the time of writing, I, Cameron Fryer, own shares of Crescent Point Energy Corp.
 
 ***
 
