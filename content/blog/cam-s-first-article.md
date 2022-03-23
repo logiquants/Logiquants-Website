@@ -18,15 +18,15 @@ Now that Covid-19 mandates are coming to an end, much of the workforce will be r
 
 Between longer commutes to work and additional drivers on the road, there will be a lot more gas needed. Gas is made from crude oil. Pair the increase in its demand with the United States of America's ban on Russian oil imports, and we have a recipe for prices to increase. After all, the United States will need to import extra oil from somewhere, and Canada is a likely source. Finally, I believe consumers would forgo other goods and services to maintain the role that transportation plays in their lives, rather than use less gas.
 
-From an investment perspective, the Oil and Gas sector presents amazing opportunities at the moment. My favourite company is Crescent Point Energy Corp ($CPG). In fact, I'm biased, as I'm an investor myself. Crescent Point is an exploration and production company based in Calgary, Alberta. With a Price/Book ratio of 0.93 and a Price/Earnings ttm ratio of 2.13, $CPG shares are certainly undervalued. 
+From an investment perspective, the Oil and Gas sector presents amazing opportunities at the moment. My favourite company is Crescent Point Energy Corp ($CPG). I'm biased, as I'm an investor myself. Crescent Point is an exploration and production company based in Calgary, Alberta. With a Price/Book ratio of 0.93 and a Price/Earnings (ttm) ratio of 2.13, $CPG shares are certainly undervalued.
 
-While undervalued shares are appealing from a risk standpoint, another reason $CPG shares are attractive is the momentum they have signalled recently. On March 8th, 2022 shares of Crescent Point hit a new 52-week high of $10.08 - a price level last seen in July of 2018. The value delivered to shareholders has also been impressive; namely, a 50% dividend increase from the fourth quarter of 2021 to the first quarter of 2022. Insider trading is yet another attention-drawing factor for shares of $CPG. More specifically, on Dec. 16, 2021, insider John Patrick Dielwart purchased all of his 175,000 shares at about $6.15 each, and Crescent Point's CEO,  Craig Stephen Bryksa, holds more shares than he ever has in the past. 
+While undervalued shares are appealing from a risk standpoint, another reason $CPG shares are attractive is the momentum they have signalled recently. On March 8th, 2022 shares of Crescent Point hit a new 52-week high of $10.08 - a price level last seen in July of 2018. The value delivered to shareholders has also been impressive; namely, a 50% dividend increase from the fourth quarter of 2021 to the first quarter of 2022. This makes the annual dividend yield approximately 2.1%. Insider trading is yet another attention-drawing factor for shares of $CPG. More specifically, on Dec. 16, 2021, insider John Patrick Dielwart purchased all of his 175,000 shares at about $6.15 each, and Crescent Point's CEO, Craig Stephen Bryksa, holds more shares than he ever has in the past.
 
-Between John Patrick Dielwart making the biggest insider buy of $CPG in more than 4 years, and the CEO holding more shares than ever before, it's very unlikely to be coincidental. Last but not least, shares of Crescent Point Energy Corp trade on both the TSX and the NYSE. Compared to a company that is only listed on one of the exchanges, Crescent Point should have much greater exposure to new investors. 
+Between John Patrick Dielwart making the biggest insider buy of $CPG in more than 4 years, and the CEO holding more shares than ever before, it's very unlikely to be coincidental. Last but not least, shares of Crescent Point Energy Corp trade on both the TSX and the NYSE. Compared to a company that's listed on only one of the exchanges, Crescent Point should have much greater exposure to new investors. $CPG closed at $8.45 (CAD dollars) today, and my price target is $15.00 (CAD) within the next 18 months.
 
- , i, my price target and time frame - 
+_*cite anything in the last 3 or 4 paragraphs_
 
-_*check rule online and also cite anything in last 3 or 4 paragraphs_
+##### **Disclosure:** At the time of writing, I, Cameron Fryer, own shares of Crescent Point Energy Corp.
 
 ***
 
