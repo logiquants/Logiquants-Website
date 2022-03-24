@@ -28,7 +28,7 @@ Between John Patrick Dielwart making the biggest insider buy of $CPG in more tha
 
 ***
 
-<sup>1</sup>Government of Canada, Statistics Canada, “Household Spending, Canada, Regions and Provinces,” Household spending, Canada, regions and provinces (Government of Canada, Statistics Canada, January 22, 2021), [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201. "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.")
+<span style="font-family:Times New Roman; font-size:4em;"><sup>1</sup>Government of Canada, Statistics Canada, “Household Spending, Canada, Regions and Provinces,” Household spending, Canada, regions and provinces (Government of Canada, Statistics Canada, January 22, 2021), [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201. "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.")
 
 <sup>2</sup>Ryan Rocca, “Ontario Temporarily Shortens G Road Tests to Reduce Backlog,” Global News (Global News, January 11, 2022), [https://globalnews.ca/news/8503055/ontario-shortening-g-road-tests/#:\~:text=The%20Ontario%20government%20says%20road,COVID%2D19%20restrictions%20and%20closures.](https://globalnews.ca/news/8503055/ontario-shortening-g-road-tests/#:\~:text=The%20Ontario%20government%20says%20road,COVID%2D19%20restrictions%20and%20closures. "https://globalnews.ca/news/8503055/ontario-shortening-g-road-tests/#:~:text=The%20Ontario%20government%20says%20road,COVID%2D19%20restrictions%20and%20closures.")
 
@@ -36,4 +36,4 @@ Between John Patrick Dielwart making the biggest insider buy of $CPG in more tha
 
 <sup>4</sup>Crescent Point Energy Corp., “Crescent Point Announces 2022 Budget and Increased Return of Capital to Shareholders,” Cision Canada, December 6, 2021, [https://www.newswire.ca/news-releases/crescent-point-announces-2022-budget-and-increased-return-of-capital-to-shareholders-847615425.html.](https://www.newswire.ca/news-releases/crescent-point-announces-2022-budget-and-increased-return-of-capital-to-shareholders-847615425.html. "https://www.newswire.ca/news-releases/crescent-point-announces-2022-budget-and-increased-return-of-capital-to-shareholders-847615425.html.")
 
-Photo by [Colton Sturgeon](https://unsplash.com/@coltonsturgeon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/petroleum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo by [Colton Sturgeon](https://unsplash.com/@coltonsturgeon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/petroleum?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</span>
