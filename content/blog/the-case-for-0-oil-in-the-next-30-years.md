@@ -2,10 +2,9 @@
 categories = ["Article"]
 date = 2022-03-21T13:52:00Z
 description = "this is meta description"
-draft = true
 image = "/uploads/format.png"
 tags = []
-title = "3/21/22- The Case for $0 Oil"
+title = "3/21/22- Propelling Toward A Fossil Fuel Free Future"
 type = "featured"
 
 +++
