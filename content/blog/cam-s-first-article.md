@@ -24,6 +24,8 @@ While undervalued shares are appealing from a risk standpoint, another reason $C
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Between John Dielwart making the biggest insider buy of $CPG in more than 4 years, and the CEO holding more shares than ever before, it's very unlikely to be coincidental. Last but not least, shares of Crescent Point Energy Corp. trade on both the TSX and the NYSE. Compared to a company that's listed on only one of the exchanges, Crescent Point should have much greater exposure to new investors. $CPG closed at $8.45 (CAD dollars) today, and my price target is $15.00 (CAD) within the next 18 months.</span></span>
 
+ㅤ
+
 ###### **Disclosure:** At the time of writing, I, Cameron Fryer, own shares of Crescent Point Energy Corp.
 
 ***
