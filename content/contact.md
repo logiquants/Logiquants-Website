@@ -5,4 +5,3 @@ layout: contact
 title: Contact
 
 ---
-@JRC_Trading
