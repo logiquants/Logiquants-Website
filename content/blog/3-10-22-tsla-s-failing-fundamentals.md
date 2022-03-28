@@ -2,6 +2,7 @@
 categories = ["article"]
 date = 2022-03-10T19:00:00Z
 description = "This is meta description"
+draft = true
 image = "/uploads/format.png"
 tags = ["article", "photos"]
 title = "3/10/22- $TSLA's Shaky Fundamentals "
