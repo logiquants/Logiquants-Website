@@ -73,7 +73,7 @@ menu:
     parent: Homepage
     weight: 1
   - url: homepage/home-2/
-    name: Precision Picks
+    name: Premium Research
     parent: Homepage
     weight: 2
   - url: contact/
