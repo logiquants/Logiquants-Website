@@ -7,7 +7,7 @@ image: ''
 tags:
 - Photos
 - Article
-title: ''
+title: draft
 type: post
 draft: true
 
