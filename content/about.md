@@ -11,6 +11,6 @@ title: About
 
 ##### Before starting LogiQuants, Cameron worked at TD Direct Investing as an Investment Representative. While there, he completed both the CSC® and CPH® from the Canadian Securities Institute. Prior to his time with TD, Cameron traded independently on a full-time basis.
 
-##### In terms of educational background, Cameron spent 2 years studying Actuarial Science at Western University.  From there, he transferred to the University of Toronto, where he specialized in Statistics. Among the many different subjects he learned were Computer Science, Data Analysis, Probability, Accounting, Business Analysis, Economics, and Econometrics.
+##### In terms of educational background, Cameron spent 2 years studying Actuarial Science at Western University.  From there, he transferred to the University of Toronto, where he specialized in Statistics.
 
-##### Though he already knew quite a bit at the time, Cameron first began investing in 2017. Cameron is very fortunate to have been taught by his grandfather, as he has been trading stocks full-time for the last 15 years. In addition to his grandfather's teachings, Cameron learned as much as he could about investing during his free time. Technical analysis and cryptocurrencies are two of the main topics he educated himself on.
+##### Though he already knew quite a bit at the time, Cameron first began investing in 2017. He is fortunate to have learned from his grandfather, who has been trading stocks full-time for the last 15 years. In addition to his grandfather's teachings, Cameron learned as much as he could about investing during his free time.
