@@ -59,9 +59,9 @@ params:
   search: true
   social:
   - icon: ti-facebook
-    link: https://facebook.com/themefisher
+    link: https://www.facebook.com/Logiquants
   - icon: ti-twitter-alt
-    link: "#"
+    link: https://twitter.com/logiquants
   - icon: ti-linkedin
     link: "#"
   - icon: ti-github
