@@ -28,7 +28,7 @@ params:
   cookies:
     enable: true
     expire_days: 2
-  copyright: Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)
+  copyright: &copy;2022 Logiquants Ltd. | Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)
   description: This is meta description
   email: contact@logiquants.ca
   home: Home
