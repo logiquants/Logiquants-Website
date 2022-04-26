@@ -65,9 +65,9 @@ params:
     link: https://twitter.com/logiquants
   - icon: ti-linkedin
     link: https://www.linkedin.com/company/logiquants/
-  - icon: ti-youtube
-    link: "#"
   - icon: ti-instagram
+    link: "#"
+  - icon: ti-youtube
     link: "#"
 menu:
   main:
