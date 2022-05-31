@@ -218,5 +218,3 @@ If you have any complaints about how we process your personal data, please conta
 If you have any questions, concerns or complaints, you can contact our privacy officer, Cameron Fryer, at:
 
 [cameron@logiquants.ca](mailto:cameron@logiquants.ca)
-
-©2002-2022 LawDepot.ca®
