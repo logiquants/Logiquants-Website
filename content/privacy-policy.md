@@ -18,7 +18,9 @@ type = ""
 
 ‎
 
-<div style="display: inline">contact@logiquants.ca</div> ‎________________________________________ 
+<div style="display: inline">contact@logiquants.ca</div>
+
+‎________________________________________ 
 
 ADDRESS GOES HERE, Toronto, ON, M5J 1C4
 
