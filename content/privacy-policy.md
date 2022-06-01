@@ -16,7 +16,9 @@ type = ""
 
 <div style="display: inline">www.logiquants.ca</div> (the "Site") is owned and operated by Logiquants Ltd. Logiquants Ltd is the data controller and can be contacted at:
 
-contact@logiquants.ca ________________________________________ ADDRESS GOES HERE, Toronto, ON, M5J 1C4
+<div style="display: inline">contact@logiquants.ca</div> ________________________________________ 
+
+ADDRESS GOES HERE, Toronto, ON, M5J 1C4
 
 **Purpose**
 
