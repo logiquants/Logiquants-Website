@@ -8,7 +8,7 @@ title = "Privacy Policy"
 type = ""
 
 +++
-<h1 align=center>**www.logiquants.ca Privacy Policy**
+<h1 align=center>**www.logiquants.ca Privacy Policy**</h1>
 
 Type of website: Blog Effective date: 24th day of May, 2022
 
