@@ -10,7 +10,9 @@ type = ""
 +++
 <h3 align=center>www.logiquants.ca Privacy Policy</h3>
 
-Type of website: Blog Effective date: 24th day of May, 2022
+<align=center>Type of website: Blog 
+
+Effective date: 24th day of May, 2022</>
 
 www.logiquants.ca (the "Site") is owned and operated by Logiquants Ltd. Logiquants Ltd is the data controller and can be contacted at:
 
