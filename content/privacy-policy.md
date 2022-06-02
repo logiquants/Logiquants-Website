@@ -139,7 +139,7 @@ We will not sell or share your data with other third parties, except in the foll
 
 If you follow hyperlinks from our Site to another Site, please note that we are not responsible for and have no control over their privacy policies and practices.
 
-**How Long We Store Personal Data** 
+**How Long We Store Personal Data**
 
 User data will be stored for two years.
 
@@ -153,7 +153,7 @@ While we take all reasonable precautions to ensure that user data is secure and 
 
 **International Data Transfers**
 
-We transfer user personal data to the following countries: 
+We transfer user personal data to the following countries:
 
 1\. United States.
 
@@ -202,7 +202,9 @@ A cookie is a small file, stored on a user's hard drive by a website. Its purpos
 
 We use the following types of cookies on our Site:
 
-1\. Functional cookies
+1\. _Functional cookies_  
+    Functional cookies are used to remember the selections you make on our Site  
+    so that your selections are saved for your next visits;
 
 Functional cookies are used to remember the selections you make on our Site so that your selections are saved for your next visits;
 
