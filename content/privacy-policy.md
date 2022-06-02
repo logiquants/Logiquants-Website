@@ -34,6 +34,12 @@ The purpose of this privacy policy (this "Privacy Policy") is to inform users of
 
 </ol>
 
+<ol start="1">
+
+<li value="1"><span>The personal data we will collect;</span>
+
+</ol>
+
 2\. Use of collected data;
 
 3\. Who has access to the data collected;
