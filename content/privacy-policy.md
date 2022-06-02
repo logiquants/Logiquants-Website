@@ -187,6 +187,7 @@ We do not knowingly collect or use personal data from children under 16 years of
 If you would like to know if we have collected your personal data, how we have used your personal data, if we have disclosed your personal data and to who we disclosed your personal data, if you would like your data to be deleted or modified in any way, or if you would like to exercise any of your other rights under the GDPR, please contact our privacy officer here:
 
 <div style="display: inline">Cameron Fryer</div>  
+‎  
 <div style="display: inline">cameron@logiquants.ca</div>
 
 ‎________________________________________  
