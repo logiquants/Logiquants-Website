@@ -45,9 +45,8 @@ We have not appointed a Data Protection Officer as we do not fall within the cat
 
 **Consent**
 
-By using our Site users agree that they consent to:
-
-1. • The conditions set out in this Privacy Policy.
+By using our Site users agree that they consent to:  
+1\. The conditions set out in this Privacy Policy.
 
 When the legal basis for us processing your personal data is that you have provided your consent to that processing, you may withdraw your consent at any time. If you withdraw your consent, it will not make processing which we completed before you withdrew your consent unlawful.
 
