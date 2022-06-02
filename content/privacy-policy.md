@@ -202,19 +202,19 @@ A cookie is a small file, stored on a user's hard drive by a website. Its purpos
 
 We use the following types of cookies on our Site:
 
-1. Functional cookies
+1\. Functional cookies
 
 Functional cookies are used to remember the selections you make on our Site so that your selections are saved for your next visits;
 
-1. Analytical cookies
+2\. Analytical cookies
 
 Analytical cookies allow us to improve the design and functionality of our Site by collecting data on how you access our Site, for example data on the content you access, how long you stay on our Site, etc;
 
-1. Targeting cookies
+3\. _Targeting cookies_
 
 Targeting cookies collect data on how you use the Site and your preferences. This allows us to personalize the information you see on our Site for you; and
 
-1. Third-Party Cookies
+_4. Third-Party Cookies_
 
 Third-party cookies are created by a website other than ours. We may use third-party cookies to achieve the following purposes:
 
