@@ -59,34 +59,38 @@ We collect and process personal data about users in the EU only when we have a l
 
 We rely on the following legal bases to collect and process the personal data of users in the EU:
 
-1. Users have provided their consent to the processing of their data for one or more specific purposes; and
-2. Processing of user personal data is necessary for us or a third pary to pursue a legitimate interest. Our legitimate interest is not overriden by the interests or fundamenal rights and freedoms of users. Our legitimate interest(s) are: To Contact our Website's users to review the purchase, renewal and support of the services and products we offer..
+1. • Users have provided their consent to the processing of their data for one or more specific purposes; and  
+   • Processing of user personal data is necessary for us or a third pary to pursue a legitimate interest. Our legitimate interest is not overriden by the interests or fundamenal rights and freedoms of users. Our legitimate interest(s) are: To Contact our Website's users to review the purchase, renewal and support of the services and products we offer.
+2. 
 
 **Personal Data We Collect**
 
 We only collect data that helps us achieve the purpose set out in this Privacy Policy. We will not collect any additional data beyond the data listed below without notifying you first.
 
-Data Collected Automatically
+_Data Collected Automatically_
 
 When you visit and use our Site, we may automatically collect and store the following information:
 
-1. • IP address;
-2. Location;
-3. Hardware and software details;
-4. Clicked links; and
-5. Content viewed.
+1. • IP address;  
+   • Location;  
+   • Hardware and software details;  
+   • Clicked links; and  
+   • Content viewed.
+2. 
 
-Data Collected in a Non-Automatic Way
+_Data Collected in a Non-Automatic Way_
 
 We may also collect the following data when you perform certain functions on our Site:
 
-1. First and last name;
-2. Email address;
-3. Phone number;
-4. Address; and
-5. Payment information.
+1. • First and last name;  
+   • Email address;  
+   • Phone number;  
+   • Address; and  
+   • Payment information.
+2. 
 
-This data may be collected using the following methods: 1. Creating an account.
+This data may be collected using the following methods:   
+1\. Creating an account.
 
 **How We Use Personal Data**
 
