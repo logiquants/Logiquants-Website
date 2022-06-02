@@ -30,10 +30,13 @@ The purpose of this privacy policy (this "Privacy Policy") is to inform users of
 
 1\. The personal data we will collect;
 
-1. Use of collected data;
-2. Who has access to the data collected;
-3. The rights of Site users; and
-4. The Site's cookie policy.
+2\. Use of collected data;
+
+3\. Who has access to the data collected;
+
+4\. The rights of Site users; and
+
+5\. The Site's cookie policy.
 
 This Privacy Policy applies in addition to the terms and conditions of our Site.
 
