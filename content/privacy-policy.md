@@ -189,7 +189,7 @@ If you would like to know if we have collected your personal data, how we have u
 Cameron Fryer  
 <div style="display: inline">cameron@logiquants.ca</div>
 
-________________________________________ 
+‎________________________________________ 
 
 ________________________________________
 
