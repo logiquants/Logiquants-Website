@@ -188,7 +188,7 @@ If you would like to know if we have collected your personal data, how we have u
 
 <div style="display: inline">Cameron Fryer  
   
-cameron@logiquants.ca</div>
+<div style="display: inline">cameron@logiquants.ca</div></div>
 
 ‎________________________________________  
 ‎________________________________________
