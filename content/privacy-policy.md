@@ -77,8 +77,6 @@ Data Collected Automatically
 
 When you visit and use our Site, we may automatically collect and store the following information:
 
-* erer
-
 1. IP address;
 2. Location;
 3. Hardware and software details;
