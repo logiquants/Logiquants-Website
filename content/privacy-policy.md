@@ -77,11 +77,15 @@ Data Collected Automatically
 
 When you visit and use our Site, we may automatically collect and store the following information:
 
+&nbsp;
+
 1. IP address;
 2. Location;
 3. Hardware and software details;
 4. Clicked links; and
 5. Content viewed.
+
+   &nbsp;
 
 Data Collected in a Non-Automatic Way
 
