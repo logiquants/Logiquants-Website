@@ -75,13 +75,13 @@ We only collect data that helps us achieve the purpose set out in this Privacy P
 
 Data Collected Automatically
 
-When you visit and use our Site, we may automatically collect and store the following information:  
+When you visit and use our Site, we may automatically collect and store the following information:
 
-1. IP address;
-2. Location;
-3. Hardware and software details;
-4. Clicked links; and
-5. Content viewed.  
+1. 1. IP address;
+2. 2. Location;
+3. 3. Hardware and software details;
+4. 4. Clicked links; and
+5. 5. Content viewed.
 
 Data Collected in a Non-Automatic Way
 
