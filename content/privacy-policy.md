@@ -28,7 +28,11 @@ ADDRESS GOES HERE, Toronto, ON, M5J 1C4
 
 The purpose of this privacy policy (this "Privacy Policy") is to inform users of our Site of the following:
 
-1\. The personal data we will collect;
+<ol start="1">
+
+<li value="1"><span>The personal data we will collect;</span>
+
+</ol>
 
 2\. Use of collected data;
 
