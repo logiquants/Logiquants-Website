@@ -108,9 +108,8 @@ The data we collect when the user performs certain functions may be used for the
 
 **Who We Share Personal Data With**
 
-_Employees_
-
-We may disclose user data to any member of our organization who reasonably needs access to user data to achieve the purposes set out in this Privacy Policy.
+_Employees  
+_We may disclose user data to any member of our organization who reasonably needs access to user data to achieve the purposes set out in this Privacy Policy.
 
 _Third Parties  
 _We may share user data with the following third parties:
