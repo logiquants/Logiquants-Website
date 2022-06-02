@@ -108,14 +108,13 @@ The data we collect when the user performs certain functions may be used for the
 
 **Who We Share Personal Data With**
 
-‎  
-_Employees  
-_We may disclose user data to any member of our organization who reasonably needs access to user data to achieve the purposes set out in this Privacy Policy.
+‎Employees  
+We may disclose user data to any member of our organization who reasonably needs access to user data to achieve the purposes set out in this Privacy Policy.
 
-_Third Parties  
-_We may share user data with the following third parties:
+Third Parties  
+We may share user data with the following third parties:
 
-1\. Payment Processing company. 
+1\. Payment Processing company.
 
 We may share the following user data with third parties:
 
@@ -123,7 +122,7 @@ We may share the following user data with third parties:
    • Personal Information.
 2. 
 
-We may share user data with third parties for the following purposes: 
+We may share user data with third parties for the following purposes:
 
 1\. Payment Processing.
 
