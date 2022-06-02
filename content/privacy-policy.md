@@ -44,7 +44,8 @@ We have not appointed a Data Protection Officer as we do not fall within the cat
 
 **Consent**
 
-By using our Site users agree that they consent to:  
+By using our Site users agree that they consent to:
+
 1\. The conditions set out in this Privacy Policy.
 
 When the legal basis for us processing your personal data is that you have provided your consent to that processing, you may withdraw your consent at any time. If you withdraw your consent, it will not make processing which we completed before you withdrew your consent unlawful.
@@ -87,7 +88,8 @@ We may also collect the following data when you perform certain functions on our
    • Payment information.
 2. 
 
-This data may be collected using the following methods:   
+This data may be collected using the following methods:
+
 1\. Creating an account.
 
 **How We Use Personal Data**
@@ -96,10 +98,13 @@ Data collected on our Site will only be used for the purposes specified in this 
 
 The data we collect automatically is used for the following purposes:
 
-1. Statistics; and
-2. Business Decisions.
+1. • Statistics; and  
+   • Business Decisions.
+2. 
 
-The data we collect when the user performs certain functions may be used for the following purposes: 1. Communication.
+The data we collect when the user performs certain functions may be used for the following purposes:
+
+1\. Communication.
 
 **Who We Share Personal Data With**
 
