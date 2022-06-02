@@ -1,7 +1,8 @@
 +++
 categories = []
-date = ""
-description = ""
+date = 2022-06-03T00:00:00Z
+description = "Cam note: Fix formatting of this page and use it to replace existing Privacy Policy. Text on this page is from HTML download on lawdepot."
+draft = true
 image = ""
 tags = []
 title = "Fixed PP"
