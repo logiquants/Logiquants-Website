@@ -169,13 +169,14 @@ If you are located in the United Kingdom or the European Union, we will only tra
 
 Under the GDPR, you have the following rights:
 
-1. Right to be informed;
-2. Right of access;
-3. Right to rectification;
-4. Right to erasure;
-5. Right to restrict processing;
-6. Right to data portability; and
-7. Right to object.
+1. • Right to be informed;  
+   • Right of access;  
+   • Right to rectification;  
+   • Right to erasure;  
+   • Right to restrict processing;  
+   • Right to data portability; and  
+   • Right to object.
+2. 
 
 **Children**
 
