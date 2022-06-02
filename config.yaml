@@ -28,7 +28,7 @@ params:
   cookies:
     enable: true
     expire_days: 2
-  copyright: ©2022 Logiquants Ltd. | [Privacy Policy](https://www.logiquants.ca/privacy-policy/) | [Terms & Conditions](https://www.logiquants.ca/privacy-policy/)
+  copyright: ©2022 Logiquants Ltd. | [Privacy Policy](https://www.logiquants.ca/privacy-policy/) | [Terms & Conditions](https://www.logiquants.ca/terms-and-conditions/)
   #originalcopyright: Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)
   description: This is meta description
   email: contact@logiquants.ca
