@@ -128,8 +128,8 @@ We may share user data with third parties for the following purposes:
 
 Third parties will not be able to access user data beyond what is reasonably necessary to achieve the given purpose.
 
-_Other Disclosures  
-_We will not sell or share your data with other third parties, except in the following cases:
+Other Disclosures  
+We will not sell or share your data with other third parties, except in the following cases:
 
 1. If the law requires it;
 2. If it is required for any legal proceeding;
