@@ -26,7 +26,7 @@ ADDRESS GOES HERE, Toronto, ON, M5J 1C4
 
 **Purpose**
 
-The purpose of this privacy policy (this "Privacy Policy") is to inform users of our Site of the following:  
+The purpose of this privacy policy (this "Privacy Policy") is to inform users of our Site of the following:
 
 1\. The personal data we will collect;
 
@@ -36,7 +36,7 @@ The purpose of this privacy policy (this "Privacy Policy") is to inform users of
 
 4\. The rights of Site users; and
 
-5\. The Site's cookie policy.  
+5\. The Site's cookie policy.
 
 This Privacy Policy applies in addition to the terms and conditions of our Site.
 
@@ -75,13 +75,13 @@ We only collect data that helps us achieve the purpose set out in this Privacy P
 
 Data Collected Automatically
 
-When you visit and use our Site, we may automatically collect and store the following information:
+When you visit and use our Site, we may automatically collect and store the following information:  
 
 1. IP address;
 2. Location;
 3. Hardware and software details;
 4. Clicked links; and
-5. Content viewed.
+5. Content viewed.  
 
 Data Collected in a Non-Automatic Way
 
