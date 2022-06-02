@@ -202,8 +202,7 @@ A cookie is a small file, stored on a user's hard drive by a website. Its purpos
 
 We use the following types of cookies on our Site:
 
-1\. Functional cookies <br>_  
-    _‎Functional cookies are used to remember the selections you make on our Site so that your selections are saved for your next visits;
+1\. Functional cookies<br>    Functional cookies are used to remember the selections you make on our Site so that your selections are saved for your next visits;
 
 Functional cookies are used to remember the selections you make on our Site so that your selections are saved for your next visits;
 
