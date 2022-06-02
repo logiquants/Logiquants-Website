@@ -139,28 +139,31 @@ We will not sell or share your data with other third parties, except in the foll
 
 If you follow hyperlinks from our Site to another Site, please note that we are not responsible for and have no control over their privacy policies and practices.
 
-**How Long We Store Personal Data** User data will be stored for two years.
+**How Long We Store Personal Data** 
+
+User data will be stored for two years.
 
 You will be notified if your data is kept for longer than this period.
 
 **How We Protect Your Personal Data**
 
-In order to protect your security, we use the strongest available browser encryption and store all of our data on servers in secure facilities. All data is only accessible to our employees. Our employees are bound by strict confidentiality agreements and a breach of this agreement would result in the
-
-employee's termination.
+In order to protect your security, we use the strongest available browser encryption and store all of our data on servers in secure facilities. All data is only accessible to our employees. Our employees are bound by strict confidentiality agreements and a breach of this agreement would result in the employee's termination.
 
 While we take all reasonable precautions to ensure that user data is secure and that users are protected, there always remains the risk of harm. The Internet as a whole can be insecure at times and therefore we are unable to guarantee the security of user data beyond what is reasonably practical.
 
 **International Data Transfers**
 
-We transfer user personal data to the following countries: 1. United States.
+We transfer user personal data to the following countries: 
+
+1\. United States.
 
 When we transfer user personal data we will protect that data as described in this Privacy Policy and comply with applicable legal requirements for transferring personal data internationally.
 
 If you are located in the United Kingdom or the European Union, we will only transfer your personal data if:
 
-1. The country your personal data is being transferred to has been deemed to have adequate data protection by the European Commission or, if you are in the United Kingdom, by the United Kingdom adequacy regulations; or
-2. We have implemented appropriate safeguards in respect of the transfer. For example, the recipient is a party to binding corporate rules, or we have entered into standard EU or United Kingdom data protection contractual clauses with the recipient..
+1. • The country your personal data is being transferred to has been deemed to have adequate data protection by the European Commission or, if you are in the United Kingdom, by the United Kingdom adequacy regulations; or  
+   • We have implemented appropriate safeguards in respect of the transfer. For example, the recipient is a party to binding corporate rules, or we have entered into standard EU or United Kingdom data protection contractual clauses with the recipient.
+2. 
 
 **Your Rights as a User**
 
