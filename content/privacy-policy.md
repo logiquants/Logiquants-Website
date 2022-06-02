@@ -131,10 +131,11 @@ Third parties will not be able to access user data beyond what is reasonably nec
 Other Disclosures  
 We will not sell or share your data with other third parties, except in the following cases:
 
-1. If the law requires it;
-2. If it is required for any legal proceeding;
-3. To prove or protect our legal rights; and
-4. To buyers or potential buyers of this company in the event that we seek to sell the company.
+1. • If the law requires it;  
+   • If it is required for any legal proceeding;  
+   • To prove or protect our legal rights; and  
+   • To buyers or potential buyers of this company in the event that we seek to sell the company.
+2. 
 
 If you follow hyperlinks from our Site to another Site, please note that we are not responsible for and have no control over their privacy policies and practices.
 
