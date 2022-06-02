@@ -104,7 +104,7 @@ The data we collect automatically is used for the following purposes:
 
 The data we collect when the user performs certain functions may be used for the following purposes:
 
-1\. Communication.
+1. • Communication.
 
 **Who We Share Personal Data With**
 
