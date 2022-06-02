@@ -208,7 +208,7 @@ We use the following types of cookies on our Site:
 
 3\. _Targeting cookies_<br>&nbsp;&nbsp;&nbsp;&nbsp;&#x200A;&#x200A;Targeting cookies collect data on how you use the Site and your preferences. This allows us to personalize the information you see on our Site for you; and
 
-_4. Third-Party Cookies_<br>&nbsp;&nbsp;&nbsp;&nbsp;&#x200A;&#x200A;Third-party cookies are created by a website other than ours. We may use third-party cookies to achieve the following purposes:
+_4. Third-Party cookies_<br>&nbsp;&nbsp;&nbsp;&nbsp;&#x200A;&#x200A;Third-party cookies are created by a website other than ours. We may use third-party cookies to achieve the following purposes:
 
 &nbsp;&nbsp;&nbsp;&nbsp;a. Monitor user preferences to tailor advertisements around their interests.
 
