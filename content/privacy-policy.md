@@ -204,8 +204,6 @@ We use the following types of cookies on our Site:
 
 1\. Functional cookies<br>&nbsp;&nbsp;&nbsp;&nbsp;Functional cookies are used to remember the selections you make on our Site so that your selections are saved for your next visits;
 
-Functional cookies are used to remember the selections you make on our Site so that your selections are saved for your next visits;
-
 2\. Analytical cookies
 
 Analytical cookies allow us to improve the design and functionality of our Site by collecting data on how you access our Site, for example data on the content you access, how long you stay on our Site, etc;
