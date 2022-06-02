@@ -108,7 +108,7 @@ The data we collect when the user performs certain functions may be used for the
 
 **Who We Share Personal Data With**
 
-‎_Employees_  
+‎Employees  
 We may disclose user data to any member of our organization who reasonably needs access to user data to achieve the purposes set out in this Privacy Policy.
 
 Third Parties  
