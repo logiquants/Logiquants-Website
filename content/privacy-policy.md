@@ -210,7 +210,7 @@ We use the following types of cookies on our Site:
 
 _4. Third-Party cookies_<br>&nbsp;&nbsp;&nbsp;&nbsp;&#x200A;&#x200A;Third-party cookies are created by a website other than ours. We may use third-party cookies to achieve the following purposes:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&#x200A;&#x200A;a. Monitor user preferences to tailor advertisements around their interests.
+&nbsp;&nbsp;&nbsp;&nbsp;&#x200A;&#x200A;&#x200A;a. Monitor user preferences to tailor advertisements around their interests.
 
 **Modifications**
 
