@@ -2,6 +2,7 @@
 categories = []
 date = ""
 description = ""
+draft = true
 image = ""
 tags = []
 title = "Terms and Conditions"
