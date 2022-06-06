@@ -11,7 +11,7 @@ type = ""
 **TERMS AND CONDITIONS**
 
 <div style="display: inline">These terms and conditions (the "Terms and Conditions") govern the use of <b>www.logiquants.ca</b> (the "Site"). This Site is owned and operated by Logiquants Ltd. This Site is a blog.</div>  
-\* 
+\* ‎
 
 By using this Site, you indicate that you have read and understand these Terms and Conditions and agree to abide by them at all times.
 
