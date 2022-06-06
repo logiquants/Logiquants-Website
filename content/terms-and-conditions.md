@@ -128,8 +128,8 @@ You can also contact us through the feedback form available on our Site.</p></di
 
 <p align=right>Effective Date: 24th day of May, 2022</p>
 
-**Additional Terms  
-**• Logiquants does not provide investment advice. The materials on logiquants.ca are investment opinions. The opinions are those of our writers and they must not be misinterpreted as advice. Our writers are not investment advisers. Meeting with a certified tax, investment or legal adviser before making decisions concerning your personal finances and investments is crucial.;
+<b>Additional Terms</b>  
+• Logiquants does not provide investment advice. The materials on logiquants.ca are investment opinions. The opinions are those of our writers and they must not be misinterpreted as advice. Our writers are not investment advisers. Meeting with a certified tax, investment or legal adviser before making decisions concerning your personal finances and investments is crucial.;
 
 • Logiquants Ltd and its authors are not liable for any errors contained in the information on logiquants.ca.;
 
