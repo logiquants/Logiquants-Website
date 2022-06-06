@@ -127,7 +127,7 @@ Effective Date: 24th day of May, 2022
 **Contact Details**  
 Please contact us if you have any questions or concerns. Our contact details are as follows:
 
-<div style="display: inline"><p>‎________________________________________  
+<div style="display: inline"><p>‎________________________________________<br>  
 contact@logiquants.ca<br>  
 ADDRESS GOES HERE, Toronto, ON, M5J 1C4</p></div>  
 ‎<br>
