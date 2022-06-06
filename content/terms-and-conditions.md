@@ -45,11 +45,12 @@ These Terms and Conditions govern the sale of goods and services available on ou
 
 The following goods are available on our Site:
 
-* Digital Subscriptions;
-* Online Advertisements;
-* Blog Posts;
-* Webinars; and
-* Videos.
+* • Digital Subscriptions;  
+  • Online Advertisements;  
+  • Blog Posts;  
+  • Webinars; and  
+  • Videos.
+* 
 
 The following services are available on our Site:
 
