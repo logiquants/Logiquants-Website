@@ -34,8 +34,9 @@ If we believe you are using our Site illegally or in a manner that violates thes
 **Accounts**  
 When you create an account on our Site, you agree to the following:
 
-1. You are solely responsible for your account and the security and privacy of your account, including passwords or sensitive information attached to that account; and
-2. All personal information you provide to us through your account is up to date, accurate, and truthful and that you will update your personal information if it changes.
+1. • You are solely responsible for your account and the security and privacy of your account, including passwords or sensitive information attached to that account; and  
+   • All personal information you provide to us through your account is up to date, accurate, and truthful and that you will update your personal information if it changes.
+2. 
 
 We reserve the right to suspend or terminate your account if you are using our Site illegally or if you violate these Terms and Conditions.
 
