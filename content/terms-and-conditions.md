@@ -77,7 +77,7 @@ No refund will be issued for the cancellation of monthly subscriptions. Access t
 **Payments**  
 We accept the following payment methods on our Site:
 
-* Credit Card.
+* • Credit Card.
 
 When you provide us with your payment information, you authorize our use of and access to the payment instrument you have chosen to use. By providing us with your payment information, you authorize us to charge the amount due to this payment instrument.
 
