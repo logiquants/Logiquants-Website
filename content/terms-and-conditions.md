@@ -53,9 +53,10 @@ The following goods are available on our Site:
 
 The following services are available on our Site:
 
-* Digital Subscriptions;
-* Advertising; and
-* Writing Articles on Compensated Subject Matter.
+* • Digital Subscriptions;  
+  • Advertising; and  
+  • Writing Articles on Compensated Subject Matter.
+* 
 
 The services will be paid for in full when the services are ordered.
 
