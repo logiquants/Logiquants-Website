@@ -103,8 +103,12 @@ These Terms and Conditions are governed by the laws of the Province of Ontario.
 • Logiquants does not provide investment advice. The materials on logiquants.ca are investment opinions. The opinions are those of our writers and they must not be misinterpreted as advice. Our writers are not investment advisers. Meeting with a certified tax, investment or legal adviser before making decisions concerning your personal finances and investments is crucial.;
 
   
-• Logiquants Ltd and its authors are not liable for any errors contained in the information on logiquants.ca.;  
-• All information on logiquants.ca is strictly for informational purposes and is in no way meant to serve as a professional opinion. Logiquants makes no guarantee that the information on our website is current, reliable, accurate, complete or suitable. By using the website, you agree that following any suggestions or information it contains is entirely at your own risk.; and  
+• Logiquants Ltd and its authors are not liable for any errors contained in the information on logiquants.ca.;
+
+  
+• All information on logiquants.ca is strictly for informational purposes and is in no way meant to serve as a professional opinion. Logiquants makes no guarantee that the information on our website is current, reliable, accurate, complete or suitable. By using the website, you agree that following any suggestions or information it contains is entirely at your own risk.; and
+
+  
 • You concur that investing comes with inherent risks, as well as that past performance is not indicative of future results. You also agree that different investing strategies come with different amounts of risk. Adverse financial and investment outcomes are possible consequences of using logiquants.ca. You accept full responsibility for any investing choices you make whilst visiting our website. Logiquants will not be held liable for any harm or loss associated with the use of logiquants.ca.
 
 * 
