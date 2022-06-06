@@ -115,7 +115,7 @@ These Terms and Conditions may be amended from time to time in order to maintain
 **Contact Details**  
 Please contact us if you have any questions or concerns. Our contact details are as follows:
 
-<div style="display: inline"><p>‎______________________________________________<br>  
+<div style="display: inline"><p>‎_____________________________________________<br>  
 contact@logiquants.ca<br>  
 ADDRESS GOES HERE, Toronto, ON, M5J 1C4  
 ‎<br>
