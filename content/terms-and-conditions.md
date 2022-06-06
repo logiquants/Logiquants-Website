@@ -20,11 +20,12 @@ All content published and made available on our Site is the property of Logiquan
 **Acceptable Use**  
 As a user of our Site, you agree to use our Site legally, not to use our Site for illegal purposes, and not to:
 
-* Violate the rights of other users of our Site;
-* Violate the intellectual property rights of the Site owners or any third party to the Site;
-* Hack into the account of another user of the Site;
-* Act in any way that could be considered fraudulent; or
-* Post any material that may be deemed inappropriate or offensive.
+* • Violate the rights of other users of our Site;  
+  • Violate the intellectual property rights of the Site owners or any third party to the Site;  
+  • Hack into the account of another user of the Site;  
+  • Act in any way that could be considered fraudulent; or  
+  • Post any material that may be deemed inappropriate or offensive.
+* 
 
 If we believe you are using our Site illegally or in a manner that violates these Terms and Conditions, we reserve the right to limit, suspend or terminate your access to our Site. We also reserve the right to take any legal steps necessary to prevent you from accessing our Site.
 
