@@ -98,9 +98,8 @@ Except where prohibited by law, by using this Site you indemnify and hold harmle
 **Applicable Law**  
 These Terms and Conditions are governed by the laws of the Province of Ontario.
 
-**Additional Terms**
-
-• Logiquants does not provide investment advice. The materials on logiquants.ca are investment opinions. The opinions are those of our writers and they must not be misinterpreted as advice. Our writers are not investment advisers. Meeting with a certified tax, investment or legal adviser before making decisions concerning your personal finances and investments is crucial.;
+<b>Additional Terms</b>**  
+**• Logiquants does not provide investment advice. The materials on logiquants.ca are investment opinions. The opinions are those of our writers and they must not be misinterpreted as advice. Our writers are not investment advisers. Meeting with a certified tax, investment or legal adviser before making decisions concerning your personal finances and investments is crucial.;
 
 • Logiquants Ltd and its authors are not liable for any errors contained in the information on logiquants.ca.;
 
