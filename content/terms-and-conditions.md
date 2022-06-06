@@ -8,7 +8,7 @@ title = "Terms and Conditions"
 type = ""
 
 +++
-<p align=center>**TERMS AND CONDITIONS**</p>
+<p align=center><b>TERMS AND CONDITIONS</b></p>
 
 <div style="display: inline">These terms and conditions (the "Terms and Conditions") govern the use of <b>www.logiquants.ca</b> (the "Site"). This Site is owned and operated by Logiquants Ltd. This Site is a blog.</div>  
 <br>
