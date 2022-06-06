@@ -122,4 +122,4 @@ ADDRESS GOES HERE, Toronto, ON, M5J 1C4
 
 You can also contact us through the feedback form available on our Site.</p></div>
 
-Effective Date: 24th day of May, 2022
+<p align=right>Effective Date: 24th day of May, 2022</p>
