@@ -118,7 +118,7 @@ Please contact us if you have any questions or concerns. Our contact details are
 <div style="display: inline"><p>‎________________________________________<br>  
 contact@logiquants.ca<br>  
 ADDRESS GOES HERE, Toronto, ON, M5J 1C4</p></div>  
-‎<br>
+‎
 
 You can also contact us through the feedback form available on our Site.
 
