@@ -123,3 +123,15 @@ ADDRESS GOES HERE, Toronto, ON, M5J 1C4
 <br>You can also contact us through the feedback form available on our Site.
 
 Effective Date: 24th day of May, 2022
+
+**Contact Details**  
+Please contact us if you have any questions or concerns. Our contact details are as follows:
+
+‎________________________________________  
+<div style="display: inline">contact@logiquants.ca</div><br>  
+ADDRESS GOES HERE, Toronto, ON, M5J 1C4  
+‎<br>
+
+<br>You can also contact us through the feedback form available on our Site.
+
+Effective Date: 24th day of May, 2022
