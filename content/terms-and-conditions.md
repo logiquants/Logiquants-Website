@@ -10,8 +10,8 @@ type = ""
 +++
 **TERMS AND CONDITIONS**
 
-These terms and conditions (the "Terms and Conditions") govern the use of **www.logiquants.ca** (the "Site"). This Site is owned and operated by Logiquants Ltd. This Site is a blog.  
-  
+These terms and conditions (the "Terms and Conditions") govern the use of **www.logiquants.ca** (the "Site"). This Site is owned and operated by Logiquants Ltd. This Site is a blog.
+
 By using this Site, you indicate that you have read and understand these Terms and Conditions and agree to abide by them at all times.
 
 **Intellectual Property**  
@@ -65,8 +65,8 @@ Our Site may offer goods and services from third parties. We cannot guarantee th
 **Subscriptions**  
 Your subscription automatically renews and you will be automatically billed until we receive notification that you want to cancel the subscription.
 
-To cancel your subscription, please follow these steps: A full refund will be issued for cancellation requests made within 30 days of the initial purchase or renewal of the annual subscription. Access to the website's subscriber-only content will conclude on the same date that the cancellation processes.  
-  
+To cancel your subscription, please follow these steps: A full refund will be issued for cancellation requests made within 30 days of the initial purchase or renewal of the annual subscription. Access to the website's subscriber-only content will conclude on the same date that the cancellation processes.
+
 No refund will be issued for the cancellation of monthly subscriptions. Access to the website's subscriber-only content will remain intact until the present billing cycle ends.
 
 **Payments**  
@@ -74,8 +74,8 @@ We accept the following payment methods on our Site:
 
 * Credit Card.
 
-When you provide us with your payment information, you authorize our use of and access to the payment instrument you have chosen to use. By providing us with your payment information, you authorize us to charge the amount due to this payment instrument.  
-  
+When you provide us with your payment information, you authorize our use of and access to the payment instrument you have chosen to use. By providing us with your payment information, you authorize us to charge the amount due to this payment instrument.
+
 If we believe your payment has violated any law or these Terms and Conditions, we reserve the right to cancel or reverse your transaction.
 
 **Consumer Protection Law**  
@@ -98,7 +98,7 @@ These Terms and Conditions are governed by the laws of the Province of Ontario.
 * Logiquants does not provide investment advice. The materials on logiquants.ca are investment opinions. The opinions are those of our writers and they must not be misinterpreted as advice. Our writers are not investment advisers. Meeting with a certified tax, investment or legal adviser before making decisions concerning your personal finances and investments is crucial.;
 * Logiquants Ltd and its authors are not liable for any errors contained in the information on logiquants.ca.;
 * All information on logiquants.ca is strictly for informational purposes and is in no way meant to serve as a professional opinion. Logiquants makes no guarantee that the information on our website is current, reliable, accurate, complete or suitable. By using the website, you agree that following any suggestions or information it contains is entirely at your own risk.; and
-* You concur that investing comes with inherent risks, as well as that past performance is not indicative of future results. You also agree that different investing strategies come with different amounts of risk. Adverse financial and investment outcomes are possible consequences of using logiquants.ca. You accept full responsibility for any investing choices you make whilst visiting our website. Logiquants will not be held liable for any harm or loss associated with the use of logiquants.ca..
+* You concur that investing comes with inherent risks, as well as that past performance is not indicative of future results. You also agree that different investing strategies come with different amounts of risk. Adverse financial and investment outcomes are possible consequences of using logiquants.ca. You accept full responsibility for any investing choices you make whilst visiting our website. Logiquants will not be held liable for any harm or loss associated with the use of logiquants.ca.
 
 **Severability**  
 If at any time any of the provisions set forth in these Terms and Conditions are found to be inconsistent or invalid under applicable laws, those provisions will be deemed void and will be removed from these Terms and Conditions. All other provisions will not be affected by the removal and the rest of these Terms and Conditions will still be considered valid.
@@ -107,9 +107,10 @@ If at any time any of the provisions set forth in these Terms and Conditions are
 These Terms and Conditions may be amended from time to time in order to maintain compliance with the law and to reflect any changes to the way we operate our Site and the way we expect users to behave on our Site. We will notify users by email of changes to these Terms and Conditions or post a notice on our Site.
 
 **Contact Details**  
-Please contact us if you have any questions or concerns. Our contact details are as follows:  
-  
-______________________________________  
+Please contact us if you have any questions or concerns. Our contact details are as follows:
+
+***
+
 contact@logiquants.ca  
 ADDRESS GOES HERE, Toronto, ON, M5J 1C4
 
