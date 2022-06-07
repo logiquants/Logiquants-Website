@@ -3,5 +3,6 @@ description: This is meta description
 image: images/contact.jpg
 layout: contact
 title: Contact
+draft: true
 
 ---
