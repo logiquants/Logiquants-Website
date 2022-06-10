@@ -2,11 +2,10 @@
 categories = ["article"]
 date = 2022-03-15T21:00:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/colton-sturgeon-f7adppog_eq-unsplash_editsize.jpg"
 tags = ["photos", "article"]
-title = "3/15/22 - Oil, Gas and $CPG Analysis"
-type = "featured"
+title = "Oil, Gas and $CPG Analysis"
+type = "premium"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Everybody's talking about it lately - prices at the pumps are sky high! Although they have fallen since last week and could continue to short term, I'm confident gas prices will rise medium and long term. Yes, interest rates are increasing and asset prices should decrease accordingly. But there are additional factors to consider with oil and gas.</span></span>
