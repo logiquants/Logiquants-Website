@@ -62,14 +62,14 @@
   <div class="container">
     {{ if eq .Params.layout "1" }}
     <div class="row masonry-container">
-      <!-- {{ range site.RegularPages }} -->
+      {{ range site.RegularPages }}
       <div class="col-lg-4 col-sm-6 mb-5">
         <article class="text-center">
           <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb">
           <p class="text-uppercase mb-2">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
           <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
           <p>{{.Summary}}</p>
-          <!-- <a href="{{.Permalink}}" class="btn btn-transparent">read more</a> -->
+          <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>
         </article>
       </div>
       {{ end }}
