@@ -1,5 +1,5 @@
 ---
-layout: "2"
+layout: "1"
 title: Premium Research
 
 ---
