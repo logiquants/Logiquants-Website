@@ -1,5 +1,5 @@
 ---
-layout: "1"
+layout: "2"
 title: Free Content
 
 ---
