@@ -1,8 +1,7 @@
 +++
-categories = []
+categories = ["article"]
 date = 2022-06-09T17:00:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/me2.jpg"
 tags = []
 title = "testing subscription-(copy)"
