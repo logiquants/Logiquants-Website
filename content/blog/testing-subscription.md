@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/me2.jpg"
 tags = []
 title = "testing subscription"
-type = "post"
+type = "premium"
 
 +++
 asdasdafafaf
