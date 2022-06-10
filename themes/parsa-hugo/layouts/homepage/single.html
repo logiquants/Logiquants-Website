@@ -78,7 +78,7 @@
     {{ else if (eq .Params.layout "2")}}
 
     <div class="row">
-      {{ range $i,$p := (where site.RegularPages "Type" "post") }}
+      {{ range $i,$p := (where site.RegularPages "Type" "premium") }}
       <div class="col-12 mb-100">
         <article data-file="{{.Permalink}}" data-target="article"
           class="article-full-width {{if not (modBool $i 2)}} article-right {{ end }}">
