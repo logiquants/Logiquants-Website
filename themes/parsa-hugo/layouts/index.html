@@ -63,7 +63,8 @@
     {{ $paginator := .Paginate (where site.RegularPages "Type" "post") }}
     {{ if eq site.Params.layout "1" }}
     <div class="row masonry-container">
-      {{ range $paginator.Pages }}
+      {{ range (where site.RegularPages "Type" "featured")}}
+      <!-- {{ range $paginator.Pages }} -->
       <div class="col-lg-4 col-sm-6 mb-5">
         <article class="text-center">
           <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb">
