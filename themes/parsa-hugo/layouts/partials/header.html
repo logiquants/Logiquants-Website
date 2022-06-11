@@ -11,7 +11,7 @@
         {{ range site.Menus.main }}
         {{ if .HasChildren }}
         <li class="nav-item">
-          {{ .Children:last-child }}
+          {{ range (where .Children "Weight" "2")}}
           <a class="nav-link text-uppercase text-dark" href="{{ .URL | absURL }}">{{ .Name }}</a>
         <!-- <li class="nav-item dropdown"> -->
           <!-- <a class="nav-link text-uppercase text-dark dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" -->
