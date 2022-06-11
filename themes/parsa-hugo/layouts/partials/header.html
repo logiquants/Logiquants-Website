@@ -10,8 +10,8 @@
       <ul class="navbar-nav ml-auto">
         {{ range site.Menus.main }}
         {{ if .HasChildren }}
+        {{ range (where .Children "Weight" "2")}}
         <li class="nav-item">
-          {{ range (where .Children "Weight" "2")}}
           <a class="nav-link text-uppercase text-dark" href="{{ .URL | absURL }}">{{ .Name }}</a>
         <!-- <li class="nav-item dropdown"> -->
           <!-- <a class="nav-link text-uppercase text-dark dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" -->
