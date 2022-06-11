@@ -10,16 +10,19 @@
       <ul class="navbar-nav ml-auto">
         {{ range site.Menus.main }}
         {{ if .HasChildren }}
-        <li class="nav-item dropdown">
-          <a class="nav-link text-uppercase text-dark dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-            aria-expanded="false">
-            {{ .Name }}
-          </a>
-          <div class="dropdown-menu" >
-            {{ range .Children }}
-            <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a>
-            {{ end }}
-          </div>
+        <li class="nav-item">
+          {{ .Children:last-child }}
+          <a class="nav-link text-uppercase text-dark" href="{{ .URL | absURL }}">{{ .Name }}</a>
+        <!-- <li class="nav-item dropdown"> -->
+          <!-- <a class="nav-link text-uppercase text-dark dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" -->
+            <!-- aria-expanded="false"> -->
+            <!-- {{ .Name }} -->
+          <!-- </a> -->
+          <!-- <div class="dropdown-menu" > -->
+            <!-- {{ range .Children }} -->
+            <!-- <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a> -->
+            <!-- {{ end }} -->
+          <!-- </div> -->
         </li>
         {{ else }}
         <li class="nav-item">
