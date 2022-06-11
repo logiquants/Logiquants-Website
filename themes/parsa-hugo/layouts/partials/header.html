@@ -11,6 +11,7 @@
         {{ range site.Menus.main }}
         {{ if .HasChildren }}
         <!-- ***CAM NOTE: I EDITED THIS DOCUMENT FROM THIS LINE TO THE LINE BELOW*** -->
+        <!-- ***CAM NOTE: The two lines of code that are not commented out were copied from the first {{ else }} statement below -->
         <li class="nav-item">
           <a class="nav-link text-uppercase text-dark" href="https://www.logiquants.ca/homepage/home-2/">Premium Investment Research</a>
         <!-- <li class="nav-item dropdown"> -->
@@ -23,6 +24,7 @@
             <!-- <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a> -->
             <!-- {{ end }} -->
           <!-- </div> -->
+        <!-- ***CAM NOTE: All the lines of code that are commented out are from the original header. They are still in exact same order and location. -->  
         <!-- ***CAM NOTE: I EDITED THIS DOCUMENT FROM THIS LINE TO THE LINE ABOVE*** -->  
         </li>
         {{ else }}
