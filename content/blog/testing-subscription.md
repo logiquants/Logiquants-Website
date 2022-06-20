@@ -15,3 +15,5 @@ hello!
 I <3 CPG
 
 YEAHHHHH baby
+
+If this works then I only need to check my email and address on homepage
