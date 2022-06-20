@@ -16,7 +16,7 @@ markup:
     renderer:
       unsafe: true
 params:
-  address: Toronto, ON. Canada
+  address: TestingToronto, ON. Canada
   author: LogiQuants
   author_image: images/Precision.png
   bio: Strong quantitative skills provide a significant advantage when searching for
