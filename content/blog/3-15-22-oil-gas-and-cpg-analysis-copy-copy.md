@@ -14,7 +14,7 @@ type = "featured"
 
 <table>
 <tr>  
-<td> </td> <th>Qtrade  </th> <th>TD Direct Investing  </th> <th>Questrade</th> </tr> <tr> <th>Stocks</th> <td>$8.75</td> <td>$9.99</td> <td>X</td> </tr> <tr> <th>ETFs</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>Options</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>Mutual Funds  </th> <td>X</td> <td>X</td> <td>X</td> </tr> </table>
+<td> </td> <th>Qtrade  </th> <th>TD Direct Investing  </th> <th>Questrade</th> </tr> <tr> <th>Stocks</th> <td>$8.75</td> <td>$9.99</td> <td>1¢/share (min. $4.95 to max. $9.95)</td> </tr> <tr> <th>ETFs</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>Options</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>Mutual Funds  </th> <td>X</td> <td>X</td> <td>X</td> </tr> </table>
 
 ###### **Important Note:** the prices in the table above are available to all investors. In addition to these prices, Qtrade, TD and Questrade also offer _active trader_ plans that come with reduced commission fees. There are specific requirements that need to be met to hold an active trader plan. To find more detail, please visit the respective brokerage's website.
 
