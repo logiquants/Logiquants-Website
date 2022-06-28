@@ -10,11 +10,13 @@ type = "featured"
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Welcome to my review on the best brokerages in Canada. I will focus on the overall features that each brokerage has to offer. While Qtrade, TD Direct Investing, and Questrade are the best options for many Canadians, a sophisticated investor may be better off using a different brokerage. Feel free to contact me at cameron@logiquants.ca with any questions or concerns.</span></span>
 
+Just checking to see how dark this font is
+
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">The brokerage that I consider to be **best in Canada is Qtrade**. Although there are brokerages that charge less in commission fees, Qtrade is worth the extra cost. Not only do they have the best customer service out of every brokerage, but they also have a couple of different offers available. Before getting into the offer details, I should note that Qtrade's fees are still less than most of the big banks.</span></span>
 
 <table>
 <tr>  
-<td>&nbsp;</td> <th>Qtrade</th> <th>TD Direct Investing</th> <th>Questrade</th> </tr> <tr> <th>Stocks</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>ETFs</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>Options</th> <th>Mutual Funds</th> </tr> <tr> <th>Mutual Funds</th> </tr> </table>
+<td> </td> <th>Qtrade</th> <th>TD Direct Investing</th> <th>Questrade</th> </tr> <tr> <th>Stocks</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>ETFs</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>Options</th> <th>Mutual Funds</th> </tr> <tr> <th>Mutual Funds</th> </tr> </table>
 
 ###### **Disclosure:** At the time of writing, I, Cameron Fryer, own shares of Crescent Point Energy Corp.
 
