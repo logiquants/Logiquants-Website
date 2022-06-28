@@ -10,8 +10,6 @@ type = "featured"
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Welcome to my review on the best brokerages in Canada. I will be focusing on the overall features that each brokerage has to offer. While **Qtrade**, **TD Direct Investing**, and **Questrade** are the best options for many Canadians, a sophisticated investor may be better off using a different brokerage. Feel free to contact me at cameron@logiquants.ca with any questions or concerns.</span></span>
 
-\[[https://www.qtrade.ca/en/investor/offers/free-trades-offer.html](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html")\](hello)
-
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">The brokerage that I consider to be **best in Canada is Qtrade**. Although there are brokerages that charge less in commission fees, Qtrade is worth the extra costs. Not only do they have the best customer service out of every brokerage, but they also have a couple of different offers available. Before getting into the offer details, I should note that Qtrade's commission fees are still less than most of the big banks. This can be seen in the table below, through comparison to TD Direct investing.</span></span>
 
 <table>
