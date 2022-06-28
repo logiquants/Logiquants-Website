@@ -14,7 +14,7 @@ type = "featured"
 
 <table>
 <tr>  
-<td> </td> <th>Qtrade &nbsp;</th> <th>TD Direct Investing &nbsp;</th> <th>Questrade</th> </tr> <tr> <th>Stocks</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>ETFs</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>Options</th> <td>X</td> </tr> <tr> <th>Mutual Funds &nbsp;</th> </tr> </table>
+<td> </td> <th>Qtrade  </th> <th>TD Direct Investing  </th> <th>Questrade</th> </tr> <tr> <th>Stocks</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>ETFs</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>Options</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>Mutual Funds  </th> <td>X</td> <td>X</td> <td>X</td> </tr> </table>
 
 ###### **Disclosure:** At the time of writing, I, Cameron Fryer, own shares of Crescent Point Energy Corp.
 
