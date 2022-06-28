@@ -22,4 +22,8 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Now, back to those offers with Qtrade. First, if you "Open a new account with promo code 50TRADESFREE and transfer in at least $10,000 by August 31, 2022," you can receive up to 50 free trades (a value of roughly $500). Additional conditions apply (full details of the promotion can be found at [https://www.qtrade.ca/en/investor/offers/free-trades-offer.html](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html")). Secondly, for investors in the range of 18-30 years old, Qtrade offers "Young investor pricing." To qualify, one must pre-authorize automatic contributions of $50 or more per month to a Qtrade investment account. What are the benefits? No account administration fees and a reduced commission fee of $7.75 on stocks and ETFs (full details of the offer can be found at [https://www.qtrade.ca/en/investor/pricing/offers.html](https://www.qtrade.ca/en/investor/pricing/offers.html "https://www.qtrade.ca/en/investor/pricing/offers.html")).</span></span>
 
+### Pick #2: TD Direct Investing
+
+### Pick #3: Questrade
+
 ***
