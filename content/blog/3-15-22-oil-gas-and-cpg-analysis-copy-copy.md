@@ -18,6 +18,8 @@ type = "featured"
 
 ###### **Important Note:** the prices in the table above are available to all investors. In addition to these prices, Qtrade, TD Direct Investing and Questrade also offer _active trader_ plans that come with reduced commission fees. There are specific requirements that need to be met to hold an active trader plan. To find more detail, please visit the respective brokerage's website.
 
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Now, back to those offers with Qtrade. First of all, </span></span>
+
 ***
 
 ld <span style="font-family:Times New Roman; font-size:1em;"><sup>1</sup>Government of Canada, Statistics Canada, “Household Spending, Canada, Regions and Provinces,” Household spending, Canada, regions and provinces (Government of Canada, Statistics Canada, January 22, 2021), [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201. "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.")</span>
