@@ -26,4 +26,6 @@ type = "featured"
 
 ### Pick #3: Questrade
 
+### Conclusion: Choose the Brokerage That Works Best for You
+
 ***
