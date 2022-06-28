@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2022-03-15T21:00:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/colton-sturgeon-f7adppog_eq-unsplash_editsize.jpg"
 tags = ["photos", "article"]
 title = "6/28/22 - Best Brokerages in Canada"
@@ -17,11 +16,11 @@ type = "featured"
 <tr>  
 <td> </td> <th>Qtrade  </th> <th>TD Direct Investing  </th> <th>Questrade</th> </tr> <tr> <th>Stocks</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>ETFs</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>Options</th> <td>X</td> <td>X</td> <td>X</td> </tr> <tr> <th>Mutual Funds  </th> <td>X</td> <td>X</td> <td>X</td> </tr> </table>
 
-###### **Disclosure:** At the time of writing, I, Cameron Fryer, own shares of Crescent Point Energy Corp.
+###### **Important Note:** the prices in the table above are available to all investors. In addition to these prices, Qtrade, TD Direct Investing and Questrade also offer _active trader_ plans that come with reduced commission fees. There are specific requirements that need to be met to hold an active trader plan. To find more detail, please visit the respective brokerage's website.
 
 ***
 
-<span style="font-family:Times New Roman; font-size:1em;"><sup>1</sup>Government of Canada, Statistics Canada, “Household Spending, Canada, Regions and Provinces,” Household spending, Canada, regions and provinces (Government of Canada, Statistics Canada, January 22, 2021), [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201. "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.")</span>
+ld <span style="font-family:Times New Roman; font-size:1em;"><sup>1</sup>Government of Canada, Statistics Canada, “Household Spending, Canada, Regions and Provinces,” Household spending, Canada, regions and provinces (Government of Canada, Statistics Canada, January 22, 2021), [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201. "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201.")</span>
 
 <span style="font-family:Times New Roman; font-size:1em;"><sup>2</sup>Ryan Rocca, “Ontario Temporarily Shortens G Road Tests to Reduce Backlog,” Global News (Global News, January 11, 2022), [https://globalnews.ca/news/8503055/ontario-shortening-g-road-tests/#:\~:text=The%20Ontario%20government%20says%20road,COVID%2D19%20restrictions%20and%20closures.](https://globalnews.ca/news/8503055/ontario-shortening-g-road-tests/#:\~:text=The%20Ontario%20government%20says%20road,COVID%2D19%20restrictions%20and%20closures. "https://globalnews.ca/news/8503055/ontario-shortening-g-road-tests/#:~:text=The%20Ontario%20government%20says%20road,COVID%2D19%20restrictions%20and%20closures.")</span>
 
