@@ -12,32 +12,32 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">The brokerage that I consider to be **best in Canada is Qtrade**. Although there are brokerages that charge less in commission fees, Qtrade is worth the extra cost. Not only do they have the best customer service out of every brokerage, but they also have a couple of different offers available. Before getting into the offer details, I should note that Qtrade's fees are still less than most of the big banks.</span></span>
 
-    <table>
-    	<tr>
-        	<th>Qtrade</th>
-            <th>TD Direct Investing</th>
-            <th>Questrade</th>
-        </tr>
-        <tr>
-        	<th>Commission on Stocks</th>
-            <td>X</td>
-            <td>X</td>
-            <td>X</td>
-        </tr>
-        <tr>
-            <th>ETFs</th>
-            <td>X</td>
-            <td>X</td>
-            <td>X</td>
-        </tr>
-        <tr>
-            <th>Options</th>
-            <th>Mutual Funds</th>
-        </tr>
-        <tr>
-            <th>Mutual Funds</th>
-        </tr>
-    </table>
+<table>
+	<tr>
+    	<th>Qtrade</th>
+        <th>TD Direct Investing</th>
+        <th>Questrade</th>
+    </tr>
+    <tr>
+    	<th>Commission on Stocks</th>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+    </tr>
+    <tr>
+        <th>ETFs</th>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+    </tr>
+    <tr>
+        <th>Options</th>
+        <th>Mutual Funds</th>
+    </tr>
+    <tr>
+        <th>Mutual Funds</th>
+    </tr>
+</table>
 
 ###### **Disclosure:** At the time of writing, I, Cameron Fryer, own shares of Crescent Point Energy Corp.
 
