@@ -18,7 +18,7 @@ type = "featured"
 
 ###### **Important Note:** the prices in the table above are available to all investors. In addition to these prices, Qtrade, TD Direct Investing and Questrade also offer _active trader_ plans that come with reduced commission fees. There are specific requirements that need to be met to hold an active trader plan. To find more detail, please visit the respective brokerage's website.
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Now, back to those offers with Qtrade. First, if you "Open a new account with promo code 50TRADESFREE and transfer in at least $10,000 by August 31, 2022," you will be eligible to receive up to 50 free trades. Additional conditions apply (full details of promotion can be found [https://www.qtrade.ca/en/investor/offers/free-trades-offer.html](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html "here") </span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Now, back to those offers with Qtrade. First, if you "Open a new account with promo code 50TRADESFREE and transfer in at least $10,000 by August 31, 2022," you will be eligible to receive up to 50 free trades. Additional conditions apply (full details of promotion can be found at [https://www.qtrade.ca/en/investor/offers/free-trades-offer.html](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html "here")) </span></span>
 
 ***
 
