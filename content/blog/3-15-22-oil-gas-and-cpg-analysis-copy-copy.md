@@ -24,10 +24,8 @@ type = "featured"
 
 #### Final Points on Qtrade:
 
-**‣** No minimum amount is required to open an account  
-**‣** No minimum amount is required to open an account
-
-• No minimum amount is required to open an account
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** No minimum amount is required to open an account</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** No minimum amount is required to open an account</span></span>
 
 ### Pick #2: TD Direct Investing
 
