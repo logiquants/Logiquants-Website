@@ -26,7 +26,7 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** No minimum amount is required to open an account</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Additional fees are charged for US dollar registered accounts (TFSA, RSP & RIF)</span></span>  
-&nbsp;**‣** No minimum amount is required to open an account
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**‣** No minimum amount is required to open an account
 
 ### Pick #2: TD Direct Investing
 
