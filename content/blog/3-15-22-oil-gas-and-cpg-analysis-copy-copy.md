@@ -26,7 +26,8 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** No minimum amount is required to open an account</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** There is an account administration fee of $25/quarter</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• This fee is waived if you hold</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• This fee will be waived if any of the following apply:</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• This fee will be waived if any of the following apply:</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Additional fees are charged for US dollar registered accounts (TFSA, RSP & RIF)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The fees are $15 USD/quarter for each account</span></span>
 
