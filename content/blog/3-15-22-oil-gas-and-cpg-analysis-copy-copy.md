@@ -27,6 +27,8 @@ type = "featured"
 **‣** No minimum amount is required to open an account  
 **‣** No minimum amount is required to open an account
 
+• No minimum amount is required to open an account
+
 ### Pick #2: TD Direct Investing
 
 ### Pick #3: Questrade
