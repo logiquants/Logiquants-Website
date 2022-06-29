@@ -37,7 +37,9 @@ type = "featured"
 
 1. **◦** You have at least $25,000 in assets as of the last business day of each calendar quarter  
    **◦** You completed at least 2 commission-generating equity or option trades during the immediately preceding calendar quarter  
-   **◦** You completed at least 8 commission-generating equity or option trades during the immediately preceding 12 months
+   **◦** You completed at least 8 commission-generating equity or option trades during the immediately preceding 12 months  
+   **◦** You add $100 or more to your account each month by recurring electronic funds contribution  
+   **◦** You qualify for the Young Investor offer
 2. 
 
 ### Pick #2: TD Direct Investing
