@@ -33,7 +33,7 @@ type = "featured"
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** You qualify for the Young Investor offer</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Additional fees are charged for US dollar registered accounts (TFSA, RSP & RIF)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** The fees are $15 USD/quarter for each account</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** REIMBURSEMENT OF TRANSFER FEES (TFSA, RSP & RIF)</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** REIMBURSEMENT OF TRANSFER FEES</span></span>
 
 ### Pick #2: TD Direct Investing
 
