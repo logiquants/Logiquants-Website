@@ -24,8 +24,8 @@ type = "featured"
 
 #### Final Points on Qtrade:
 
-* No minimum amount required to open an account
-* asafaf
+* No minimum amount is required to open an account
+* Asafa
 
 ### Pick #2: TD Direct Investing
 
