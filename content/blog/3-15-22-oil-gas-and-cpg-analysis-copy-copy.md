@@ -32,6 +32,7 @@ type = "featured"
    ◦** You completed at least 8 commission-generating equity or option trades during the immediately preceding 12 months**  
    ◦** You add $100 or more to your account each month by recurring electronic funds contribution**  
    ◦** You qualify for the Young Investor offer
+2. 
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Additional fees are charged for US dollar registered accounts (TFSA, RSP & RIF)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     • The fees are $15 USD/quarter for each account</span></span>
