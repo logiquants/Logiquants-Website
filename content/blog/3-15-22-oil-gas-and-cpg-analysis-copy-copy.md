@@ -30,10 +30,7 @@ type = "featured"
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** You completed at least 2 commission-generating equity or option trades during the      immediately preceding calendar quarter</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** You completed at least 8 commission-generating equity or option trades during the      immediately preceding 12 months</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** You add $100 or more to your account each month by recurring electronic funds      contribution</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** You qualify for the Young Investor offer</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Additional fees are charged for US dollar registered accounts (TFSA, RSP & RIF)</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** The fees are $15 USD/quarter for each account</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** REIMBURSEMENT OF TRANSFER FEES</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** You qualify for the Young Investor offer</span></span>
 
 1. **◦** You have at least $25,000 in assets as of the last business day of each calendar quarter  
    **◦** You completed at least 2 commission-generating equity or option trades during the immediately preceding calendar quarter  
@@ -41,6 +38,10 @@ type = "featured"
    **◦** You add $100 or more to your account each month by recurring electronic funds contribution  
    **◦** You qualify for the Young Investor offer
 2. 
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Additional fees are charged for US dollar registered accounts (TFSA, RSP & RIF)</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** The fees are $15 USD/quarter for each account</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** REIMBURSEMENT OF TRANSFER FEES</span></span>
 
 ### Pick #2: TD Direct Investing
 
