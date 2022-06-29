@@ -27,12 +27,12 @@ type = "featured"
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** No minimum amount is required to open an account</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** There is an account administration fee of $25/quarter. This fee will be waived if **any** of the following apply:</span></span>
 
-1. **◦** You have at least $25,000 in assets as of the last business day of each calendar quarter**  
-   ◦** You completed at least 2 commission-generating equity or option trades during the immediately preceding calendar quarter**  
+1. **◦** You have at least $25,000 in assets as of the last business day of each calendar quarter  
+   **◦** You completed at least 2 commission-generating equity or option trades during the immediately preceding calendar quarter
+2. **◦** You completed at least 2 commission-generating equity or option trades during the immediately preceding calendar quarter**  
    ◦** You completed at least 8 commission-generating equity or option trades during the immediately preceding 12 months**  
    ◦** You add $100 or more to your account each month by recurring electronic funds contribution**  
    ◦** You qualify for the Young Investor offer
-2. 
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Additional fees are charged for US dollar registered accounts (TFSA, RSP & RIF)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     • The fees are $15 USD/quarter for each account</span></span>
