@@ -10,7 +10,7 @@ type = "featured"
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Welcome to my review on the best brokerages in Canada. I will be focusing on the overall features that each brokerage has to offer. While **Qtrade**, **TD Direct Investing**, and **Questrade** are the best options for many Canadians, a sophisticated investor may be better off using a different brokerage. Feel free to contact me at cameron@logiquants.ca with any questions or concerns.</span></span>
 
-<a href="[https://www.logiquants.ca/](https://www.logiquants.ca/ "https://www.logiquants.ca/")">TESTING</a>
+\[TESTING\]([https://www.qtrade.ca/en/investor/pricing.html](https://www.qtrade.ca/en/investor/pricing.html "https://www.qtrade.ca/en/investor/pricing.html"))
 
 ### Pick #1: Qtrade
 
