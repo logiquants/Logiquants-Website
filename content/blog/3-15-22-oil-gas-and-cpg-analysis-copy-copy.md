@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2022-03-15T21:00:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/colton-sturgeon-f7adppog_eq-unsplash_editsize.jpg"
 tags = ["photos", "article"]
 title = "7/1/22 - Best Brokerages in Canada"
@@ -40,6 +39,8 @@ type = "featured"
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Qtrade will pay the transfer-out fees ($150 max.) of those transferring $15,000+</span></span>
 
 ### Pick #2: TD Direct Investing
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">The **second best brokerage in Canada is TD Direct Investing**. </span></span>
 
 ### Pick #3: Questrade
 
