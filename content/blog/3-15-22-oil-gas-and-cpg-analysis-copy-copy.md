@@ -2,6 +2,7 @@
 categories = ["article"]
 date = 2022-07-01T18:00:00Z
 description = "This is meta description"
+draft = true
 image = "/uploads/colton-sturgeon-f7adppog_eq-unsplash_editsize.jpg"
 tags = ["photos", "article"]
 title = "7/1/22 - Best Brokerages in Canada"
@@ -40,7 +41,7 @@ type = "featured"
 
 ### Pick #2: TD Direct Investing
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">The **second best brokerage in Canada is TD Direct Investing**. I would like to emphasize, however, that it's a tight comparison between Qtrade and TD. In fact, I would rank TD as best brokerage in Canada if they improved their customer service and matched the commission fees of Qtrade.</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">The **second best brokerage in Canada is TD Direct Investing**. I would like to emphasize, however, that it's a tight comparison between Qtrade and TD. In fact, I would rank TD as best brokerage in Canada if they improved their customer service and matched the commission fees of Qtrade. Wh</span></span>
 
 ### Pick #3: Questrade
 
