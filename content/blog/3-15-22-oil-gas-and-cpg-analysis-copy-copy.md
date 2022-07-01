@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2022-03-15T21:00:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/colton-sturgeon-f7adppog_eq-unsplash_editsize.jpg"
 tags = ["photos", "article"]
 title = "6/28/22 - Best Brokerages in Canada"
@@ -46,3 +45,5 @@ type = "featured"
 ### Conclusion: Choose the Brokerage That Works Best for You
 
 ***
+
+<sup>1</sup>“Get 50 Free Trades​.” Qtrade. Aviso Wealth. Accessed July 1, 2022. [https://www.qtrade.ca/en/investor/offers/free-trades-offer.html.](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html. "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html.")
