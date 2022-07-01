@@ -22,7 +22,7 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Now, back to those offers with Qtrade. First, if you "Open a new account with promo code 50TRADESFREE and transfer in at least $10,000 by August 31, 2022," you can receive up to 50 free trades (a value of roughly $500).<sup>1</sup> Additional conditions apply (full details of the promotion can be found [here](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html)). Secondly, for investors in the range of 18-30 years old, Qtrade offers "Young investor pricing."<sup>2</sup> To qualify, one must setup automatic contributions of $50 or more per month to a Qtrade investment account. What are the benefits of this offer? No account administration fees and a reduced commission fee of $7.75 on stocks and ETFs (full details of the offer can be found [here](https://www.qtrade.ca/en/investor/pricing/offers.html)).</span></span>
 
-#### Final Points on Qtrade<div><sup>3</sup></div>:
+#### Final Points on Qtrade<sup>3</sup>:
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** No minimum amount is required to open an account</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** There is an account administration fee of $25/quarter. This fee will be waived if **any** of the following apply:</span></span>
