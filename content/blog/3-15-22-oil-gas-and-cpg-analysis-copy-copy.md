@@ -61,7 +61,8 @@ type = "featured"
    ◦** No commission on TD ETFs
 2. 
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** Details</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** No account maintenance fees</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** No commission on TD ETFs and on the first 50 stock trades of each calendar year </span></span>
 
 ### Pick #3: Questrade
 
