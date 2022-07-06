@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2022-07-01T18:00:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/colton-sturgeon-f7adppog_eq-unsplash_editsize.jpg"
 tags = ["photos", "article"]
 title = "7/1/22 - Best Brokerages in Canada"
@@ -46,13 +45,12 @@ type = "featured"
 #### Final Notes on TD Direct Investing<sup>4</sup>:
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** No minimum amount is required to open an account</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** There is an account administration fee of $25/quarter. It will be waived if you meet at least one of the following conditions:</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** There is an account maintenace fee of $25/quarter. It can be waived if you meet at least one of the following conditions:</span></span>
 
-1. **◦** You hold $25,000+ in assets  
-   **◦** You made 2+ equity/option trades in the prior quarter  
-   **◦** You made 8+ equity/option trades in the prior 12-month period  
-   **◦** You contribute $100+ to your investment account monthly  
-   **◦** You qualify for the Young investor offer
+1. **◦** The TD Direct Investing accounts belonging to your Canadian household have combined assets of $15,000+ (this can include your accounts **AND** those of friends, family, roommates, etc.)  
+   **◦** You set up a monthly pre-authorized deposit/contribution or Systematic Investment Plan of $100+ for at least one of the accounts in your Canadian household   
+   **◦** The investing accounts belonging to your Canadian household made a combined 3+ trades in the prior quarter  
+   **◦** There is a Registered Disability Savings Plan (RDSP) belonging to your Canadian household.
 2. 
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Additional fees are charged for US dollar registered accounts (TFSA, RSP & RIF)</span></span>  
