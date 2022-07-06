@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2022-07-01T18:00:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/colton-sturgeon-f7adppog_eq-unsplash_editsize.jpg"
 tags = ["photos", "article"]
 title = "7/1/22 - Best Brokerages in Canada"
@@ -55,7 +54,7 @@ type = "featured"
 2. 
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** TD will pay transfer-out fees of up to $150 for those transferring $25,000+ to a new investing account (max. 4 transfers/client)</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** TD Easy Trade</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** For those new to investing or those who prefer simplicity, a mobile-app called TD Easy Trade is available</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** Details</span></span>
 
 ### Pick #3: Questrade
