@@ -2,8 +2,7 @@
 categories = ["article"]
 date = 2022-07-01T18:00:00Z
 description = "This is meta description"
-draft = true
-image = "/uploads/colton-sturgeon-f7adppog_eq-unsplash_editsize.jpg"
+image = "/uploads/piggybank-sk-ziqvkgsk-unsplash_new_edit.jpg"
 tags = ["photos", "article"]
 title = "7/1/22 - Best Brokerages in Canada"
 type = "featured"
