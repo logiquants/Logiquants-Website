@@ -54,13 +54,7 @@ type = "featured"
 2. 
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** TD will pay transfer-out fees of up to $150 for those transferring $25,000+ to a new investing account (max. 4 transfers/client)</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** For those new to investing or those who prefer simplicity, a mobile-app called TD Easy Trade is available. It features:</span></span>
-
-1. **◦** No account maintenance fees  
-   **◦** No commission on the first 50 stock trades of each calendar year**  
-   ◦** No commission on TD ETFs
-2. 
-
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** For those new to investing or those who prefer simplicity, a mobile-app called TD Easy Trade is available. It features:</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** No account maintenance fees</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** No commission on TD ETFs</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** 50 free stock trades each calendar year </span></span>
