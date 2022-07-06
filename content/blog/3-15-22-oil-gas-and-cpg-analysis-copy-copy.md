@@ -42,7 +42,7 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">The **second best brokerage in Canada is TD Direct Investing**. I would like to emphasize, however, that it's a **tight comparison between Qtrade and TD**. In fact, I would rank TD as best brokerage in Canada if they improved their customer service. Two big advantages that TD has over Qtrade are that there are no fees for holding US dollar registered accounts, and there are no fees on mutual fund transactions. For those who regularly invest in mutual funds and/or hold a US dollar TFSA, RSP or RIF, these cost differences will add up significantly over time. But time is money, and if you're a TD Direct Investing client, you will learn that lesson the hard way. Personally, I would rather lose a few extra dollars in fees than lose my time waiting on the phone.</span></span>
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">dfdfdfdfdf</span></span>
+#### Final Notes on TD Direct Investing<sup>4</sup>:
 
 ### Pick #3: Questrade
 
@@ -55,3 +55,5 @@ type = "featured"
 <sup>2</sup>“Competitive Pricing and Offers - Offers.” Qtrade. Aviso Wealth. Accessed July 1, 2022. [https://www.qtrade.ca/en/investor/pricing/offers.html.](https://www.qtrade.ca/en/investor/pricing/offers.html. "https://www.qtrade.ca/en/investor/pricing/offers.html.")
 
 <sup>3</sup>“Competitive Pricing and Offers - Fees.” Qtrade. Aviso Wealth. Accessed July 1, 2022. [https://www.qtrade.ca/en/investor/pricing/fees.html.](https://www.qtrade.ca/en/investor/pricing/fees.html. "https://www.qtrade.ca/en/investor/pricing/fees.html.")
+
+<sup>4</sup>
