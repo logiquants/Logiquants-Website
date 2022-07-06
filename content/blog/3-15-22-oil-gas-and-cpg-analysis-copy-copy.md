@@ -55,7 +55,7 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Additional fees are charged for US dollar registered accounts (TFSA, RSP & RIF)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** The fees are $15 USD/quarter for each account</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Qtrade will pay the transfer-out fees ($150 max.) of those transferring $15,000+</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** TD will pay transfer-out fees of up to $150 for those transferring $25,000+ to a new investing account (max. 4 transfers/client)</span></span>
 
 ### Pick #3: Questrade
 
