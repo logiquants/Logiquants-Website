@@ -2,6 +2,7 @@
 categories = ["article"]
 date = 2022-07-01T18:00:00Z
 description = "This is meta description"
+draft = true
 image = "/uploads/piggybank-sk-ziqvkgsk-unsplash_edited.jpg"
 tags = ["photos", "article"]
 title = "7/1/22 - Best Brokerages in Canada"
@@ -61,7 +62,7 @@ type = "featured"
 
 ### Pick #3: Questrade
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Last but not least, the **third best brokerage in Canada is Questrade**.</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Last but not least, the **third best brokerage in Canada is Questrade**. Between their amazing customer service and low fees, this was an obvious choice. Though Qtrade has the best customer service out of all the brokerages, Questrade's is a very close second. In terms of fees, Questrade charges some of the lowest in Canada (mutual funds excepted). My biggest complaint is that they charge ATS and ECN fees too. ATSs and ECNs are market intermediaries. They "charge fees whenever an order removes liquidity from the market, meaning it's likely to be filled immediately." Unlike other Canadian brokerages, Questrade passes ATS and ECN fees on to the clients they are incurred by. </span></span>
 
 ### Conclusion: Choose the Brokerage That Works Best for You
 
