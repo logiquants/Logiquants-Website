@@ -53,7 +53,9 @@ type = "featured"
    **◦** There's a Registered Disability Savings Plan (RDSP) account belonging to your household
 2. 
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** TD will pay transfer-out fees of up to $150 for those transferring $25,000+ to a new investing account (max. 4 transfers/client)</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** TD will pay transfer-out fees of up to $150 for those transferring $25,000+ to a new investing account (max. 4 transfers/client)</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** TD Easy Trade (TFSA, RSP & RIF)</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** Details</span></span>
 
 ### Pick #3: Questrade
 
