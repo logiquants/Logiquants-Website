@@ -62,6 +62,8 @@ type = "featured"
 
 ### Pick #3: Questrade
 
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Last but not least, the **third best brokerage in Canada is Questrade**.</span></span>
+
 ### Conclusion: Choose the Brokerage That Works Best for You
 
 ***
