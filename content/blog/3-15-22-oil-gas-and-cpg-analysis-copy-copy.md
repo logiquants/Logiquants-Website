@@ -23,7 +23,7 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Now, back to those offers with Qtrade. First, if you "Open a new account with promo code 50TRADESFREE and transfer in at least $10,000 by August 31, 2022," you can receive up to 50 free trades (a value of roughly $500).<sup>1</sup> Additional conditions apply (full details of the promotion can be found [here](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html)). Secondly, for investors in the range of 18-30 years old, Qtrade offers "Young investor pricing."<sup>2</sup> To qualify, one must setup automatic contributions of $50 or more per month to a Qtrade investment account. What are the benefits of this offer? No account administration fees and a reduced commission fee of $7.75 on stocks, ETFs and mutual funds (full details of the offer can be found [here](https://www.qtrade.ca/en/investor/pricing/offers.html)).</span></span>
 
-#### Final Points on Qtrade<sup>3</sup>:
+#### Final Notes on Qtrade<sup>3</sup>:
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** No minimum amount is required to open an account</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** There is an account administration fee of $25/quarter. It will be waived if you meet at least one of the following conditions:</span></span>
@@ -42,6 +42,8 @@ type = "featured"
 ### Pick #2: TD Direct Investing
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">The **second best brokerage in Canada is TD Direct Investing**. I would like to emphasize, however, that it's a **tight comparison between Qtrade and TD**. In fact, I would rank TD as best brokerage in Canada if they improved their customer service. Two big advantages that TD has over Qtrade are that there are no fees for holding US dollar registered accounts, and there are no fees on mutual fund transactions. For those who regularly invest in mutual funds and/or hold a US dollar TFSA, RSP or RIF, these cost differences will add up significantly over time. But time is money, and if you're a TD Direct Investing client, you will learn that lesson the hard way. Personally, I would rather lose a few extra dollars in fees than lose my time waiting on the phone.</span></span>
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">dfdfdfdfdf</span></span>
 
 ### Pick #3: Questrade
 
