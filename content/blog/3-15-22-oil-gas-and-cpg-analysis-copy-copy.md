@@ -50,7 +50,7 @@ type = "featured"
 1. **◦** The TD Direct Investing accounts belonging to your Canadian household have combined assets of $15,000+ (this can include your accounts **AND** those of friends, family, roommates, etc.)  
    **◦** You set up a monthly pre-authorized deposit/contribution or Systematic Investment Plan of $100+ for at least one of the accounts in your Canadian household   
    **◦** The investing accounts belonging to your household made a combined 3+ trades in the prior quarter  
-   **◦** There is a Registered Disability Savings Plan (RDSP) belonging to your Canadian household.
+   **◦** There is a Registered Disability Savings Plan (RDSP) belonging to your household
 2. 
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Additional fees are charged for US dollar registered accounts (TFSA, RSP & RIF)</span></span>  
