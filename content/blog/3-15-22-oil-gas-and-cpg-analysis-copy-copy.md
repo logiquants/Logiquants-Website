@@ -62,7 +62,7 @@ type = "featured"
 
 ### Pick #3: Questrade
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Last but not least, the **third best brokerage in Canada is Questrade**. Between their amazing customer service and low fees, this was an obvious choice. Though Qtrade has the best customer service out of all the brokerages, Questrade's is a very close second. In terms of fees, Questrade charges some of the lowest in Canada (mutual funds excepted). My biggest complaint is that they charge ATS and ECN fees too. ATSs and ECNs are market intermediaries. They "charge fees whenever an order removes liquidity from the market, meaning it's likely to be filled immediately." Unlike other Canadian brokerages, Questrade passes ATS and ECN fees on to the clients they are incurred by. ECN fees are also charged on orders of shares that are "not in a multiple of 100." </span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Last but not least, the **third best brokerage in Canada is Questrade**. Between their amazing customer service and low fees, this was an obvious choice. Though Qtrade has the best customer service out of all the brokerages, Questrade's is a very close second. In terms of fees, Questrade charges some of the lowest in Canada (mutual funds excepted). My biggest complaint is that they charge ATS and ECN fees too. ATSs and ECNs are market intermediaries. They "charge fees whenever an order removes liquidity from the market, meaning it's likely to be filled immediately." Unlike other Canadian brokerages, Questrade passes ATS and ECN fees on to the clients they are incurred by. ECN fees are also charged on orders of shares that are "not in a multiple of 100."</span></span>
 
 ### Conclusion: Choose the Brokerage That Works Best for You
 
@@ -75,3 +75,9 @@ type = "featured"
 <sup>3</sup>“Competitive Pricing and Offers - Fees.” Qtrade. Aviso Wealth. Accessed July 1, 2022. [https://www.qtrade.ca/en/investor/pricing/fees.html.](https://www.qtrade.ca/en/investor/pricing/fees.html. "https://www.qtrade.ca/en/investor/pricing/fees.html.")
 
 <sup>4</sup>“Pricing.” Fees & Pricing – TD Direct Investing. TD Bank Group. Accessed July 1, 2022. [https://www.td.com/ca/en/investing/direct-investing/pricing.](https://www.td.com/ca/en/investing/direct-investing/pricing. "https://www.td.com/ca/en/investing/direct-investing/pricing."); “TD Easy Trade.” Commission-free trading | TD Easy Trade. TD Bank Group. Accessed July 1, 2022. [https://www.td.com/ca/en/investing/direct-investing/services/easytrade?gclid=EAIaIQobChMIy6qv4MXk-AIVQhB9Ch0x0wdkEAAYASAAEgLHOPD_BwE&gclsrc=aw.ds.](https://www.td.com/ca/en/investing/direct-investing/services/easytrade?gclid=EAIaIQobChMIy6qv4MXk-AIVQhB9Ch0x0wdkEAAYASAAEgLHOPD_BwE&gclsrc=aw.ds. "https://www.td.com/ca/en/investing/direct-investing/services/easytrade?gclid=EAIaIQobChMIy6qv4MXk-AIVQhB9Ch0x0wdkEAAYASAAEgLHOPD_BwE&gclsrc=aw.ds.")
+
+<sup>5</sup>
+
+<sup>6</sup>
+
+<sup>7</sup>
