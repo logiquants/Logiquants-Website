@@ -68,7 +68,7 @@ type = "featured"
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** There's a minimum amount of $1000 required to begin investing in a Questrade account</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Their accounts don't have any quarterly or annual fees</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Questrade will pay transfer-out fees of up to $150 for those transferring an account, "regardless of the balance" (no max. number of transfers/client)</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Questrade is currently offering a couple of different [promotions](https://www.questrade.com/about-us/programs-promotions)</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** A couple of different [promotions](https://www.questrade.com/about-us/programs-promotions) are currently being offered</span></span>
 
 ### Conclusion: Choose the Brokerage That Works Best for You
 
