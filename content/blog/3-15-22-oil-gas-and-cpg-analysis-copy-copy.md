@@ -69,8 +69,8 @@ type = "featured"
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Their accounts don't have any quarterly or annual fees</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Questrade will pay transfer-out fees of up to $150 for those transferring an account, regardless of the balance (no max. number of transfers/client)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Questrade is currently offering two different [promotions](https://www.questrade.com/about-us/programs-promotions):</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     1. Open an account using promo code 5FREETRADES, and fund it with $1000+ by Dec.      &nbsp;&nbsp;&nbsp;&nbsp;31, 2022 to receive 5 commission-free trades ($24.75-$49.75 in value)</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     2. 50 free stock trades each calendar year </span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     1. Open an account using promo code 5FREETRADES, and fund it with $1000+ by Dec.      &nbsp;&nbsp;&nbsp;&nbsp;31, 2022 to receive 5 commission-free trades ($24.75-$49.75 in value). Additional conditions apply (full details of the promotion can be found here).</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     2. Additional conditions apply (full details of the promotion can be found here).</span></span>
 
 ### Conclusion: Choose the Brokerage That Works Best for You
 
