@@ -45,7 +45,7 @@ type = "featured"
 #### Final Notes on TD Direct Investing<sup>4</sup>:
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** No minimum amount is required to open an account</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** There is an account maintenace fee of $25/quarter. It can be waived if you meet at least one of the following conditions:</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** There's an account maintenace fee of $25/quarter. It can be waived if you meet at least one of the following conditions:</span></span>
 
 1. **◦** The TD Direct Investing accounts belonging to your Canadian household have combined assets of $15,000+ (this can include your accounts **AND** those of friends, family, roommates, etc.)  
    **◦** You set up a monthly pre-authorized deposit/contribution or Systematic Investment Plan of $100+ for at least one of the accounts in your Canadian household  
