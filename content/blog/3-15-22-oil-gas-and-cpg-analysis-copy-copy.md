@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2022-07-01T18:00:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/piggybank-sk-ziqvkgsk-unsplash_edited.jpg"
 tags = ["photos", "article"]
 title = "7/1/22 - The Best Brokerages in Canada"
@@ -72,6 +71,8 @@ type = "featured"
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** A couple of different [promotions](https://www.questrade.com/about-us/programs-promotions) are currently being offered</span></span>
 
 ### Conclusion: Choose the Brokerage That Works Best for You
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Even though I think Qtrade is the overall best brokerage in Canada, that doesn't mean it's the best solution for everyone. For example, </span></span>
 
 ***
 
