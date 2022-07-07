@@ -71,7 +71,7 @@ type = "featured"
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Questrade is currently offering two different promotions:</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** No account maintenance fees</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **◦** No commission on TD ETFs</span></span>  
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     **1.** 50 free stock trades each calendar year </span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">    **1.** 50 free stock trades each calendar year </span></span>
 
 ### Conclusion: Choose the Brokerage That Works Best for You
 
