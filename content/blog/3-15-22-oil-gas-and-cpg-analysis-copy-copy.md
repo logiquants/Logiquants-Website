@@ -75,6 +75,8 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Even though I think Qtrade is the overall best brokerage in Canada, that doesn't mean it's the best solution for everyone. For instance, TD would be the best brokerage for someone with $15,000+ who's brand new to investing, and will only invest in mutual funds long-term. Why? Someone who only buys/sells mutual funds usually doesn't need to call the brokerage often, making customer service less of a concern. On top of that, it's free to trade mutual funds with TD Direct Investing, whereas Qtrade charges $8.75 for each buy/sell. Lastly, TD waives the maintenance fee for accounts with $15,000+. While there are always additional factors to consider in choosing the right brokerage, these 3 are so significant that they make the decision a no-brainer.</span></span>
 
+Picking the right brokerage can be complicated, but keep in mind that Qtrade, TD and Questrade are all excellent choices. They each have a good amount of investment offerings, a great brokerage platform, and protection under the Canadian Investor Protection Fund. Thank you for reading. I hope this article was helpful!
+
 ***
 
 <sup>1</sup>“Get 50 Free Trades​.” Qtrade. Aviso Wealth. Accessed July 1, 2022. [https://www.qtrade.ca/en/investor/offers/free-trades-offer.html.](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html. "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html.")
