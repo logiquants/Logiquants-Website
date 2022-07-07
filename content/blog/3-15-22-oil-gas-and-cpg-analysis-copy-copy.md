@@ -72,7 +72,7 @@ type = "featured"
 
 ### Conclusion: Choose the Brokerage That Works Best for You
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Even though I think Qtrade is the overall best brokerage in Canada, that doesn't mean it's the best solution for everyone. For example, </span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Even though I think Qtrade is the overall best brokerage in Canada, that doesn't mean it's the best solution for everyone. For instance, TD would be the best brokerage for someone with $15,000+ who's brand new to investing and will only invest in mutual funds long-term. Why? </span></span>
 
 ***
 
