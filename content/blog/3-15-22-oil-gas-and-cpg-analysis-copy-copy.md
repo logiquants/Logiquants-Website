@@ -20,7 +20,7 @@ type = "featured"
 
 ###### **Important Note:** the prices in the table above are available to all investors. In addition to these prices, Qtrade, TD Direct Investing and Questrade also offer active trader plans that come with reduced commission fees. There are specific requirements that need to be met to hold an active trader plan. To find more detail, please visit the respective brokerage's website.
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Now, back to those offers with Qtrade. First, if you "Open a new account with promo code 50TRADESFREE and transfer in at least $10,000 by August 31, 2022," you can receive up to 50 free trades (a value of roughly $500).<sup>1</sup> Additional conditions apply (full details of the promotion can be found [here](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html)). Secondly, for investors in the range of 18-30 years old, Qtrade offers "Young investor pricing."<sup>2</sup> To qualify, one must set up automatic contributions of $50 or more per month to a Qtrade investment account. What are the benefits of this offer? No account administration fees and a reduced commission fee of $7.75 on stocks, ETFs and mutual funds (full details of the offer can be found [here](https://www.qtrade.ca/en/investor/pricing/offers.html)).</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Now, back to those offers with Qtrade. First, if you "Open a new account with promo code 50TRADESFREE and transfer in at least $10,000 by August 31, 2022," you can receive up to 50 free ETF/equity trades (a value of roughly $500).<sup>1</sup> Additional conditions apply (full details of the promotion can be found [here](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html)). Secondly, for investors in the range of 18-30 years old, Qtrade offers "Young investor pricing."<sup>2</sup> To qualify, one must set up automatic contributions of $50 or more per month to a Qtrade investment account. What are the benefits of this offer? No account administration fees and a reduced commission fee of $7.75 on stocks, ETFs and mutual funds (full details of the offer can be found [here](https://www.qtrade.ca/en/investor/pricing/offers.html)).</span></span>
 
 #### Final Notes on Qtrade<sup>3</sup>:
 
@@ -72,7 +72,7 @@ type = "featured"
 
 ### Conclusion: Choose the Brokerage That Works Best for You
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Even though I think Qtrade is the overall best brokerage in Canada, that doesn't mean it's the best solution for everyone. For instance, TD would be the best brokerage for someone with $15,000+ who's brand new to investing and will only invest in mutual funds long-term. Why? </span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Even though I think Qtrade is the overall best brokerage in Canada, that doesn't mean it's the best solution for everyone. For instance, TD would be the best brokerage for someone with $15,000+ who's brand new to investing and will only invest in mutual funds long-term. Why? Someone who only buys/sells mutual funds usually doesn't need to call the brokerage often, making customer service less of a concern. On top of that, it's free to trade mutual funds with TD Direct Investing, whereas Qtrade charges $8.75 for each buy/sell. </span></span>
 
 ***
 
