@@ -23,3 +23,5 @@ type = "featured"
 Thank you for reading. Stay tuned for my next article on the best investment opportunities available in the gold industry right now!
 
 ***
+
+<sup>1</sup>Hayes, Adam. “Dollar-Cost Averaging (DCA).” Edited by Cierra Murry and Pete Rathburn. Investopedia. Dotdash Meredith, May 28, 2022. [https://www.investopedia.com/terms/d/dollarcostaveraging.asp.](https://www.investopedia.com/terms/d/dollarcostaveraging.asp. "https://www.investopedia.com/terms/d/dollarcostaveraging.asp.")
