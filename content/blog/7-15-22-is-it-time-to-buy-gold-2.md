@@ -2,11 +2,10 @@
 categories = ["article"]
 date = 2022-07-15T23:00:00Z
 description = "An article from LogiQuants about investing in gold and why now might be a good time"
-draft = true
 image = "/uploads/gold-unsplash_resized.jpg"
 tags = ["article"]
 title = "7/15/22 - Is it Time to Buy Gold?"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">After the market crash of March 2020, gold was one of the first industries to see a significant rebound in price. Within 5 weeks of the crash, numerous Canadian gold companies saw their shares rebound 100% or more (from the lows). But it didn’t end there. In just 6 months, some companies saw their shares increase more than 200% from the lows.</span></span>
