@@ -20,8 +20,8 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Although buying shares of individual companies can result in a much greater return, it also involves a lot more risk. The risk of investing in individual companies is much more concerning for someone investing $1,000 ($20,000 x 5%) versus someone investing $50,000 ($1,000,000 x 5%). With $50,000 to invest, the money can be spread out between different companies (reducing risk through diversification). In comparison, it's much harder to achieve the same results with $1,000. This is where Exchange Traded Funds (ETFs) and mutual funds come into play. For those who don't know, ETFs and mutual funds are investment types that already consist of a diverse portfolio. ETFs and mutual funds are the best options for reducing risk in smaller investment portfolios.</span></span>
 
-Thank you for reading. Stay tuned for my next article on the best investment opportunities available in the gold industry right now!<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">
+Thank you for reading. Stay tuned for my next article on the best investment opportunities available in the gold industry right now!
 
 ***
 
-</span></span><sup>1</sup>Hayes, Adam. “Dollar-Cost Averaging (DCA).” Edited by Cierra Murry and Pete Rathburn. Investopedia. Dotdash Meredith, May 28, 2022. [https://www.investopedia.com/terms/d/dollarcostaveraging.asp.](https://www.investopedia.com/terms/d/dollarcostaveraging.asp. "https://www.investopedia.com/terms/d/dollarcostaveraging.asp.")
+<sup>1</sup>Hayes, Adam. “Dollar-Cost Averaging (DCA).” Edited by Cierra Murry and Pete Rathburn. Investopedia. Dotdash Meredith, May 28, 2022. [https://www.investopedia.com/terms/d/dollarcostaveraging.asp.](https://www.investopedia.com/terms/d/dollarcostaveraging.asp. "https://www.investopedia.com/terms/d/dollarcostaveraging.asp.")
