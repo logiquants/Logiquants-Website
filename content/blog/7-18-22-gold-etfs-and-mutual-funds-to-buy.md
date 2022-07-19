@@ -14,6 +14,6 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Finally, for any readers learning about ETFs or mutual funds for the first time, there are 2 main differences to consider between them. The first is that, in general, ETFs charge lower MERs than mutual funds. For example, XGD and ZJG both charge an MER of 0.61%, and RBF614 has the lowest MER out of the 4 mutual funds at 0.99%. The second difference to note is that ETFs can be traded like stocks, whereas mutual funds are meant to be held more long-term. If a mutual fund is sold in its first 30 days of being held, a short-term redemption fee is usually charged.</span></span>
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">As always, thank you for reading! Don't hesitate to send me any of your questions through the contact page.</span></span>
+As always, thank you for reading! Don't hesitate to send me any of your questions through the contact page.
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Throughout this week, I will be releasing follow-up articles on which individual gold companies to buy.</span></span>
+Throughout this week, I will be releasing follow-up articles on which individual gold companies to buy.
