@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2022-07-15T23:00:00Z
 description = "An article from LogiQuants about investing in gold and why now might be a good time"
-draft = true
 image = "/uploads/gold-unsplash_resized.jpg"
 tags = ["article"]
 title = "7/15/22 - Is it Time to Buy Gold?"
