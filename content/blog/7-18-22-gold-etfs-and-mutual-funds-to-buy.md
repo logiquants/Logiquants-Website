@@ -16,4 +16,4 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">As always, thank you for reading! Don't hesitate to send me any of your questions through the contact page.</span></span>
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Tomorrow, I will release a follow-up article on which individual gold companies to buy.</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Later this week, I will release a follow-up article on which individual gold companies to buy.</span></span>
