@@ -22,3 +22,5 @@ Blackberry QNX is the name of the operating system being placed in vehicles toda
 I could continue to go on and on about Blackberry, but there's too much to cover in one article. Shoot, I never even mentioned they do business with the United States and Canadian governments. While Blackberry's future looks promising, bear in mind that it's still a risky investment. The company faced a loss of roughly 1.1 billion dollars (USD) in fiscal 2021. If you can handle the risk, however, the reward could be well worth it. Blackberry has beat earnings estimates in each of the last 4 quarters. Although I'm not currently an investor, I'm confident Blackberry will do well long term.
 
 ***
+
+<span style="font-family:Times New Roman; font-size:1em;"><sup>1</sup>Hayes, Adam. “Dollar-Cost Averaging (DCA).” Edited by Cierra Murry and Pete Rathburn. Investopedia. Dotdash Meredith, May 28, 2022. [https://www.investopedia.com/terms/d/dollarcostaveraging.asp.](https://www.investopedia.com/terms/d/dollarcostaveraging.asp. "https://www.investopedia.com/terms/d/dollarcostaveraging.asp.")</span>
