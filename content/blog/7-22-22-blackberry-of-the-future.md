@@ -23,4 +23,4 @@ I could continue to go on and on about Blackberry, but there's too much to cover
 
 ***
 
-<span style="font-family:Times New Roman; font-size:1em;"><sup>1</sup>Hayes, Adam. “Dollar-Cost Averaging (DCA).” Edited by Cierra Murry and Pete Rathburn. Investopedia. Dotdash Meredith, May 28, 2022. [https://www.investopedia.com/terms/d/dollarcostaveraging.asp.](https://www.investopedia.com/terms/d/dollarcostaveraging.asp. "https://www.investopedia.com/terms/d/dollarcostaveraging.asp.")</span>
+<span style="font-family:Times New Roman; font-size:1em;"><sup>1</sup>Statistics Canada Government Of Canada, “Table 1 Total and Median Net Worth by Age and Family Type ,” Total and median net worth by age and family type (Statistics Canada, December 22, 2020), [https://www150.statcan.gc.ca/n1/daily-quotidien/201222/t001b-eng.htm.](https://www150.statcan.gc.ca/n1/daily-quotidien/201222/t001b-eng.htm. "https://www150.statcan.gc.ca/n1/daily-quotidien/201222/t001b-eng.htm.")</span>
