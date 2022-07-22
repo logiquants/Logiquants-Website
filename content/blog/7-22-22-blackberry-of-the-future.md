@@ -1,10 +1,10 @@
 +++
-categories = []
+categories = ["article"]
 date = 2022-07-22T04:00:00Z
 description = "An article from LogiQuants about Blackberry Ltd."
 draft = true
 image = "/uploads/blackberry-unsplash.jpg"
-tags = []
+tags = ["article"]
 title = "7/22/22 - Blackberry of the Future"
 type = "featured"
 
