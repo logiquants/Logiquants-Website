@@ -16,4 +16,4 @@ type = "featured"
 
 As always, thank you for reading! Don't hesitate to send me any of your questions through the contact page.
 
-Throughout this week, I will be releasing follow-up articles on which individual gold companies to buy.
+Throughout next week, I will be releasing follow-up articles on which individual gold companies to buy.
