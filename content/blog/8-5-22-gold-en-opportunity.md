@@ -2,6 +2,7 @@
 categories = ["article"]
 date = 2022-08-05T05:00:00Z
 description = "An article from LogiQuants about Alamos Gold Inc."
+draft = true
 image = "/uploads/golden_glitter.jpg"
 tags = ["article"]
 title = "8/5/22 - Gold(en) Opportunity"
