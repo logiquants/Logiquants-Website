@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/piggybank-sk-ziqvkgsk-unsplash_edited.jpg"
 tags = ["article"]
 title = "7/1/22 - The Best Brokerages in Canada"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Welcome to my review on the best brokerages in Canada. I will be focusing on the overall features that each brokerage has to offer. While **Qtrade**, **TD Direct Investing**, and **Questrade** are the best options for many Canadians, a sophisticated investor may be better off using a different brokerage. Feel free to contact me at cameron@logiquants.ca with any questions or concerns.</span></span>
