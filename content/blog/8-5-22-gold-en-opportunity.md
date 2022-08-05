@@ -1,6 +1,6 @@
 +++
 categories = ["article"]
-date = 2022-08-05T09:00:00Z
+date = 2022-08-05T05:00:00Z
 description = "An article from LogiQuants about Alamos Gold Inc."
 image = "/uploads/golden_glitter.jpg"
 tags = ["article"]
