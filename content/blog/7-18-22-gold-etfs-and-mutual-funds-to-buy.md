@@ -15,5 +15,3 @@ type = "featured"
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Finally, for any readers learning about ETFs or mutual funds for the first time, there are 3 main differences to consider between them. The first is that, in general, ETFs charge lower MERs than mutual funds. For example, XGD and ZJG both charge an MER of 0.61%, and RBF614 has the lowest MER out of the 4 mutual funds at 0.99%. The second difference to note is that ETFs can be traded like stocks, whereas mutual funds are meant to be held more long-term. If a mutual fund is sold in its first 30 days of being held, a short-term redemption fee is usually charged. Last but not least, there's typically a minimum amount required to invest in a mutual fund. There's no minimum amount required to invest in ETFs, however. All 4 of the mutual funds mentioned in this article require an initial minimum investment of $500.</span></span>
 
 As always, thank you for reading! Don't hesitate to send me any of your questions through the contact page.
-
-Throughout next week, I will be releasing follow-up articles on which individual gold companies to buy.
