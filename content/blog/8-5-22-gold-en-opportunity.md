@@ -14,7 +14,7 @@ Alamos produces gold and its main operations are in Mexico and Canada. In Mexico
 
 ### The Good
 
-I use a lot of different technical analysis indicators, and I like the graph of AGI. On top of that, the CEO of Alamos has been buying shares every month. He currently holds about 1 million in total, which signifies his confidence in the business. This is noteworthy because he was previously a director of the World Gold Council. Last but not least, AGI pays a dividend of 1.34%.
+I use a lot of different technical analysis indicators, and I like the graph of AGI. On top of that, the CEO of Alamos has been buying shares every month. He currently holds about 1 million in total, which signifies his confidence in the business. This is noteworthy because he was previously a director of the World Gold Council. Last but not least, AGI comes with an annual dividend yield of 1.34%.
 
 ### The Bad
 
