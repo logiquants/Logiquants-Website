@@ -12,4 +12,4 @@ type = "premium"
 
 <video src="LINK" controls="controls" style="max-width: 730px;">[https://www.youtube.com/watch?v=rZwSqX6J5hs&list=RDrZwSqX6J5hs&start_radio=1](https://www.youtube.com/watch?v=rZwSqX6J5hs&list=RDrZwSqX6J5hs&start_radio=1 "https://www.youtube.com/watch?v=rZwSqX6J5hs&list=RDrZwSqX6J5hs&start_radio=1")</video>
 
-<iframe width="640" height="480" src="/uploads/test_video.MOV" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="480" src="LINK" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>[https://www.youtube.com/watch?v=rZwSqX6J5hs&list=RDrZwSqX6J5hs&start_radio=1](https://www.youtube.com/watch?v=rZwSqX6J5hs&list=RDrZwSqX6J5hs&start_radio=1 "https://www.youtube.com/watch?v=rZwSqX6J5hs&list=RDrZwSqX6J5hs&start_radio=1")</iframe>
