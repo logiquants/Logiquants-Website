@@ -10,3 +10,5 @@ type = "premium"
 
 +++
 [test_video.MOV](/uploads/test_video.MOV "test_video.MOV")
+
+<video src="LINK" controls="controls" style="max-width: 730px;"></video>
