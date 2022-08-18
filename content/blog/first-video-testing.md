@@ -9,5 +9,3 @@ type = "premium"
 
 +++
 [test_video.MOV](/uploads/test_video.MOV "test_video.MOV")
-
-![](/uploads/me2.jpg)
