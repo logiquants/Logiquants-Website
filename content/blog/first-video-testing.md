@@ -10,7 +10,4 @@ type = "premium"
 +++
 [test_video.MOV](/uploads/test_video.MOV "test_video.MOV")
 
-
-
-https://user-images.githubusercontent.com/99371502/185506154-974d6fe7-760e-4093-9645-75e1c9aced42.mp4
-
+https://user-images.githubusercontent.com/99371502/185506154-974d6fe7-760e-4093-9645-75e1c9aced42.mp4![](/uploads/me2.jpg)
