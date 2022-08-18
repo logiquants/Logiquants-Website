@@ -9,3 +9,5 @@ type = "premium"
 
 +++
 [test_video.MOV](/uploads/test_video.MOV "test_video.MOV")
+
+[test_video.mp4](/uploads/test_video.mp4 "test_video.mp4")
