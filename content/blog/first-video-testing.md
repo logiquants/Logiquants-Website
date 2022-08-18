@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2022-08-10T10:00:00Z
 description = "A video from LogiQuants."
-draft = true
 image = "/uploads/golden_glitter.jpg"
 tags = ["article"]
 title = "First Video - Testing"
