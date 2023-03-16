@@ -1,6 +1,6 @@
 +++
 categories = ["article"]
-date = 2023-03-17T01:00:00Z
+date = 2023-03-16T22:00:00Z
 description = "An article from LogiQuants about how to start investing."
 image = "/uploads/cad_dollars_unsplash.jpg"
 tags = ["article"]
