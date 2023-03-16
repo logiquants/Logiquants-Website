@@ -43,4 +43,4 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Last but not least, it’s crucial to keep in mind that your investments won’t always increase in value. If you can’t stomach the thought of losing money on an investment, then investing may not be for you. What’s truly important is that you have more winning investments than you do losing investments; that way, you’re still winning overall.</span></span>
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Feel free to contact me with any questions or concerns. I can be reached at [cameron@logiquants.ca](mailto:cameron@logiquants.ca) or through the CONTACT page.</span></span>
+Feel free to contact me with any questions or concerns. I can be reached at [cameron@logiquants.ca](mailto:cameron@logiquants.ca) or through the CONTACT page.
