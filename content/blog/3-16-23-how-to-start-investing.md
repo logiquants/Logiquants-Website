@@ -28,11 +28,11 @@ Therefore, a Canadian resident turning 18 years old in 2023 would have only $6,5
 
 In terms of actually administering a money transfer to your investment account, most brokerages allow you to do it yourself, online. If you prefer to have someone guide you or even do it for you, you could also call the respective brokerage. There are numerous ways to fund your investment account.
 
-**Step 3: Research**
+### **Step 3: Research**
 
 One of the most important aspects of investing is research. Without research, there’s a greater chance you will invest in bad companies, and as a result, lose money. If you’re going to put money at risk, the least you can do is make sure it’s a risk worth taking. By conducting high-quality research, there’s usually a better chance that your investments will perform well. I put many hours of research into every investment decision that I make. That’s actually why I started the Premium Investment Research section of the website. My thought was that if I can save my readers time, and I’m going to spend countless hours researching for myself anyway, why not just sell my best research to those who are willing to subscribe? So, that’s exactly what I did.
 
-**Step 4: Buy**
+### **Step 4: Buy**
 
 After you’re satisfied with your research, it’s time to put it to use. Log in to your online brokerage account, and find the investment that you’re interested in buying. While some new investors may choose to invest in individual companies, it’s usually safer to stick with exchange-traded funds (ETFs) and mutual funds when you’re first starting. This comes down to the saying that you shouldn’t put all of your eggs in one basket. By containing a pool of different investments, both ETFs and mutual funds provide diversified risk. This diversified risk does have a small cost, however, as most ETFs and mutual funds charge fees. With that said, it’s worth noting that ETFs typically have lower fees than mutual funds. Another difference between the two is that mutual funds usually have a minimum holding period, whereas ETFs do not. There is often a penalty for selling units of a mutual fund before the end of the minimum holding period.
 
