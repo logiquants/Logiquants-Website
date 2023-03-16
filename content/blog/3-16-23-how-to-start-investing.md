@@ -18,9 +18,9 @@ type = "featured"
 
 ### **Step 2: Transfer Money Into the Investment Account**
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Depending on the type of investment account you open, there are different rules/limitations associated with transferring money into it. For example, consider the TFSA contribution room, as mentioned above. According to the CRA, the TFSA contribution room is the total amount of all of the following:</span></span><span style="color:black"><span style="font-family:Arial; font-size:1.2em;">
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Depending on the type of investment account you open, there are different rules/limitations associated with transferring money into it. For example, consider the TFSA contribution room, as mentioned above. According to the CRA, the TFSA contribution room is the total amount of all of the following:</span></span>
 
-1. • the TFSA dollar limit of the current year ($6,500 for 2023)  
+1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• the TFSA dollar limit of the current year ($6,500 for 2023)  
    • any unused TFSA contribution room from previous years  
    • any withdrawals made from the TFSA in the previous year
 2. </span></span>
