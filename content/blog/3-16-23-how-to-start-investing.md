@@ -10,7 +10,7 @@ type = "featured"
 +++
 ### **Step 1: Open an Investment Account**
 
-There are many different types of investment accounts in Canada. But for someone without any previous investing experience, a Tax-Free Savings Account (TFSA) is generally a good first choice.
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">There are many different types of investment accounts in Canada. But for someone without any previous investing experience, a Tax-Free Savings Account (TFSA) is generally a good first choice.
 
 A TFSA lets Canadian residents who are at least 18 years of age grow their wealth tax-free. The main catch with a TFSA is that the amount of money you can contribute to it is limited. This limit is also known as contribution room. To check your TFSA contribution room, simply log in to your account with the Canada Revenue Agency (CRA) and locate the information.
 
