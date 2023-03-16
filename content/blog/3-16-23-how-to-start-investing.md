@@ -1,7 +1,7 @@
 +++
-categories = []
+categories = ["article"]
 date = 2023-03-17T01:00:00Z
-description = ""
+description = "An article from LogiQuants about how to start investing."
 draft = true
 image = ""
 tags = []
