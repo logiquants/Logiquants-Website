@@ -8,7 +8,7 @@ title = "3/16/23 - How to Start Investing"
 type = "featured"
 
 +++
-**Step 1: Open an Investment Account**
+### **Step 1: Open an Investment Account**
 
 There are many different types of investment accounts in Canada. But for someone without any previous investing experience, a Tax-Free Savings Account (TFSA) is generally a good first choice.
 
@@ -16,7 +16,7 @@ A TFSA lets Canadian residents who are at least 18 years of age grow their wealt
 
 Once you have decided on the type of investment account to open, it’s time to choose what brokerage to open it with. For those of you who do your banking with TD, if you want to make life easy, open an investment account with TD Direct Investing. For everyone else, read my article on THE BEST BROKERAGES IN CANADA to help determine which brokerage you should go with. Once you have settled on a decision, open an investment account with the brokerage.
 
-**Step 2: Transfer Money Into the Investment Account**
+### **Step 2: Transfer Money Into the Investment Account**
 
 Depending on the type of investment account you open, there are different rules/limitations associated with transferring money into it. For example, consider the TFSA contribution room, as mentioned above. According to the CRA, the TFSA contribution room is the total amount of all of the following:
 
