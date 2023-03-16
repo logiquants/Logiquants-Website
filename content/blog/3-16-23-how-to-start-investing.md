@@ -8,8 +8,6 @@ title = "3/16/23 - How to Start Investing"
 type = "featured"
 
 +++
-**How to Start Investing**
-
 **Step 1: Open an Investment Account**
 
 There are many different types of investment accounts in Canada. But for someone without any previous investing experience, a Tax-Free Savings Account (TFSA) is generally a good first choice.
