@@ -1,0 +1,35 @@
++++
+categories = ["article"]
+date = 2022-07-22T04:00:00Z
+description = "An article from LogiQuants about BlackBerry Ltd."
+image = "/uploads/bb-unsplash.jpg"
+tags = ["article"]
+title = "7/22/22 - BlackBerry of the Future-(copy)"
+type = "featured"
+
++++
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">The world is in for a rude wake-up call. Since the beginning of the COVID-19 pandemic, cybercrime and vehicle theft have both increased significantly. These are trends that I believe will only accelerate in the foreseeable future. According to Stats Canada, in 2019, the median net worth of those under the age of 35 was only $48,800.<sup>1</sup> The median net worth of every other age group was as follows: $234,400 for those 35 to 44, $521,100 for those 45 to 54, $690,000 for those 55 to 64, and $543,200 for those 65 and older.<sup>2</sup> Even though the pandemic has affected the net worth of Canadians, I doubt there's been a significant change in the median numbers from 2019.</span></span>
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Now, ask yourself, which age group do you think knows technology and the internet the best? I know which one I'm choosing - those under the age of 35. Considering that the age group with the greatest median net worth (age 55 to 64) is also one of the most technologically uninclined, it's no surprise that cybercrime is increasing. The age group with the lowest net worth has some of the most technologically inclined, making cybercrime and modern vehicle theft all the more likely. Consequently, it's more important now than ever to take both cybersecurity and vehicle theft seriously. Being proactive can save a lot of money.</span></span>
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">On that note, cue the lights for BlackBerry Ltd (TSX: BB)(NYSE: BB). If you agree with what you've read so far in this article, then I think you will support their current business ventures. BlackBerry no longer produces handheld devices. Instead, they sell "enterprise security solutions and operating systems for increasingly connected cars."<sup>3</sup></span></span>
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Some of the different security solutions they offer are BlackBerry AtHoc, Alert, and Spark. The intended use of both AtHoc and Alert is to help organizations manage critical events. More specifically, they enable secure communication in the event of a crisis. BlackBerry Spark provides organizations with cybersecurity through the combined use of machine learning and artificial intelligence. It's worth highlighting the flexibility that Spark provides, as it's effective regardless of whether employees are working in the office or from a personal device at home.<sup>4</sup></span></span>
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">BlackBerry QNX is the name of the operating system being placed in vehicles today. In CEO, John Chen's own words, “BlackBerry continues to be the clear market leader in safety-critical embedded automotive software, with consistent growth in vehicles count, from over 16 million in 2013 to over 215 million today."<sup>5</sup> Automotive companies are clearly taking vehicle safety seriously, or else QNX wouldn't be growing so fast. BMW, Mercedes-Benz, Honda and Toyota are just a few of the many automakers using BlackBerry QNX.</span></span>
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">I could continue to go on and on about BlackBerry, but there's too much to cover in one article. Shoot, I never even mentioned they do business with the United States and Canadian governments. While BlackBerry's future looks promising, bear in mind that it's still a risky investment. The company faced a loss of roughly 1.1 billion dollars (USD) in fiscal 2021. If you can handle the risk, however, the reward could be well worth it. BlackBerry has beat earnings estimates in each of the last 4 quarters. Although I'm not currently an investor, I'm confident BlackBerry will do well long term.</span></span>
+
+***
+
+<span style="font-family:Times New Roman; font-size:1em;"><sup>1</sup>Statistics Canada Government Of Canada, “Table 1 Total and Median Net Worth by Age and Family Type ,” Total and median net worth by age and family type (Statistics Canada, December 22, 2020), [https://www150.statcan.gc.ca/n1/daily-quotidien/201222/t001b-eng.htm.](https://www150.statcan.gc.ca/n1/daily-quotidien/201222/t001b-eng.htm. "https://www150.statcan.gc.ca/n1/daily-quotidien/201222/t001b-eng.htm.")</span>
+
+<span style="font-family:Times New Roman; font-size:1em;"><sup>2</sup>Statistics Canada Government Of Canada, “Table 1 Total and Median Net Worth by Age and Family Type ,” Total and median net worth by age and family type (Statistics Canada, December 22, 2020), [https://www150.statcan.gc.ca/n1/daily-quotidien/201222/t001b-eng.htm.](https://www150.statcan.gc.ca/n1/daily-quotidien/201222/t001b-eng.htm. "https://www150.statcan.gc.ca/n1/daily-quotidien/201222/t001b-eng.htm.")</span>
+
+<span style="font-family:Times New Roman; font-size:1em;"><sup>3</sup>Borzykowski, Bryan. “BlackBerry's Makeover Brought the Company Back from the Brink.” CPA Canada. CPA Canada, May 18, 2022. [https://www.cpacanada.ca/en/news/pivot-magazine/2022-05-18-blackberry-rebound#:\~:text=It%20also%20has%20BlackBerry%20IVY,but%20Eagan%20sees%20massive%20opportunity.](https://www.cpacanada.ca/en/news/pivot-magazine/2022-05-18-blackberry-rebound#:\~:text=It%20also%20has%20BlackBerry%20IVY,but%20Eagan%20sees%20massive%20opportunity. "https://www.cpacanada.ca/en/news/pivot-magazine/2022-05-18-blackberry-rebound#:~:text=It%20also%20has%20BlackBerry%20IVY,but%20Eagan%20sees%20massive%20opportunity.")
+
+</span>
+
+<span style="font-family:Times New Roman; font-size:1em;"><sup>4</sup>“BlackBerry Spark Uem Suites,” BlackBerry (Blackberry Limited), accessed July 22, 2022, [https://www.blackberry.com/us/en/products/blackberry-spark-suites/uem.](https://www.blackberry.com/us/en/products/blackberry-spark-suites/uem. "https://www.blackberry.com/us/en/products/blackberry-spark-suites/uem.")</span>
+
+<span style="font-family:Times New Roman; font-size:1em;"><sup>5</sup>“BlackBerry Software Is Now Embedded In Over 215 Million Vehicles,” BlackBerry (Blackberry Limited, June 22, 2022), [https://www.blackberry.com/us/en/company/newsroom/press-releases/2022/blackberry-software-is-now-embedded-in-over-215-million-vehicles.](https://www.blackberry.com/us/en/company/newsroom/press-releases/2022/blackberry-software-is-now-embedded-in-over-215-million-vehicles. "https://www.blackberry.com/us/en/company/newsroom/press-releases/2022/blackberry-software-is-now-embedded-in-over-215-million-vehicles.")</span>
