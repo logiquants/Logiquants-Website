@@ -14,7 +14,7 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">A TFSA lets Canadian residents who are at least 18 years of age grow their wealth tax-free. The main catch with a TFSA is that the amount of money you can contribute to it is limited. This limit is also known as contribution room. To check your TFSA contribution room, simply log in to your account with the Canada Revenue Agency (CRA) and locate the information.</span></span>
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Once you have decided on the type of investment account to open, it’s time to choose what brokerage to open it with. For those of you who do your banking with TD, if you want to make life easy, open an investment account with TD Direct Investing. For everyone else, read my article on THE BEST BROKERAGES IN CANADA to help determine which brokerage you should go with. Once you have settled on a decision, open an investment account with the brokerage.</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Once you have decided on the type of investment account to open, it’s time to choose what brokerage to open it with. For those of you who do your banking with TD, if you want to make life easy, open an investment account with TD Direct Investing. For everyone else, read my article on [The Best Brokerages in Canada](https://www.logiquants.ca/blog/7-1-22-the-best-brokerages-in-canada/) to help determine which brokerage you should go with. Once you have settled on a decision, open an investment account with the brokerage.</span></span>
 
 ### **Step 2: Transfer Money Into the Investment Account**
 
