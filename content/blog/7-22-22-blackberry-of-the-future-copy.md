@@ -4,7 +4,7 @@ date = 2022-07-22T04:00:00Z
 description = "An article from LogiQuants about BlackBerry Ltd."
 image = "/uploads/bb-unsplash.jpg"
 tags = ["article"]
-title = "3/16/23 - How to Start Investing"
+title = "DELETE"
 type = "featured"
 
 +++
