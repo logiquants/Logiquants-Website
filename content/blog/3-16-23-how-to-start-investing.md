@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2023-03-16T22:00:00Z
 description = "An article from LogiQuants about how to start investing."
-draft = true
 image = "/uploads/books_unsplash.png"
 tags = ["article"]
 title = "3/16/23 - How to Start Investing"
@@ -21,9 +20,10 @@ Once you have decided on the type of investment account to open, it’s time to 
 
 Depending on the type of investment account you open, there are different rules/limitations associated with transferring money into it. For example, consider the TFSA contribution room, as mentioned above. According to the CRA, the TFSA contribution room is the total amount of all of the following:
 
-* the TFSA dollar limit of the current year ($6,500 for 2023)
-* any unused TFSA contribution room from previous years
-* any withdrawals made from the TFSA in the previous year
+1. • the TFSA dollar limit of the current year ($6,500 for 2023)  
+   • any unused TFSA contribution room from previous years  
+   • any withdrawals made from the TFSA in the previous year
+2. 
 
 Therefore, a Canadian resident turning 18 years old in 2023 would have only $6,500 of TFSA contribution room. If the same 18-year-old Canadian resident chose to contribute $500 to a TFSA in 2023, the $6,000 ($6,500-$500) in unused contribution room would carry forward. Let’s imagine that the TFSA dollar limit for 2024 is $7,000. Then $6,000 in unused contribution room from 2023, along with the additional $7,000 limit in 2024, would make this individual’s total contribution room $13,000 ($6,000+$7,000). This means the individual could transfer no more than $13,000 to his/her TFSA in 2024, without any tax implications.
 
