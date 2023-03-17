@@ -13,4 +13,4 @@ title: About
 
 ##### In terms of educational background, Cameron spent 2 years studying Actuarial Science at Western University.  From there, he transferred to the University of Toronto, where he specialized in Statistics.
 
-##### Though he already knew quite a bit at the time, Cameron first began investing in 2017. He is fortunate to have learned from his grandfather, who has been trading stocks full-time for the last 15 years. In addition to his grandfather's teachings, Cameron learned as much as he could about investing during his free time.
+##### Though he already knew quite a bit at the time, Cameron first began investing in 2017. He is fortunate to have learned from his grandfather, who has been trading stocks full-time for the last 16 years. In addition to his grandfather's teachings, Cameron learned as much as he could about investing during his free time.
