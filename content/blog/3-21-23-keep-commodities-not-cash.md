@@ -5,7 +5,7 @@ description = "This is meta description"
 draft = true
 image = ""
 tags = ["article"]
-title = "3/21/23 - Keep Commodities, Not Cash"
+title = "3/21/23 - Why I'm Buying Assets Right Now"
 type = "featured"
 
 +++
