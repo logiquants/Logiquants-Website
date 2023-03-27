@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2023-03-27T03:00:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/two_stocks_unsplash_edited.jpg"
 tags = ["article"]
 title = "Two Stocks to Buy Right Now"
