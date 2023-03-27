@@ -23,4 +23,6 @@ Crescent Point Energy Corp is based in Calgary, Alberta. The company's focus is 
 
 Finally, we will consider the fundamentals of shares in Crescent Point Energy Corp. One appealing aspect of CPG shares is that they pay a dividend. The annual dividend yield is about 4.5%. What makes CPG even more attractive, however, are its price-to-earnings ratio of 3.5 and its price-to-book ratio of 0.75. These numbers indicate that the stock is likely undervalued. As noted earlier, the Canadian oil and gas industry has an average price-to-earnings ratio of 6.3 and an average profit margin of -18.03%. Did I mention that Crescent Point’s profit margin is 37.15%? CPG stock is a tempting investment at the moment; in fact, I bought more on Friday.
 
+ 
+
 ###### **Disclosure:** At the time of writing, I, Cameron Fryer, own shares of Crescent Point Energy Corp.
