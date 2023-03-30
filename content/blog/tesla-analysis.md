@@ -18,3 +18,5 @@ type = "premium"
    • If you’re down more than 20% on your TSLA shares, determine their percentage of your portfolio.  
    • any withdrawals made from the TFSA in the previous year 1.
 2. </span></span>
+   1.           • any withdrawals made from the TFSA in the previous year 1.
+   2. 
