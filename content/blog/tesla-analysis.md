@@ -17,7 +17,3 @@ type = "premium"
 1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• If you’ve gained on your investment in Tesla or lost less than 20%, consider selling some of your shares.  
    • If you’re down more than 20% on your TSLA shares, determine their percentage of your portfolio.
 2. </span></span>
-3. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     • any withdrawals made from the TFSA in the previous year
-4. </span></span>
-   1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">     • any withdrawals made from the TFSA in the previous year
-   2. </span></span>
