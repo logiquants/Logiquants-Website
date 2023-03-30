@@ -17,6 +17,5 @@ type = "premium"
 ### Verdict:
 
 1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• If you’ve gained on your investment in Tesla or lost less than 20%, consider selling some of your shares.  
-   • If you’re down more than 20% on your TSLA shares, determine their percentage of your portfolio.  
-   **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• If they make up more than 20% of your investment account, consider selling &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;some. Otherwise, hold them.
+   • If you’re down more than 20% on your TSLA shares, determine their percentage of your portfolio. If they make up more than 20% of your investment account, consider selling some. Otherwise, hold them.
 2. </span></span>
