@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2023-03-30T13:00:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/tesla-unsplash.jpg"
 tags = ["article"]
 title = "3/30/23 - Tesla Analysis"
@@ -17,5 +16,6 @@ type = "premium"
 
 1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• If you’ve gained on your investment in Tesla or lost less than 20%, consider selling some of your shares.  
    • If you’re down more than 20% on your TSLA shares, determine their percentage of your portfolio.  
-   • any withdrawals made from the TFSA in the previous year
+   1\. • any withdrawals made from the TFSA in the previous year
+   1. 
 2. </span></span>
