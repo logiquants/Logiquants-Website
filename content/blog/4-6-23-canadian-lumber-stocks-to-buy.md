@@ -37,11 +37,12 @@ Canfor Corp produces lumber, but the company also owns about half of Canfor Pulp
 
 ### Interfor Corp:
 
-* No Dividend
-* Share Price is $21.00
-* Price-to-Earnings Ratio of 1.93
-* Book Value of $39.41 Per Share
-* Profit Margin of 13.05%
-* Debt-to-Equity Ratio of 0.40
+1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• No Dividend  
+   • Share Price is $21.00  
+   • Price-to-Earnings Ratio of 1.93  
+   • Book Value of $39.41 Per Share  
+   • Profit Margin of 13.05%  
+   • Debt-to-Equity Ratio of 0.40
+2. </span></span>
 
 Interfor Corp mainly produces dimension lumber and specialty lumber. With sawmills located in Canada and the United States, Interfor sells its products worldwide. However, the United States is where a majority of the firm’s revenue comes from. It’s worth mentioning that Interfor Corp harvests some of its timber from land owned by the government of Canada. Based on how many trees are harvested, Interfor is required to pay the Canadian government.
