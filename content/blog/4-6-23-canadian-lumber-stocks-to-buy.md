@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2023-04-07T00:00:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/lumber.jpg"
 tags = ["article"]
 title = "4/6/23 - Canadian Lumber Stocks to Buy"
@@ -12,6 +11,12 @@ type = "featured"
 A couple of weeks ago, I made myself a list of Canadian Lumber companies to watch. After revisiting the list, there are 3 companies that stand out to me as good investments. Namely, West Fraser Timber Co Ltd (WFG), Canfor Corp (TSX: CFP), and Interfor Corp (TSX: IFP).
 
 ### West Fraser Timber Co Ltd:
+
+1. • Interlisted on the TSX and NYSE  
+   • Annual Dividend Yield of 1.67%  
+   • Share Price is $96.80  
+   • Price-to-Earnings Ratio of 3.44
+2. 
 
 * Interlisted on the TSX and NYSE
 * Annual Dividend Yield of 1.67%
