@@ -25,12 +25,13 @@ West Fraser Timber produces multiple different wood products. While the firm’s
 
 ### Canfor Corp:
 
-* No Dividend
-* Share Price is $20.58
-* Price-to-Earnings Ratio of 3.24
-* Book Value of $34.87 Per Share
-* Profit Margin of 10.6%
-* Debt-to-Equity Ratio of 0.07
+1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• No Dividend  
+   • Share Price is $20.58  
+   • Price-to-Earnings Ratio of 3.24  
+   • Book Value of $34.87 Per Share  
+   • Profit Margin of 10.6%  
+   • Debt-to-Equity Ratio of 0.07
+2. </span></span>
 
 Canfor Corp produces lumber, but the company also owns about half of Canfor Pulp Products Inc. Canfor Pulp’s focus is on producing pulp and paper products, with most of its revenue coming from pulp. In regard to Canfor Corp’s lumber operations, the business mainly produces wood pellets, dimension lumber, specialty lumber, and engineered wood products. Canfor has sawmills in Sweden, the United States, British Columbia, and Alberta.
 
