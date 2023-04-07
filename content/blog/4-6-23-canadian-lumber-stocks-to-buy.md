@@ -11,7 +11,7 @@ type = "featured"
 +++
 A couple of weeks ago, I made myself a list of Canadian Lumber companies to watch. After revisiting the list, there are 3 companies that stand out to me as good investments. Namely, West Fraser Timber Co Ltd (WFG), Canfor Corp (TSX: CFP), and Interfor Corp (TSX: IFP).
 
-**West Fraser Timber Co Ltd:**
+### West Fraser Timber Co Ltd:
 
 * Interlisted on the TSX and NYSE
 * Annual Dividend Yield of 1.67%
@@ -23,7 +23,7 @@ A couple of weeks ago, I made myself a list of Canadian Lumber companies to watc
 
 West Fraser Timber produces multiple different wood products. While the firm’s two main products are lumber and oriented strand board, the business also produces engineered wood products (plywood, particleboard, etc.) and treated wood products (newsprint, wood chips, etc.). West Fraser’s goods are used for industrial applications, papers, home construction, and more. The company operates in the United Kingdom, the United States, Europe and Canada.
 
-**Canfor Corp:**
+### Canfor Corp:
 
 * No Dividend
 * Share Price is $20.58
@@ -34,7 +34,7 @@ West Fraser Timber produces multiple different wood products. While the firm’s
 
 Canfor Corp produces lumber, but the company also owns about half of Canfor Pulp Products Inc. Canfor Pulp’s focus is on producing pulp and paper products, with most of its revenue coming from pulp. In regard to Canfor Corp’s lumber operations, the business mainly produces wood pellets, dimension lumber, specialty lumber, and engineered wood products. Canfor has sawmills in Sweden, the United States, British Columbia, and Alberta.
 
-**Interfor Corp:**
+### Interfor Corp:
 
 * No Dividend
 * Share Price is $21.00
