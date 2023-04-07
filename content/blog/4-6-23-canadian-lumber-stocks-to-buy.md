@@ -21,14 +21,6 @@ A couple of weeks ago, I made myself a list of Canadian Lumber companies to watc
    • Debt-to-Equity Ratio of 0.07
 2. </span></span>
 
-* Interlisted on the TSX and NYSE
-* Annual Dividend Yield of 1.67%
-* Share Price is $96.80
-* Price-to-Earnings Ratio of 3.44
-* Book Value of $122.51 Per Share
-* Profit Margin of 20.36%
-* Debt-to-Equity Ratio of 0.07
-
 West Fraser Timber produces multiple different wood products. While the firm’s two main products are lumber and oriented strand board, the business also produces engineered wood products (plywood, particleboard, etc.) and treated wood products (newsprint, wood chips, etc.). West Fraser’s goods are used for industrial applications, papers, home construction, and more. The company operates in the United Kingdom, the United States, Europe and Canada.
 
 ### Canfor Corp:
