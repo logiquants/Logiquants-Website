@@ -13,15 +13,6 @@ A couple of weeks ago, I made myself a list of Canadian Lumber companies to watc
 
 ### West Fraser Timber Co Ltd:
 
-1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• the TFSA dollar limit of the current year ($6,500 for 2023)  
-   • any unused TFSA contribution room from previous years  
-   • any withdrawals made from the TFSA in the previous year
-
-   • the TFSA dollar limit of the current year ($6,500 for 2023)  
-   • any unused TFSA contribution room from previous years  
-   • any withdrawals made from the TFSA in the previous year
-2. </span></span>
-
 * Interlisted on the TSX and NYSE
 * Annual Dividend Yield of 1.67%
 * Share Price is $96.80
