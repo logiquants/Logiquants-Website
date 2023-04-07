@@ -12,16 +12,15 @@ A couple of weeks ago, I made myself a list of Canadian Lumber companies to watc
 
 ### West Fraser Timber Co Ltd:
 
-1. • You hold $25,000+ in assets  
-   • You made 2+ equity/option trades in the prior quarter  
-   • You made 8+ equity/option trades in the prior 12-month period
+• You hold $25,000+ in assets  
+• You made 2+ equity/option trades in the prior quarter  
+• You made 8+ equity/option trades in the prior 12-month period
 
-   • dfsadfasdfasdfdsaf
+• dfsadfasdfasdfdsaf
 
-   • dfdfdfdfdfdfdfdf  
-   • You contribute $100+ to your investment account monthly  
-   • You qualify for the Young investor offer
-2. 
+• dfdfdfdfdfdfdfdf  
+• You contribute $100+ to your investment account monthly  
+• You qualify for the Young investor offer
 
 * Interlisted on the TSX and NYSE
 * Annual Dividend Yield of 1.67%
