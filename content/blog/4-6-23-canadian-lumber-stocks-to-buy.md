@@ -13,19 +13,6 @@ A couple of weeks ago, I made myself a list of Canadian Lumber companies to watc
 
 ### West Fraser Timber Co Ltd:
 
-1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• Interlisted on the TSX and NYSE  
-   • Annual Dividend Yield of 1.67%  
-   • Share Price is $96.80
-
-   • Price-to-Earnings Ratio of 3.44
-
-   • Book Value of $122.51 Per Share
-
-   • Profit Margin of 20.36%
-
-   • Debt-to-Equity Ratio of 0.07
-2. </span></span>
-
 * Interlisted on the TSX and NYSE
 * Annual Dividend Yield of 1.67%
 * Share Price is $96.80
