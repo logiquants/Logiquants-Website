@@ -15,4 +15,6 @@ type = "featured"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">While some readers may think I’m crazy to buy a company that doesn’t make money, remember the saying “no risk, no reward.” I like to take educated risks, and Lightspeed is one with great potential. The company’s sales have grown in each of the last 5 years. Moreover, management expects earnings before interest, taxes, depreciation, and amortization (EBITDA) to turn positive or break even in the next 12 months. This is promising, especially considering Lightspeed’s 1.03% debt-to-capital, its price-to-book ratio of 0.8, and its price-to-sales ratio of 3.0. These are quite low compared to the software industry’s averages of 37.96% debt-to-capital, a price-to-book ratio of 16.8, and a price-to-sales ratio of 9.4. If Lightspeed starts to make money this year, the company’s shares should perform very well.</span></span>
 
+‎
+
 ###### **Disclosure:** At the time of writing, I, Cameron Fryer, own shares of Lightspeed Commerce Inc.
