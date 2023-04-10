@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2023-04-10T22:30:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/lspd.jpg"
 tags = ["article"]
 title = "4/10/23 - Tech Stock to Watch"
