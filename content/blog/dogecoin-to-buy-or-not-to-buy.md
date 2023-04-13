@@ -2,7 +2,6 @@
 categories = ["article"]
 date = 2023-04-13T03:00:00Z
 description = "This is meta description"
-draft = true
 image = "/uploads/doge.jpg"
 tags = ["article"]
 title = "Dogecoin – to Buy or Not to Buy?"
@@ -15,4 +14,6 @@ type = "premium"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">From a technical standpoint, I like the graph of Dogecoin. The price reached an all-time high of 73.8¢ in May 2021. Now sitting at 8.33¢, the price has fallen approximately 89%. When an investment falls this much, I like to see price action off of the bottom before I will make a purchase. This is especially true when it comes to cryptocurrencies. Between the short-term momentum Dogecoin has seen recently, and about a 69% increase from its 52-week low of 4.94¢, I like the price action that I see.</span></span>
 
-DISCLOSURE
+‎
+
+###### **Disclosure:** At the time of writing, I, Cameron Fryer, own Dogecoin.
