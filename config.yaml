@@ -37,7 +37,7 @@ params:
     access_token: IGQVJVNmZAiMkh2X21RR1lGWGJra2k2ZA0dCYy04SjNNemN3RzhZANEJmang0enV6ampFZAm5ReUY4OVd5TkhkQ21xRTNPdi1iNWphSjVHX1c3WnYwdjJBX290QXFyT3NMTUpsbkc4aUVsUEl2TFZAlV2tPeQZDZD
     enable: true
   layout: '1'
-  logo: images/logo1000.png
+  logo: images/new_logo.png
   #mobile: "+90 000 333 22"
   plugins:
     css:
