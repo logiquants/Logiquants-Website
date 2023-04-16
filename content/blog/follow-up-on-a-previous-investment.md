@@ -15,4 +15,4 @@ On that note, Iamgold Corp (TSX: IMG) is an investment that I previously wrote a
 
 While I believe that shares of Iamgold will continue to rise in price, risk management is essential to making money in the stock market.
 
-DISCLOSURE
+###### **Disclosure:** At the time of writing, I, Cameron Fryer, own shares of Iamgold Corp.
