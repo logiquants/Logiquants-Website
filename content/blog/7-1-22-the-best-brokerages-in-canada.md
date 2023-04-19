@@ -30,7 +30,8 @@ type = "post"
    **◦** You made 2+ equity/option trades in the prior quarter  
    **◦** You made 8+ equity/option trades in the prior 12-month period  
    **◦** You contribute $100+ to your investment account monthly  
-   **◦** You qualify for the Young investor offer
+   **◦** You qualify for the Young investor offer  
+   **◦** You have been a client for less than one calendar quarter
 2. 
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Additional fees are charged for US dollar registered accounts (TFSA, RSP & RIF)</span></span>  
