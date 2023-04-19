@@ -30,6 +30,7 @@ type = "post"
    **◦** You made 2+ equity/option trades in the prior quarter  
    **◦** You made 8+ equity/option trades in the prior 12-month period  
    **◦** You contribute $100+ to your investment account monthly  
+   **◦** ABCDEFGHIJKLMNOPQRST  
    **◦** You qualify for the Young investor offer
 2. 
 
