@@ -77,9 +77,9 @@ type = "post"
 
 ***
 
-<span style="font-family:Times New Roman; font-size:1em;"><sup>1</sup>“Competitive Pricing and Offers - Offers.” Qtrade. Aviso Wealth. Accessed July 1, 2022. [https://www.qtrade.ca/en/investor/pricing/offers.html.](https://www.qtrade.ca/en/investor/pricing/offers.html "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html.")</span>
+<span style="font-family:Times New Roman; font-size:1em;"><sup>1</sup>“Competitive Pricing and Offers - Offers.” Qtrade. Aviso Wealth. Accessed July 1, 2022. [https://www.qtrade.ca/en/investor/pricing/offers.html.](https://www.qtrade.ca/en/investor/pricing/offers.html?partner=logiquants "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html.")</span>
 
-<span style="font-family:Times New Roman; font-size:1em;"><sup>2</sup>“Competitive Pricing and Offers - Fees.” Qtrade. Aviso Wealth. Accessed July 1, 2022. [https://www.qtrade.ca/en/investor/pricing/fees.html.](https://www.qtrade.ca/en/investor/pricing/fees.html "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html.")</span>
+<span style="font-family:Times New Roman; font-size:1em;"><sup>2</sup>“Competitive Pricing and Offers - Fees.” Qtrade. Aviso Wealth. Accessed July 1, 2022. [https://www.qtrade.ca/en/investor/pricing/fees.html.](https://www.qtrade.ca/en/investor/pricing/fees.html?partner=logiquants "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html.")</span>
 
 <span style="font-family:Times New Roman; font-size:1em;"><sup>3</sup>“Pricing.” Fees & Pricing – TD Direct Investing. TD Bank Group. Accessed July 1, 2022. [https://www.td.com/ca/en/investing/direct-investing/pricing.](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html. "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html."); “TD Easy Trade.” Commission-free trading | TD Easy Trade. TD Bank Group. Accessed July 1, 2022. [https://www.td.com/ca/en/investing/direct-investing/services/easytrade?gclid=EAIaIQobChMIy6qv4MXk-AIVQhB9Ch0x0wdkEAAYASAAEgLHOPD_BwE&gclsrc=aw.ds.](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html. "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html.")</span>
 
