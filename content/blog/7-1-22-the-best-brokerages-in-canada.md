@@ -77,7 +77,7 @@ type = "post"
 
 ***
 
-<span style="font-family:Times New Roman; font-size:1em;"><sup>1</sup>“Competitive Pricing and Offers - Offers.” Qtrade. Aviso Wealth. Accessed July 1, 2022. [https://www.qtrade.ca/en/investor/pricing/offers.html.](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html. "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html.")</span>
+<span style="font-family:Times New Roman; font-size:1em;"><sup>1</sup>“Competitive Pricing and Offers - Offers.” Qtrade. Aviso Wealth. Accessed July 1, 2022. [https://www.qtrade.ca/en/investor/pricing/offers.html.](https://www.qtrade.ca/en/investor/pricing/offers.html "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html.")</span>
 
 <span style="font-family:Times New Roman; font-size:1em;"><sup>2</sup>“Competitive Pricing and Offers - Fees.” Qtrade. Aviso Wealth. Accessed July 1, 2022. [https://www.qtrade.ca/en/investor/pricing/fees.html.](https://www.qtrade.ca/en/investor/offers/free-trades-offer.html. "https://www.qtrade.ca/en/investor/offers/free-trades-offer.html.")</span>
 
