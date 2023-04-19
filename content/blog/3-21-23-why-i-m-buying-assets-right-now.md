@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/buy_assets.jpg"
 tags = ["article"]
 title = "3/21/23 - Why I'm Buying Assets Right Now"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">With Canada’s inflation over the last couple of years, many people have realized that you shouldn’t keep your whole net worth in cash. To put things simply, your cash loses purchasing power as inflation increases. For example, a can of beans that cost about $1.25 in 2021, now costs about $1.50. Thus, the price of canned beans has increased by roughly 20% since 2021. But your cash isn’t magically able to buy 20% more items. That’s why it’s important to buy assets that will appreciate in value. Otherwise, you subject yourself to inflation risk, and there may come a time when you can no longer afford the items that you once could.</span></span>
