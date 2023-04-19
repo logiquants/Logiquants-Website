@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/spacex.jpg"
 tags = ["article"]
 title = "4/14/23 - How to Invest in SpaceX"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Space Exploration Technologies Corp, also known as SpaceX, is a company founded by Elon Musk. The 3 main focuses of the business are Starlink, space transportation, and space tourism. I’m not going to get into the details on space transportation or tourism, but for those who don’t already know, Starlink is an internet service. What’s special about Starlink is that it will provide internet to underserved/unserved areas through the use of satellites. This is a huge opportunity because almost a third of the world’s population is in unserved internet regions.</span></span>
