@@ -50,7 +50,8 @@ type = "post"
 1. **◦** The TD Direct Investing accounts belonging to your Canadian household have combined assets of $15,000+ (this can include your accounts **AND** those of friends, family, etc.)  
    **◦** You set up a monthly pre-authorized deposit/contribution or Systematic Investment Plan of $100+ for at least one of the accounts in your Canadian household  
    **◦** The investing accounts belonging to your household made a combined 3+ trades in the prior quarter  
-   **◦** There's a Registered Disability Savings Plan (RDSP) account belonging to your household
+   **◦** There's a Registered Disability Savings Plan (RDSP) account belonging to your household  
+   **◦** The first account opened within your household is in its introductory 6 months
 2. 
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** TD will pay transfer-out fees of up to $150 for those transferring $25,000+ to a new investing account (max. 4 transfers/client)</span></span>  
