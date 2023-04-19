@@ -5,7 +5,7 @@ description = "An article from LogiQuants about BlackBerry Ltd."
 image = "/uploads/bb-unsplash.jpg"
 tags = ["article"]
 title = "7/22/22 - BlackBerry of the Future"
-type = "post"
+type = "featured"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">The world is in for a rude wake-up call. Since the beginning of the COVID-19 pandemic, cybercrime and vehicle theft have both increased significantly. These are trends that I believe will only accelerate in the foreseeable future. According to Stats Canada, in 2019, the median net worth of those under the age of 35 was only $48,800.<sup>1</sup> The median net worth of every other age group was as follows: $234,400 for those 35 to 44, $521,100 for those 45 to 54, $690,000 for those 55 to 64, and $543,200 for those 65 and older.<sup>2</sup> Even though the pandemic has affected the net worth of Canadians, I doubt there's been a significant change in the median numbers from 2019.</span></span>
