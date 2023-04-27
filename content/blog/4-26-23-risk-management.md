@@ -2,7 +2,7 @@
 categories = ["article"]
 date = 2023-04-26T17:00:00Z
 description = "This is meta description"
-image = "/uploads/risk.jpg"
+image = "/uploads/riskm.jpg"
 tags = ["article"]
 title = "4/26/23 - Risk Management"
 type = "featured"
