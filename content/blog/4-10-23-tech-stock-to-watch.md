@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/lspd.jpg"
 tags = ["article"]
 title = "4/10/23 - Tech Stock to Watch"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Although the technology sector may take longer to perform than other industries, I have faith that it will come back sooner rather than later. Some tech stocks have been hammered so badly, that I’m not sure the price can fall much lower. One such stock is Lightspeed Commerce Inc (TSX: LSPD)(NYSE: LSPD). I have been trading this stock for years. In fact, I sold most of my shares at about $150 (CAD) each, back in September 2021. At the time of writing this article, shares of Lightspeed are trading at $18.65 (CAD).</span></span>
