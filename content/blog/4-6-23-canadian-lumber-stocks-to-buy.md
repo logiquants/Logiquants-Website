@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/lumber.jpg"
 tags = ["article"]
 title = "4/6/23 - Canadian Lumber Stocks to Buy"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">A couple of weeks ago, I made myself a list of Canadian Lumber companies to watch. After revisiting the list, there are 3 companies that stand out to me as good investments. Namely, West Fraser Timber Co Ltd (WFG), Canfor Corp (TSX: CFP), and Interfor Corp (TSX: IFP).</span></span>
