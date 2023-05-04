@@ -8,7 +8,7 @@ title = "Don't Miss This Canadian Tech Stock"
 type = "premium"
 
 +++
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">The last time that I traded this stock, I made about 6.5x my initial investment. I haven’t touched it ever since. But that might change pretty soon, as the chart setup looks promising (based on technical analysis). I think 2023 will be a good year for shares of BlackBerry Ltd (TSX: BB)(NYSE: BB).</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">The last time that I traded this stock, I made about 6x my initial investment. I haven’t touched it ever since. But that might change pretty soon, as the chart setup looks promising (based on technical analysis). I think 2023 will be a good year for shares of BlackBerry Ltd (TSX: BB)(NYSE: BB).</span></span>
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">For those who have yet to read my 2022 analysis of BlackBerry, [you can find it here](https://www.logiquants.ca/blog/7-22-22-blackberry-of-the-future/). In it, I mentioned that I was confident BlackBerry would do well long-term, although I was not an investor. Since then, BlackBerry reported a profit of 12 million dollars in fiscal 2022, and a loss of 734 million in fiscal 2023 (prices in USD). Compared to fiscal 2021, the company’s net income is improving.</span></span>
 
