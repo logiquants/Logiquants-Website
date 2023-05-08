@@ -11,7 +11,7 @@ type = "premium"
 #### Lucid Group Inc. (NASDAQ: LCID)
 
 1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• Up 5.33% since writing about it 1 week ago (May 1, 2023)  
-   • Read the article here  
+   • [Read the article here](https://www.logiquants.ca/blog/5-1-23-lucid-group-inc/)  
 2. </span></span>
 &nbsp;
 
