@@ -8,18 +8,44 @@ title = "5/8/23 - Free Research Recap"
 type = "premium"
 
 +++
-#### Lucid Group Inc (NASDAQ: LCID):
+#### Lucid Group Inc. (NASDAQ: LCID):
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 5.33% since writing about it 1 week ago (May 1, 2023)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
 
-#### Lucid Group Inc (NASDAQ: LCID):
+#### Lightspeed Commerce Inc. (TSX: LSPD):
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 5.33% since writing about it 1 week ago (May 1, 2023)</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 4.61% since writing about it 1 month ago (April 10, 2023)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">It’s worth noting that roughly 72% of LCID stock is owned by institutions. More importantly, the Saudi Arabian Public Investment Fund (PIF) owns about 60.5% of Lucid’s total shares outstanding. With more than $840 billion (CAD) in estimated assets, the PIF is one of the biggest sovereign wealth funds worldwide. The PIF could pretty much invest in anything. Holding 60.5% ownership in Lucid Group Inc makes it pretty clear that Saudi Arabia is confident in the company’s future. There have even been rumours that the PIF will buy the remainder of Lucid, and take the company private. If that were to happen, investors would receive a premium for their shares (which is always good).</span></span>
+#### West Fraser Timber Co Ltd. (TSX: WFG):
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">LCID stock reached an all-time high of $64.86 (USD) in February 2021. Since then, the price has decreased by 88.7%. Lucid shares are currently worth $7.32, up 20% from the all-time low of $6.09 in January (prices in USD). From January 6 to January 27 of 2023, Lucid stock went from the low of $6.09 to a high of $17.81. That’s an increase of 192.5% in less than a month. Paired with the large volume of shares traded in this time period, LCID showed very strong short-term momentum. The share price fell again in late February, and it’s been consolidating (trading within a range) ever since. If shares of Lucid start to pick up momentum again, it will be an investment that you want to own. They can appreciate very quickly.</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 6.04% since writing about it 1 month ago (April 6th, 2023)</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
+
+#### Canfor Corp (TSX: CFP):
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 5.30% since writing about it 1 month ago (April 6th, 2023)</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
+
+#### Alamos Gold Inc. (TSX: AGI):
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 85.00% since writing about it 9 months ago (August 5th, 2022)</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
+
+#### BMO Junior Gold Index ETF (TSX: ZJG):
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 45.71% since writing about it 10 months ago (July 18th, 2023)</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
+
+#### BMO Precious Metals Fund Series F (BMO95147):
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 44.55% since writing about it 10 months ago (July 18th, 2023)</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
+
+#### RBC Global Precious Metals Fund Series F (RBF614):
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 32.42% since writing about it 10 months ago (July 18th, 2023)</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Although I don’t own any LCID myself at the moment, I will be watching this stock closely.</span></span>
