@@ -13,6 +13,7 @@ type = "premium"
 1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• Up 5.33% since writing about it 1 week ago (May 1, 2023)  
    • Read the article here  
 2. </span></span>
+&nbsp;
 
 #### Lightspeed Commerce Inc. (TSX: LSPD)
 
