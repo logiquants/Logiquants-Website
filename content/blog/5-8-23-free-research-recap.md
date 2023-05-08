@@ -33,12 +33,12 @@ type = "premium"
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 85.00% since writing about it 9 months ago (August 5th, 2022)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
 
-#### BMO Junior Gold Index ETF (TSX: ZJG):
+##### BMO Junior Gold Index ETF (TSX: ZJG):
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 45.71% since writing about it 10 months ago (July 18th, 2023)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
 
-#### BMO Precious Metals Fund Series F (BMO95147):
+##### BMO Precious Metals Fund Series F (BMO95147):
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 44.55% since writing about it 10 months ago (July 18th, 2023)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
