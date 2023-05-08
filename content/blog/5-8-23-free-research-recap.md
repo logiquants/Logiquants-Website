@@ -38,12 +38,10 @@ type = "premium"
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 45.71% since writing about it 10 months ago (July 18th, 2023)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
 
-
 ##### 7. BMO Precious Metals Fund Series F (BMO95147)
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 44.55% since writing about it 10 months ago (July 18th, 2023)</span></span>  
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
-
 
 ##### 8. RBC Global Precious Metals Fund Series F (RBF614)
 
