@@ -29,7 +29,7 @@ type = "premium"
 2. </span></span>
 &nbsp;
 
-#### Canfor Corp (TSX: CFP)
+#### Canfor Corp. (TSX: CFP)
 
 1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• Up 5.30% since writing about it 1 month ago (April 6th, 2023)  
    • [Read the article here](https://www.logiquants.ca/blog/4-6-23-canadian-lumber-stocks-to-buy/)  
