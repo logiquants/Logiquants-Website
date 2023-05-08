@@ -8,7 +8,15 @@ title = "5/8/23 - Free Research Recap"
 type = "premium"
 
 +++
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Lucid Group Inc (NASDAQ: LCID) is in the electric vehicle business. The company's headquarters is in Newark, California. Currently, Lucid sells 4 different editions of its Air model (the Touring, Grand Touring, Pure & Sapphire). However, the Pure and Sapphire editions of the Air are not yet being delivered. Lucid also plans to bring its next vehicle model, Gravity, to market in 2024.</span></span>
+#### Lucid Group Inc (NASDAQ: LCID):
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 5.33% since writing about it 1 week ago (May 1, 2023)</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
+
+#### Lucid Group Inc (NASDAQ: LCID):
+
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Up 5.33% since writing about it 1 week ago (May 1, 2023)</span></span>  
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**‣** Read the article here</span></span>
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">It’s worth noting that roughly 72% of LCID stock is owned by institutions. More importantly, the Saudi Arabian Public Investment Fund (PIF) owns about 60.5% of Lucid’s total shares outstanding. With more than $840 billion (CAD) in estimated assets, the PIF is one of the biggest sovereign wealth funds worldwide. The PIF could pretty much invest in anything. Holding 60.5% ownership in Lucid Group Inc makes it pretty clear that Saudi Arabia is confident in the company’s future. There have even been rumours that the PIF will buy the remainder of Lucid, and take the company private. If that were to happen, investors would receive a premium for their shares (which is always good).</span></span>
 
