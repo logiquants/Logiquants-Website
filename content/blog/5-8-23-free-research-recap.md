@@ -2,10 +2,10 @@
 categories = ["article"]
 date = 2023-05-08T17:00:00Z
 description = "This is meta description"
-image = "/uploads/lucid.jpg"
+image = "/uploads/recap.jpg"
 tags = ["article"]
 title = "5/8/23 - Free Research Recap"
-type = "premium"
+type = "featured"
 
 +++
 #### Lucid Group Inc. (NASDAQ: LCID)
