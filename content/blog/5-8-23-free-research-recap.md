@@ -8,13 +8,13 @@ title = "5/8/23 - Free Research Recap"
 type = "premium"
 
 +++
-##### **Lucid Group Inc. (NASDAQ: LCID)**
+##### Lucid Group Inc. (NASDAQ: LCID)
 
 1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• Up 5.33% since writing about it 1 week ago (May 1, 2023)  
    • Read the article here  
 2. </span></span>
 
-##### **Lightspeed Commerce Inc.** (TSX: LSPD)
+##### Lightspeed Commerce Inc. (TSX: LSPD)
 
 1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• Up 4.61% since writing about it 1 month ago (April 10, 2023)  
    • Read the article here  
