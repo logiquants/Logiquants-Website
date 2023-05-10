@@ -16,8 +16,5 @@ type = "premium"
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Now that the risks are out of the way, let’s consider WFC's dividend and price graph. On the surface, WFC’s 15% dividend looks very attractive; however, the dividend payout ratio is not. Other than the dividend paid on March 3, 2023, the most recent dividend paid before then was on June 26, 2019. In terms of the stock’s graph, WFC reached an all-time high of $38.95 in December 2019. In the last 5 years, the lowest price that WFC has reached was $11 in July 2022. The share price is up 79% since then. While I believe this momentum will continue, the price per share of WFC currently sits at 19.70, and that’s a price I wouldn’t pay. Why? The risk-to-reward ratio isn’t optimal. Instead of buying at $19.70, I would wait and see if the share price breaks above $20.50. It may seem dumb to pay more, but WFC reached a high of $20.50/share on February 15th. Unless the share price breaks above this threshold, WFC will likely fall in price.</span></span>
 
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Verdict:
-
-Unless the stock price breaks above $20.50, I wouldn’t buy WFC. If it does break above $20.50, buy it.
-
-</span></span>
+##### Verdict:
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Unless the stock price breaks above $20.50, I wouldn’t buy WFC. If it does break above $20.50, buy it.</span></span>
