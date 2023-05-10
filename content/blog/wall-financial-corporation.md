@@ -2,7 +2,7 @@
 categories = ["article"]
 date = 2023-05-10T17:00:00Z
 description = "This is meta description"
-image = "/uploads/canadian_tech.jpg"
+image = "/uploads/wall.jpg"
 tags = ["article"]
 title = "Wall Financial Corporation"
 type = "premium"
