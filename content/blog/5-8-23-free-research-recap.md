@@ -45,20 +45,20 @@ type = "featured"
 
 #### BMO Junior Gold Index ETF (TSX: ZJG)
 
-1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• Up 45.71% since writing about it 10 months ago (July 18th, 2023)  
+1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• Up 45.71% since writing about it 10 months ago (July 18th, 2022)  
    • [Read the article here](https://www.logiquants.ca/blog/7-18-22-gold-etfs-and-mutual-funds-to-buy/)  
 2. </span></span>
 &nbsp;
 
 #### BMO Precious Metals Fund Series F (BMO95147)
 
-1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• Up 44.55% since writing about it 10 months ago (July 18th, 2023)  
+1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• Up 44.55% since writing about it 10 months ago (July 18th, 2022)  
    • [Read the article here](https://www.logiquants.ca/blog/7-18-22-gold-etfs-and-mutual-funds-to-buy/)  
 2. </span></span>
 &nbsp;
 
 #### RBC Global Precious Metals Fund Series F (RBF614)
 
-1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• Up 32.42% since writing about it 10 months ago (July 18th, 2023)  
+1. <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">• Up 32.42% since writing about it 10 months ago (July 18th, 2022)  
    • [Read the article here](https://www.logiquants.ca/blog/7-18-22-gold-etfs-and-mutual-funds-to-buy/)  
 2. </span></span>
