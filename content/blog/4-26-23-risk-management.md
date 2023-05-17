@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/riskmanagement.jpg"
 tags = ["article"]
 title = "4/26/23 - Risk Management"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Most of my recent articles have highlighted buying opportunities and my predictions for the economy/stock market. Though my opinions haven’t changed, and I believe inflation will continue to get worse, I want to emphasize risk management to LogiQuants’ readers. More specifically, it’s crucial that you never put every dollar you have into investments. Obviously, the goal is to make money and get ahead. But emotions play a role in investing, and the most successful investors can control their emotions.</span></span>
