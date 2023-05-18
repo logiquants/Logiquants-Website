@@ -2,7 +2,7 @@
 categories = ["article"]
 date = 2023-05-17T23:00:00Z
 description = "This is meta description"
-image = "/uploads/doge.jpg"
+image = "/uploads/tc.jpg"
 tags = ["article"]
 title = "TC Energy Corporation"
 type = "premium"
