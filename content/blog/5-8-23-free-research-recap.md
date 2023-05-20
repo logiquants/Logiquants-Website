@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/recap.jpg"
 tags = ["article"]
 title = "5/8/23 - Free Research Recap"
-type = "featured"
+type = "post"
 
 +++
 #### Lucid Group Inc. (NASDAQ: LCID)
