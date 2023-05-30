@@ -12,15 +12,15 @@ type = "featured"
 
 ‎
 
-### 1. DIVERSIFY
+#### 1. DIVERSIFY
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">If you have $20,000 to invest, for example, don’t put all of it into a single company. Because If you do, and that company’s share price falls, it will quickly become more difficult to stay calm. Instead, spread the $20,000 between 6-8 different investments. That way, if one of your investments loses money, it will be easier to stay calm knowing that you have others. For someone investing with $2500 or less, the best way to diversify is to buy mutual funds and/or ETFs; otherwise, it’s pretty much impossible to achieve diversification.</span></span>
 
-### 2. PLAN YOUR TRADE AND TRADE YOUR PLAN
+#### 2. PLAN YOUR TRADE AND TRADE YOUR PLAN
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Come up with a plan for every investment/trade you make and act on the plan(s), accordingly. By doing so, you are mentally preparing for the different possible outcomes of your investments. By preparing for the different outcomes, you will be more calm when they aren’t in your favour. Furthermore, your plan might even involve buying more of an investment if it falls to a certain price. For those who come up with a plan before making an investment, when emotion gets involved, it’s crucial to follow through with the original plan. Why? Well, your brain was calm when the original plan was made, and by ‘trading your plan,’ you can deter emotion from swaying your investment decisions.</span></span>
 
-### 3. HAVE THE RIGHT MINDSET
+#### 3. HAVE THE RIGHT MINDSET
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">It’s impossible to stay calm about your investments if you have unrealistic expectations. So first of all, if you think you’re going to double your money every single year, check yourself. That’s not realistic. In any given year, you should expect to either lose money or make less than 25%. After all, the TSX Composite Index had an average annualized return of about 8% from 1971 to 2021. Since your investment returns will vary depending on your risk tolerance, these numbers are only a guideline of what to expect. By setting your expectations low, you’re more likely to stay calm when investment returns aren’t good.</span></span>
 
