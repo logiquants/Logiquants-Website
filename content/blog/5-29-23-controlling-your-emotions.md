@@ -8,7 +8,7 @@ title = "5/29/23 - Controlling Your Emotions"
 type = "featured"
 
 +++
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">When the stock market is choppy, and your investments aren’t performing like you hoped they would, it’s easy to get down on yourself. This is typically when new investors get scared and sell their investments for a loss. I have seen it happen too many times, and I refer to it as ‘panic selling.’ To avoid panic selling, the key is to <b>stay calm</b>. Staying calm helps you make better decisions. Making better decisions means you're less likely to lose money. I know that staying calm is easier said than done, but I have 3 rules that will help.</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">When the stock market is choppy, and your investments aren’t performing like you hoped they would, it’s easy to get down on yourself. This is typically when new investors get scared and sell their investments for a loss. I have seen it happen too many times, and I refer to it as ‘panic selling.’ To avoid panic selling, the key is to <b>stay calm</b>. Staying calm helps you make better decisions. Making better decisions means you're less likely to lose money. I know that staying calm is sometimes easier said than done, but I have 3 rules that will help.</span></span>
 
 #### 1. DIVERSIFY
 
