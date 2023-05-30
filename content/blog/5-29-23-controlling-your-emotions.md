@@ -4,7 +4,7 @@ date = 2023-05-29T18:00:00Z
 description = "This is meta description"
 image = "/uploads/emotion.jpg"
 tags = ["article"]
-title = "5/29/23 - Controlling Your Emotion"
+title = "5/29/23 - Controlling Your Emotions"
 type = "featured"
 
 +++
