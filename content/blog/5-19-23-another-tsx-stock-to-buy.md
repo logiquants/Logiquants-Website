@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/aircraft.jpg"
 tags = ["article"]
 title = "5/19/23 - Another TSX Stock to Buy"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">I’ve watched this stock for more than 3 years, and I think it’s worth buying right now. If you believe in the airline industry long-term, then you will probably like this business. The name of the company is Chorus Aviation Inc (TSX: CHR). Headquartered in Dartmouth, Nova Scotia, Chorus’ focus is to provide the world with regional aviation. It does this through its subsidiaries. In Chorus’ own words, “[its] subsidiaries provide services that encompass every stage of a regional aircraft’s lifecycle, including: aircraft acquisition and leasing; aircraft refurbishment, engineering, modification, repurposing and transition; contract flying; aircraft and component maintenance, disassembly, and parts provisioning; and pilot training.”</span></span>
