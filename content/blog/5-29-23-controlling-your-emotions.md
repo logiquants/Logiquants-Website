@@ -11,7 +11,6 @@ type = "featured"
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">When the stock market is choppy, and your investments aren’t performing like you hoped they would, it’s easy to get down on yourself. This is typically when new investors get scared and sell their investments for a loss. I have seen it happen too many times, and I refer to it as ‘panic selling.’ To avoid panic selling, the key is to <b>stay calm</b>. Staying calm helps you make better decisions; thus, making you less likely to lose money. I know it’s easier said than done, but I have 3 rules to help achieve this.</span></span>
 
 ‎
-
 #### 1. DIVERSIFY
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">If you have $20,000 to invest, for example, don’t put all of it into a single company. Because If you do, and that company’s share price falls, it will quickly become more difficult to stay calm. Instead, spread the $20,000 between 6-8 different investments. That way, if one of your investments loses money, it will be easier to stay calm knowing that you have others. For someone investing with $2500 or less, the best way to diversify is to buy mutual funds and/or ETFs; otherwise, it’s pretty much impossible to achieve diversification.</span></span>
