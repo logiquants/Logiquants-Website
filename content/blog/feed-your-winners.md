@@ -2,7 +2,7 @@
 categories = ["article"]
 date = 2023-06-08T12:00:00Z
 description = "This is meta description"
-image = "/uploads/gold.jpg"
+image = "/uploads/feed.jpg"
 tags = ["article"]
 title = "Feed Your Winners"
 type = "premium"
