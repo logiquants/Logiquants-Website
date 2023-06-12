@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/tv.jpg"
 tags = ["article"]
 title = "6/5/23 - Former Dragons’ Den Star is Buying This Stock"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Do you remember Michael Wekerle, a former star from the show Dragons’ Den? In summary, he’s a well-established Canadian entrepreneur, and he owns the El Mocambo in Toronto. The reason I’m bringing him up today is that he owns about 9.5% of the company this article is about, Mogo Inc (TSX: MOGO)(NASDAQ: MOGO). More importantly, Mr. Wekerle sold a bunch of Mogo shares in both 2020 and 2021 but started buying again recently. On November 11, 2022, Mr. Wekerle bought 100,000 shares at a price of $0.882. Could this be a signal that now is the right time to invest in MOGO?</span></span>
