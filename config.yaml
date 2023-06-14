@@ -34,7 +34,7 @@ params:
   email: contact@logiquants.ca
   home: Home
   instafeed:
-    access_token: IGQVJVNmZAiMkh2X21RR1lGWGJra2k2ZA0dCYy04SjNNemN3RzhZANEJmang0enV6ampFZAm5ReUY4OVd5TkhkQ21xRTNPdi1iNWphSjVHX1c3WnYwdjJBX290QXFyT3NMTUpsbkc4aUVsUEl2TFZAlV2tPeQZDZD
+    access_token: IGQVJVbkpkQ3ByLTRBWXNFcGs3NFhHNlcwbWQ2TkhDdldtN2lZAYnVhSGpiLUxkTkhXNE9xSXJ6enFuMVpWcXVIUjdMYkRSY05EZAGc3VkNYNW5pc2RKN2h0aDBWbmtQOGNXM0wzYVdReVJCVktsLU1aagZDZD
     enable: true
   layout: '1'
   logo: images/last_logo.png
