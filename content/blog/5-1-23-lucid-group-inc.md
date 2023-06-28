@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/lucid.jpg"
 tags = ["article"]
 title = "5/1/23 - Lucid Group Inc"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Lucid Group Inc (NASDAQ: LCID) is in the electric vehicle business. The company's headquarters is in Newark, California. Currently, Lucid sells 4 different editions of its Air model (the Touring, Grand Touring, Pure & Sapphire). However, the Pure and Sapphire editions of the Air are not yet being delivered. Lucid also plans to bring its next vehicle model, Gravity, to market in 2024.</span></span>
