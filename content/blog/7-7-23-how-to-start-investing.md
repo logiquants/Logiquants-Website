@@ -5,7 +5,7 @@ description = "An article from LogiQuants about how to start investing."
 image = "/uploads/books_unsplash_jpg_edited.jpg"
 tags = ["article"]
 title = "7/7/23 - How to Start Investing"
-type = "post"
+type = "featured"
 
 +++
 ### **Step 1: Open an Investment Account.**
