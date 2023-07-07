@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/firsthouse.jpg"
 tags = ["article"]
 title = "5/16/23 - Use These Investment Accounts to Buy Your First Home in Canada"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Those who already do their own investing are probably aware of how a Tax-Free Savings Account (TFSA) works. But what about the First Home Savings Account (FHSA) or a Registered Retirements Savings Plan (RRSP)? If your #1 financial goal is owning a home, you’ve come to the right place. In this article, I will explain how you can use the FHSA and RRSP accounts to generate more short-term cash than would otherwise be possible with different investment accounts. That way, you will have a head start over the people who dream of owning a home but aren’t taking the most efficient path to get there. After all, there is a limited supply of housing, and the demand is growing daily. To own a home, it’s crucial that you not only work hard but also work SMART.</span></span>
