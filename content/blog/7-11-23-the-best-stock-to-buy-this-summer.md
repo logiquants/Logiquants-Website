@@ -8,7 +8,7 @@ title = "7/11/23 - The Best Stock to Buy This Summer"
 type = "featured"
 
 +++
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Westport Fuel Systems Inc (TSX: WPRT)(NASDAQ: WPRT) is based in Vancouver, British Columbia. The focus of the business is on clean transportation technology. Westport engineers, builds and supplies “clean and affordable alternative fuel systems and components for automotive applications.” With customers in 70+ countries, Westport aims to address both climate change and urban air quality.</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Westport Fuel Systems Inc (TSX: WPRT)(NASDAQ: WPRT) is based in Vancouver, British Columbia. The focus of the business is on clean transportation technology. Westport engineers, builds and supplies “clean and affordable alternative fuel systems and components for automotive applications.” With customers in 70+ countries, Westport aims to address both climate change and urban air quality. As emission regulations continue to become more strict around the world, Westport is positioned to do well.</span></span>
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Regarding shares of WPRT, I really like the graph. The moving average convergence/divergence (MACD line) is starting to look promising. A few other buy signals I look for are also beginning to appear. WPRT reached an all-time high of $496.80/share in March 2012 (prices in CAD). More recently, in February 2021, WPRT reached a high of $164.90/share. Compared to the current price of $10.30, WPRT has been significantly more expensive in the past. Don’t be surprised if this stock’s price starts to increase quickly.</span></span>
 
