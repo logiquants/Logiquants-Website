@@ -8,6 +8,6 @@ title = "Bitcoin Analysis"
 type = "premium"
 
 +++
-<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">This article is short and sweet...But I will tell you everything that you need to know.</span></span>
+<span style="color:black"><span style="font-family:Arial; font-size:1.2em;">This article is short and sweet... But it will tell you everything that you need to know.</span></span>
 
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">BUY BITCOIN! It's going to go up.</span></span>
