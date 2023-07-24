@@ -1,6 +1,6 @@
 +++
 categories = ["article"]
-date = 2023-07-24T18:30:00Z
+date = 2023-07-24T12:30:00Z
 description = "This is meta description"
 image = "/uploads/internet.jpg"
 tags = ["article"]
