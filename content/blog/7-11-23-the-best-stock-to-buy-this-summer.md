@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/westport.jpg"
 tags = ["article"]
 title = "7/11/23 - The Best Stock to Buy This Summer"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">Westport Fuel Systems Inc (TSX: WPRT)(NASDAQ: WPRT) is based in Vancouver, British Columbia. The focus of the business is on clean transportation technology. Westport engineers, builds and supplies “clean and affordable alternative fuel systems and components for automotive applications.” With customers in 70+ countries, Westport aims to address both climate change and urban air quality. As emission regulations continue to become more strict around the world, Westport is positioned to do well.</span></span>
