@@ -5,7 +5,7 @@ description = "This is meta description"
 image = "/uploads/internet.jpg"
 tags = ["article"]
 title = "7/24/23 - The Stock to Buy Today"
-type = "featured"
+type = "post"
 
 +++
 <span style="color:black"><span style="font-family:Arial; font-size:1.2em;">**Tucows Inc.** (NASDAQ: TCX)(TSX: TC) is a provider of internet services. The company’s headquarters is in Toronto, ON. Tucows’ business consists of 3 different operating divisions. The first division is **Tucows Domains** (tucowsdomains.com), “the world’s second largest domain registrar.” For those who don’t know, domain registrars are in the business of selling internet domain names. Tucow’s second operating division is **Ting Internet** (ting.com/internet). Ting’s focus is to bring fiber internet to “communities across the US, providing businesses and residents with faster, more reliable internet connectivity.” The third operating division of Tucows is **Wavelo** (wavelo.com), “a telecom SaaS start-up that revolutionizes how communication service providers (CSPs) do business.” More specifically, Wavelo provides the software “to help operators worldwide maximize value from their existing infrastructure, focus on customer experience and scale their businesses faster.” Some of Wavelo’s most notable Partnerships and Integrations are with Amazon Web Services (AWS), T-Mobile, AT&T, and Stripe.</span></span>
