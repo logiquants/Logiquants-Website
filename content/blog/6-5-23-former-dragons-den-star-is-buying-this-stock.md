@@ -2,6 +2,7 @@
 categories = ["article"]
 date = 2023-06-05T17:00:00Z
 description = "This is meta description"
+draft = true
 image = "/uploads/tv.jpg"
 tags = ["article"]
 title = "6/5/23 - Former Dragons’ Den Star is Buying This Stock"
