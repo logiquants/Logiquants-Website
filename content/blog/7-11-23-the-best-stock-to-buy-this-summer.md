@@ -2,6 +2,7 @@
 categories = ["article"]
 date = 2023-07-11T18:30:00Z
 description = "This is meta description"
+draft = true
 image = "/uploads/westport.jpg"
 tags = ["article"]
 title = "7/11/23 - The Best Stock to Buy This Summer"
