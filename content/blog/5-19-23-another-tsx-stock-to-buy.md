@@ -2,6 +2,7 @@
 categories = ["article"]
 date = 2023-05-19T17:00:00Z
 description = "This is meta description"
+draft = true
 image = "/uploads/aircraft.jpg"
 tags = ["article"]
 title = "5/19/23 - Another TSX Stock to Buy"
