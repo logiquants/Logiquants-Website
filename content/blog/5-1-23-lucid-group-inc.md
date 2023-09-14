@@ -2,6 +2,7 @@
 categories = ["article"]
 date = 2023-05-01T17:00:00Z
 description = "This is meta description"
+draft = true
 image = "/uploads/lucid.jpg"
 tags = ["article"]
 title = "5/1/23 - Lucid Group Inc"
