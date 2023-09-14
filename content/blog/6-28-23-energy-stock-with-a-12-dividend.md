@@ -2,6 +2,7 @@
 categories = ["article"]
 date = 2023-06-28T17:00:00Z
 description = "This is meta description"
+draft = true
 image = "/uploads/oil.jpg"
 tags = ["article"]
 title = "6/28/23 - Energy Stock with a 12% Dividend"
