@@ -2,6 +2,7 @@
 categories = ["article"]
 date = 2023-05-08T17:00:00Z
 description = "This is meta description"
+draft = true
 image = "/uploads/recap.jpg"
 tags = ["article"]
 title = "5/8/23 - Free Research Recap"
