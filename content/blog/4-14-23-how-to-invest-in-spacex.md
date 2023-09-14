@@ -2,6 +2,7 @@
 categories = ["article"]
 date = 2023-04-14T20:00:00Z
 description = "This is meta description"
+draft = true
 image = "/uploads/spacex.jpg"
 tags = ["article"]
 title = "4/14/23 - How to Invest in SpaceX"
