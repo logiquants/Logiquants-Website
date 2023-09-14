@@ -2,6 +2,7 @@
 categories = ["article"]
 date = 2023-07-07T14:00:00Z
 description = "An article from LogiQuants about how to start investing."
+draft = true
 image = "/uploads/books_unsplash_jpg_edited.jpg"
 tags = ["article"]
 title = "7/7/23 - How to Start Investing"
